@@ -81,7 +81,7 @@ $$
 
 BISON 采用**双层策略**架构：
 - **输入**: 低层演示 + 高层目标 $g^{hl}$，以及领域理论 $\mathcal{D} = \langle \mathcal{P}, \mathcal{A} \rangle$ 和[[标注函数]] $\mathcal{L}$
-- **高层策略（HL Policy）**: [[First-Order Logic|一阶]] condition-action 规则集，通过符号搜索（前向链）执行
+- **高层策略（HL Policy）**: [[一阶逻辑|First-Order Logic]] condition-action 规则集，通过符号搜索（前向链）执行
 - **低层策略（LL Policy）**: [[图神经网络]]（GNN），约 33,000 参数，以对象为中心
 - **输出**: 低层连续动作 $\mathbf{a}^{ll}$
 - **执行方式**: HL 策略提出高层动作 $a^{hl}$，LL 策略以此为条件生成低层动作

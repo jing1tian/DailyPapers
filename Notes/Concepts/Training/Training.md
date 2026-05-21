@@ -50,6 +50,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Training/因果必要性|因果必要性]]
 - [[Notes/Concepts/Training/因果推断|因果推断]]
 - [[Notes/Concepts/Training/对抗训练|对抗训练]]
+- [[Notes/Concepts/Training/总体训练目标|总体训练目标]]
 - [[Notes/Concepts/Training/扩散视觉损失|扩散视觉损失]]
 - [[Notes/Concepts/Training/接触力估计|接触力估计]]
 - [[Notes/Concepts/Training/数据增强|数据增强]]
@@ -62,6 +63,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Training/状态重建损失|状态重建损失]]
 - [[Notes/Concepts/Training/监督微调|监督微调]]
 - [[Notes/Concepts/Training/联合损失|联合损失]]
+- [[Notes/Concepts/Training/观察一致性|观察一致性]]
 - [[Notes/Concepts/Training/负载均衡正则化|负载均衡正则化]]
 - [[Notes/Concepts/Training/辅助目标微调|辅助目标微调]]
 
