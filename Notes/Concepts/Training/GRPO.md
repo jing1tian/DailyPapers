@@ -24,6 +24,7 @@ $$
 ## 代表工作
 - [[PRISM]]: 在 GRPO 前插入 on-policy distillation 预对齐步骤
 - [[DAPO]]: GRPO 的改进版，动态调整采样
+- [[PAPO-VLA]]: 将规划动作因果重要度融入 GRPO 优势估计，提升 VLA 策略可靠性
 
 ## 相关概念
 - [[DAPO]]

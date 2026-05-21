@@ -19,6 +19,7 @@ OpenVLA 的优化微调版本，引入并行动作解码、动作分块（action
 ## 代表工作
 
 - [[CapVector]]: 以 OpenVLA-OFT 为基础模型，验证 capability vector 的有效性
+- [[PAPO-VLA]]: 以 OpenVLA-OFT 为骨干，在 GRPO 优势估计中加入规划动作因果重要度加权
 
 ## 相关概念
 

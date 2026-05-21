@@ -12,11 +12,13 @@ generated_by: dailypaper-skills
 
 - [[Notes/Concepts/Datasets/AgiBot World|AgiBot World]]
 - [[Notes/Concepts/Datasets/CALVIN|CALVIN]]
+- [[Notes/Concepts/Datasets/ClevrSkills|ClevrSkills]]
 - [[Notes/Concepts/Datasets/DROID|DROID]]
 - [[Notes/Concepts/Datasets/EPIC-KITCHENS|EPIC-KITCHENS]]
 - [[Notes/Concepts/Datasets/Ego4D|Ego4D]]
 - [[Notes/Concepts/Datasets/EgoScale|EgoScale]]
 - [[Notes/Concepts/Datasets/HowTo100M|HowTo100M]]
+- [[Notes/Concepts/Datasets/LIBERO-Plus|LIBERO-Plus]]
 - [[Notes/Concepts/Datasets/LIBERO|LIBERO]]
 - [[Notes/Concepts/Datasets/MME|MME]]
 - [[Notes/Concepts/Datasets/MMMU|MMMU]]
