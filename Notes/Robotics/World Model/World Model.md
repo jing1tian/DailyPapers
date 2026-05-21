@@ -14,10 +14,12 @@ generated_by: dailypaper-skills
 
 ## 当前目录笔记
 
+- [[Notes/Robotics/World Model/CoME|CoME]]
 - [[Notes/Robotics/World Model/FeedbackWM|FeedbackWM]]
 - [[Notes/Robotics/World Model/HYWorld2|HYWorld2]]
 - [[Notes/Robotics/World Model/LeWM|LeWM]]
 - [[Notes/Robotics/World Model/OrbiSim|OrbiSim]]
+- [[Notes/Robotics/World Model/SWEET|SWEET]]
 - [[Notes/Robotics/World Model/WAM-Survey|WAM-Survey]]
 - [[Notes/Robotics/World Model/WAMSurvey|WAMSurvey]]
 - [[Notes/Robotics/World Model/WMRobotSurvey|WMRobotSurvey]]
