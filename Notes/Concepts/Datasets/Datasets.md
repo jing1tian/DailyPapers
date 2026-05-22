@@ -11,12 +11,14 @@ generated_by: dailypaper-skills
 ## 当前目录笔记
 
 - [[Notes/Concepts/Datasets/AgiBot World|AgiBot World]]
+- [[Notes/Concepts/Datasets/BridgeV2|BridgeV2]]
 - [[Notes/Concepts/Datasets/CALVIN|CALVIN]]
 - [[Notes/Concepts/Datasets/ClevrSkills|ClevrSkills]]
 - [[Notes/Concepts/Datasets/DROID|DROID]]
 - [[Notes/Concepts/Datasets/EPIC-KITCHENS|EPIC-KITCHENS]]
 - [[Notes/Concepts/Datasets/Ego4D|Ego4D]]
 - [[Notes/Concepts/Datasets/EgoScale|EgoScale]]
+- [[Notes/Concepts/Datasets/FurnitureBench|FurnitureBench]]
 - [[Notes/Concepts/Datasets/HowTo100M|HowTo100M]]
 - [[Notes/Concepts/Datasets/LIBERO-Plus|LIBERO-Plus]]
 - [[Notes/Concepts/Datasets/LIBERO|LIBERO]]
@@ -32,6 +34,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Datasets/RECON|RECON]]
 - [[Notes/Concepts/Datasets/RealEstate10K|RealEstate10K]]
 - [[Notes/Concepts/Datasets/RoboCasa|RoboCasa]]
+- [[Notes/Concepts/Datasets/RoboChallenge|RoboChallenge]]
 - [[Notes/Concepts/Datasets/RoboTwin 2.0|RoboTwin 2.0]]
 - [[Notes/Concepts/Datasets/RoboTwin|RoboTwin]]
 - [[Notes/Concepts/Datasets/RoboTwin2|RoboTwin2]]
