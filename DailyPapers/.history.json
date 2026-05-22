@@ -378,5 +378,85 @@
     "id": "2605.19631",
     "date": "2026-05-21",
     "title": "HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models"
+  },
+  {
+    "id": "2605.20774",
+    "date": "2026-05-22",
+    "title": "VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of Vision-Language-Action Models"
+  },
+  {
+    "id": "2605.20752",
+    "date": "2026-05-22",
+    "title": "GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation"
+  },
+  {
+    "id": "2605.21414",
+    "date": "2026-05-22",
+    "title": "PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction"
+  },
+  {
+    "id": "2605.21273",
+    "date": "2026-05-22",
+    "title": "DriveMA: Rethinking Language Interfaces in Driving VLAs with One-Step Meta-Actions"
+  },
+  {
+    "id": "2605.15157",
+    "date": "2026-05-22",
+    "title": "Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation via Seamless Hand-Arm Intervention"
+  },
+  {
+    "id": "2605.21446",
+    "date": "2026-05-22",
+    "title": "Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs"
+  },
+  {
+    "id": "2605.21061",
+    "date": "2026-05-22",
+    "title": "Grounding Driving VLA via Inverse Kinematics"
+  },
+  {
+    "id": "2602.18532",
+    "date": "2026-05-22",
+    "title": "VLANeXt: Recipes for Building Strong VLA Models"
+  },
+  {
+    "id": "2603.14392",
+    "date": "2026-05-22",
+    "title": "WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems"
+  },
+  {
+    "id": "2605.18739",
+    "date": "2026-05-22",
+    "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation"
+  },
+  {
+    "id": "2605.20566",
+    "date": "2026-05-22",
+    "title": "Conflict-Aware Active Perception and Control in 3D Gaussian Splatting Fields via Control Barrier Functions"
+  },
+  {
+    "id": "2605.11151",
+    "date": "2026-05-22",
+    "title": "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking"
+  },
+  {
+    "id": "2605.21072",
+    "date": "2026-05-22",
+    "title": "Q-ARVD: Quantizing Autoregressive Video Diffusion Models"
+  },
+  {
+    "id": "2605.14201",
+    "date": "2026-05-22",
+    "title": "MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving"
+  },
+  {
+    "id": "2605.20811",
+    "date": "2026-05-22",
+    "title": "Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation"
+  },
+  {
+    "id": "2605.09586",
+    "date": "2026-05-22",
+    "title": "DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos"
   }
 ]
