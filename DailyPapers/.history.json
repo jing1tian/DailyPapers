@@ -458,5 +458,90 @@
     "id": "2605.09586",
     "date": "2026-05-22",
     "title": "DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos"
+  },
+  {
+    "id": "2605.22812",
+    "date": "2026-05-23",
+    "title": "GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations"
+  },
+  {
+    "id": "2605.22446",
+    "date": "2026-05-23",
+    "title": "Pre-VLA: Preemptive Runtime Verification for Reliable VLA and World-Model Rollouts"
+  },
+  {
+    "id": "2605.22283",
+    "date": "2026-05-23",
+    "title": "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action (SOMA)"
+  },
+  {
+    "id": "2605.21854",
+    "date": "2026-05-23",
+    "title": "CrossVLA: Cross-Paradigm Post-Training and Inference Optimization for VLA"
+  },
+  {
+    "id": "2605.22671",
+    "date": "2026-05-23",
+    "title": "From Abstraction to Instantiation: Learning Behavioral Representation for VLA (BehaviorVLA)"
+  },
+  {
+    "id": "2605.21572",
+    "date": "2026-05-23",
+    "title": "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation"
+  },
+  {
+    "id": "2605.21862",
+    "date": "2026-05-23",
+    "title": "EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder"
+  },
+  {
+    "id": "2605.21800",
+    "date": "2026-05-23",
+    "title": "stable-worldmodel: A Platform for Reproducible World Modeling Research"
+  },
+  {
+    "id": "2605.22164",
+    "date": "2026-05-23",
+    "title": "Beyond Euclidean Proximity: Repairing Latent World Models with Horizon-Matched Trajectory Reachability"
+  },
+  {
+    "id": "2605.16457",
+    "date": "2026-05-23",
+    "title": "Identifiable Token Correspondence for World Models (ITC)"
+  },
+  {
+    "id": "2511.07820",
+    "date": "2026-05-23",
+    "title": "SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control"
+  },
+  {
+    "id": "2605.22183",
+    "date": "2026-05-23",
+    "title": "Action with Visual Primitives (AVP)"
+  },
+  {
+    "id": "2605.22089",
+    "date": "2026-05-23",
+    "title": "LVDrive: Latent Visual Representation Enhanced VLA for Autonomous Driving"
+  },
+  {
+    "id": "2510.22200",
+    "date": "2026-05-23",
+    "title": "LongCat-Video Technical Report"
+  },
+  {
+    "id": "2605.21935",
+    "date": "2026-05-23",
+    "title": "Learning to Evolve: Multi-modal Interactive Fields for Robust Humanoid Navigation (MIF)"
+  },
+  {
+    "id": "2605.22011",
+    "date": "2026-05-23",
+    "title": "Rethinking Token Reduction for Diffusion Models via Output-Similarity-Awareness (DiTo)"
+  },
+  {
+    "id": "2605.22020",
+    "date": "2026-05-23",
+    "title": "ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting"
   }
 ]

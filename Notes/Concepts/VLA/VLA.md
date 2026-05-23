@@ -37,6 +37,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/VLA/VLM|VLM]]
 - [[Notes/Concepts/VLA/Vision-Language-Action Model|Vision-Language-Action Model]]
 - [[Notes/Concepts/VLA/World Model|World Model]]
+- [[Notes/Concepts/VLA/WorldVLA|WorldVLA]]
 - [[Notes/Concepts/VLA/X-VLA|X-VLA]]
 - [[Notes/Concepts/VLA/π0.5|π0.5]]
 - [[Notes/Concepts/VLA/π0|π0]]
