@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [Finite Scalar Quantization]
+aliases: [Finite Scalar Quantization, 有限标量量化, FSQ量化]
 ---
 
 # FSQ

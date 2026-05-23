@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [PPO, Proximal Policy Optimization]
+aliases: [PPO, Proximal Policy Optimization, 近端策略优化]
 ---
 
 # PPO (Proximal Policy Optimization)
@@ -22,6 +22,7 @@ $$
 
 ## 代表工作
 - Schulman et al. (2017): "Proximal Policy Optimization Algorithms"
+- [[SONIC]]：大规模人形机器人运动跟踪，PPO 训练主干算法
 
 ## 相关概念
 - [[GRPO]]

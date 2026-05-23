@@ -21,6 +21,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/PAPO-VLA|PAPO-VLA]]
 - [[Notes/Robotics/VLA/RLDX-1|RLDX-1]]
 - [[Notes/Robotics/VLA/RoVLA|RoVLA]]
+- [[Notes/Robotics/VLA/SOMA|SOMA]]
 - [[Notes/Robotics/VLA/VLA-REPLICA|VLA-REPLICA]]
 - [[Notes/Robotics/VLA/WorldVLN|WorldVLN]]
 
