@@ -23,6 +23,7 @@ $$
 
 ## 代表工作
 - [[D-OPSD]]: 用 LoRA 对 step-distilled 扩散模型做参数高效 on-policy 微调
+- [[CoME]]: 使用 LoRA（rank 8-64）实现测试时微调长期记忆，隐式正则化防止灾难遗忘
 
 ## 相关概念
 - [[Diffusion Model]]

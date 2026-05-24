@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [EMA, Exponential Moving Average, Momentum Encoder, Target Network]
+aliases: [EMA, Exponential Moving Average, Momentum Encoder, Target Network, 指数移动平均]
 ---
 
 # Exponential Moving Average (EMA)
@@ -21,6 +21,7 @@ $$
 ## 代表工作
 - BYOL, MoCo, DINO, I-JEPA
 - [[LeWM]]：表明 EMA 不是必需的
+- [[SOMA]]：使用自适应 EMA 实现空间记忆的动态精炼，融合系数由语义相似度自动调节
 
 ## 相关概念
 - [[Stop Gradient]]

@@ -20,6 +20,7 @@ aliases: [世界模型, WM]
 - [[PLDM]]：端到端但 7 项 loss
 - [[Dreamer]] 系列：像素重建型
 - [[WAM-Survey]]：首篇系统综述将世界模型与动作生成统一为 WAM 范式
+- [[WMRobotSurvey]]：NTU/Berkeley 团队综述，从策略集成、RL 仿真器、视频生成三轴系统梳理机器人学习世界模型
 
 ## 相关概念
 - [[JEPA]]

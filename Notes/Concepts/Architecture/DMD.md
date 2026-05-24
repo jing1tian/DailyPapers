@@ -27,6 +27,7 @@ $$
 ## 代表工作
 - [[CDM]]: 连续时间版本的 DMD，理论上消除时间离散化误差
 - [[MARBLE]]: 在 DMD 框架基础上做多奖励 RL fine-tuning
+- [[HYWorld2]]: WorldStereo 2.0 使用 DMD 将多步扩散模型蒸馏为 4 步快速推理的学生模型
 
 ## 相关概念
 - [[Diffusion Model]]

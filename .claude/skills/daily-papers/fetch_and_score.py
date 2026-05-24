@@ -4,6 +4,11 @@ fetch_and_score.py — Phase 1+2: Fetch, score, merge, dedup, select top 30.
 
 Replaces the two LLM Task Agents with pure Python. Zero token cost.
 
+arXiv source uses per-category RSS feeds (rss.arxiv.org) instead of the
+export.arxiv.org/api/query endpoint to avoid frequent rate limiting. RSS
+covers only the latest announcement day per category; multi-day windows
+still rely on HuggingFace for older dates.
+
 Usage:
     python3 fetch_and_score.py > /tmp/daily_papers_top30.json
     python3 fetch_and_score.py --date 2026-02-25 > /tmp/daily_papers_top30.json
@@ -222,93 +227,122 @@ def fetch_hf_papers(start_date=None, end_date=None) -> list[dict]:
     return result
 
 
+_ABSTRACT_PREFIX_RE = re.compile(
+    r"^arXiv:[\w\.\-/]+\s+Announce Type:\s*\w+\s*", re.IGNORECASE
+)
+
+
+def _clean_rss_abstract(summary: str) -> str:
+    """Strip 'arXiv:XXXX.XXXXX Announce Type: new\\nAbstract: ...' prefix from RSS summary."""
+    text = " ".join(summary.split())
+    text = _ABSTRACT_PREFIX_RE.sub("", text)
+    if text.lower().startswith("abstract:"):
+        text = text[len("abstract:"):].lstrip()
+    return text
+
+
 def fetch_arxiv_papers(start_date=None, end_date=None, days: int = 1) -> list[dict]:
-    max_results = min(400 * days, 3000)
-    cats = "+OR+".join(f"cat:{c}" for c in ARXIV_CATEGORIES)
-    url = (
-        f"https://export.arxiv.org/api/query?"
-        f"search_query=({cats})"
-        f"&sortBy=submittedDate&sortOrder=descending&max_results={max_results}"
-    )
+    """Fetch new arXiv papers via per-category RSS feeds (rss.arxiv.org).
 
-    timeout = max(60, 30 * days)
-    print(f"  Fetching arXiv (max_results={max_results}, timeout={timeout}s)...", file=sys.stderr)
-    xml_text = fetch_url(url, timeout=timeout)
-    if not xml_text:
-        return []
+    The RSS feed covers the most recent announcement day for each category, so
+    multi-day mode still only returns one day of arXiv submissions. HuggingFace
+    sources cover the rest of the window. RSS avoids the strict rate limits on
+    export.arxiv.org/api/query.
+    """
+    papers: dict[str, dict] = {}  # arxiv_id → paper (dedup across categories)
+    total_entries = 0
+    skipped_replace = 0
 
-    try:
-        root = ET.fromstring(xml_text)
-    except ET.ParseError as e:
-        print(f"  [WARN] arXiv XML parse error: {e}", file=sys.stderr)
-        return []
-
-    papers = []
-    filtered_by_date = 0
-    for entry in root.findall("atom:entry", ATOM_NS):
-        title_el = entry.find("atom:title", ATOM_NS)
-        summary_el = entry.find("atom:summary", ATOM_NS)
-        published_el = entry.find("atom:published", ATOM_NS)
-        id_el = entry.find("atom:id", ATOM_NS)
-
-        if title_el is None or summary_el is None:
+    for cat in ARXIV_CATEGORIES:
+        url = f"https://rss.arxiv.org/atom/{cat}"
+        print(f"  Fetching arXiv RSS {cat}...", file=sys.stderr)
+        xml_text = fetch_url(url, timeout=30)
+        if not xml_text:
             continue
 
-        title = " ".join(title_el.text.split())
-        abstract = " ".join(summary_el.text.split())
-        entry_url = id_el.text.strip() if id_el is not None else ""
-        date = published_el.text[:10] if published_el is not None else ""
-        arxiv_id = entry_url.split("/abs/")[-1] if "/abs/" in entry_url else ""
+        try:
+            root = ET.fromstring(xml_text)
+        except ET.ParseError as e:
+            print(f"  [WARN] arXiv RSS parse error ({cat}): {e}", file=sys.stderr)
+            continue
 
-        # Date filter: only apply in multi-day mode (days > 1)
-        # In single-day mode, arXiv batches span 2-3 days, so filtering would be too strict
-        if days > 1 and start_date and end_date and date:
-            try:
-                pub_date = datetime.strptime(date, "%Y-%m-%d").date()
-                if pub_date < start_date or pub_date > end_date:
-                    filtered_by_date += 1
-                    continue
-            except ValueError:
-                pass  # keep papers with unparseable dates
+        for entry in root.findall("atom:entry", ATOM_NS):
+            total_entries += 1
+            title_el = entry.find("atom:title", ATOM_NS)
+            summary_el = entry.find("atom:summary", ATOM_NS)
+            published_el = entry.find("atom:published", ATOM_NS)
 
-        author_els = entry.findall("atom:author", ATOM_NS)
-        names = []
-        affiliations = set()
-        for a in author_els:
-            name_el = a.find("atom:name", ATOM_NS)
-            if name_el is not None and name_el.text:
-                names.append(name_el.text.strip())
-            for aff_el in a.findall("arxiv:affiliation", ATOM_NS):
-                if aff_el.text and aff_el.text.strip():
-                    affiliations.add(aff_el.text.strip())
+            if title_el is None or summary_el is None:
+                continue
 
-        cat_el = entry.find("arxiv:primary_category", ATOM_NS)
-        category = cat_el.get("term", "") if cat_el is not None else ""
+            # Skip "replace" announcements (paper updates); keep "new" and "cross"
+            announce_el = entry.find("arxiv:announce_type", ATOM_NS)
+            announce_type = (announce_el.text or "").strip() if announce_el is not None else ""
+            if announce_type == "replace":
+                skipped_replace += 1
+                continue
 
-        papers.append({
-            "title": title,
-            "authors": ", ".join(names),
-            "affiliations": ", ".join(sorted(affiliations)) if affiliations else "",
-            "abstract": abstract,
-            "url": entry_url,
-            "pdf": f"https://arxiv.org/pdf/{arxiv_id}" if arxiv_id else "",
-            "date": date,
-            "score": 0,
-            "category": category,
-            "source": "arxiv",
-        })
+            # Prefer the <link rel="alternate"> href; fall back to <id>
+            entry_url = ""
+            for link_el in entry.findall("atom:link", ATOM_NS):
+                if link_el.get("rel") in (None, "alternate") and link_el.get("href"):
+                    entry_url = link_el.get("href").strip()
+                    break
+            if not entry_url:
+                id_el = entry.find("atom:id", ATOM_NS)
+                if id_el is not None and id_el.text:
+                    # id form: oai:arXiv.org:2605.15298v1
+                    m = re.search(r"arXiv\.org:([\w\.\-/]+?)(v\d+)?$", id_el.text.strip())
+                    if m:
+                        entry_url = f"https://arxiv.org/abs/{m.group(1)}"
 
-    scored = []
-    for p in papers:
-        p["score"] = score_paper(p)
-        if p["score"] >= 0:
-            scored.append(p)
+            arxiv_id_full = entry_url.split("/abs/")[-1] if "/abs/" in entry_url else ""
+            arxiv_id = re.sub(r"v\d+$", "", arxiv_id_full)
+            if not arxiv_id:
+                continue
 
+            title = " ".join(title_el.text.split())
+            abstract = _clean_rss_abstract(summary_el.text or "")
+            date = published_el.text[:10] if published_el is not None and published_el.text else ""
+
+            # Authors live in <dc:creator> as a comma-separated string in RSS
+            dc_ns = "{http://purl.org/dc/elements/1.1/}"
+            creator_el = entry.find(f"{dc_ns}creator")
+            authors = ""
+            if creator_el is not None and creator_el.text:
+                authors = ", ".join(n.strip() for n in creator_el.text.split(",") if n.strip())
+
+            # First <category term="..."> is the primary
+            cat_el = entry.find("atom:category", ATOM_NS)
+            category = cat_el.get("term", "") if cat_el is not None else cat
+
+            paper = {
+                "title": title,
+                "authors": authors,
+                "affiliations": "",
+                "abstract": abstract,
+                "url": f"https://arxiv.org/abs/{arxiv_id}",
+                "pdf": f"https://arxiv.org/pdf/{arxiv_id}",
+                "date": date,
+                "score": 0,
+                "category": category,
+                "source": "arxiv",
+            }
+            paper["score"] = score_paper(paper)
+            if paper["score"] < 0:
+                continue
+
+            if arxiv_id not in papers or paper["score"] > papers[arxiv_id]["score"]:
+                papers[arxiv_id] = paper
+
+    result = list(papers.values())
     print(
-        f"  arXiv: {len(scored)} papers after scoring (from {len(papers)} parsed, {filtered_by_date} filtered by date)",
+        f"  arXiv RSS: {len(result)} papers after scoring "
+        f"(from {total_entries} entries across {len(ARXIV_CATEGORIES)} categories, "
+        f"{skipped_replace} 'replace' skipped)",
         file=sys.stderr,
     )
-    return scored
+    return result
 
 
 # ── Merge & Dedup ──────────────────────────────────────────────────────────

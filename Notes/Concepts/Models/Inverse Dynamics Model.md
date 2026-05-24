@@ -13,3 +13,4 @@ created: 2026-05-09
 
 - VPT (OpenAI Minecraft)
 - [[RLDX-1]]: 用 IDM 给 Cosmos-Predict2 生成的合成视频打动作标签，扩充 GR-1 humanoid 训练数据。
+- [[WMRobotSurvey]]: 系统梳理 IDM 式解耦策略范式（UniPi、VidMan、Vidar、TC-IDM），归纳中间表示从像素→潜在→结构化的演化。
