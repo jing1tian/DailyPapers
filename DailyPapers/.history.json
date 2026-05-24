@@ -543,5 +543,15 @@
     "id": "2605.22020",
     "date": "2026-05-23",
     "title": "ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting"
+  },
+  {
+    "id": "2605.22791",
+    "date": "2026-05-24",
+    "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention"
+  },
+  {
+    "id": "2605.18747",
+    "date": "2026-05-24",
+    "title": "Code as Agent Harness"
   }
 ]
