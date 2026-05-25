@@ -32,6 +32,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Models/PaliGemma|PaliGemma]]
 - [[Notes/Concepts/Models/Pi05|Pi05]]
 - [[Notes/Concepts/Models/PickScore|PickScore]]
+- [[Notes/Concepts/Models/Qwen2.5-VL|Qwen2.5-VL]]
 - [[Notes/Concepts/Models/Qwen3-8B|Qwen3-8B]]
 - [[Notes/Concepts/Models/Qwen3-VL|Qwen3-VL]]
 - [[Notes/Concepts/Models/SigLIP|SigLIP]]

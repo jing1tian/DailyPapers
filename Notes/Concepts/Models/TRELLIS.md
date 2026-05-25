@@ -16,6 +16,7 @@ aliases: [TRELLIS 3D, TRELLIS Generation]
 
 ## 代表工作
 - [[PhysForge]]: 与 TRELLIS 对比，显示在物理感知 3D 生成上的优势
+- [[PhysX-Omni]]: 使用 TRELLIS 作为体素到高质量网格的解码器模块
 
 ## 相关概念
 - [[3D Gaussian Splatting]]

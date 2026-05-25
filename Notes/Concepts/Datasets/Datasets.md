@@ -31,6 +31,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Datasets/OXE|OXE]]
 - [[Notes/Concepts/Datasets/Open-X-Embodiment|Open-X-Embodiment]]
 - [[Notes/Concepts/Datasets/PartNet|PartNet]]
+- [[Notes/Concepts/Datasets/PhysXVerse|PhysXVerse]]
 - [[Notes/Concepts/Datasets/RECON|RECON]]
 - [[Notes/Concepts/Datasets/RealEstate10K|RealEstate10K]]
 - [[Notes/Concepts/Datasets/RoboCasa|RoboCasa]]

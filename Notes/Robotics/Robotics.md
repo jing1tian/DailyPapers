@@ -17,6 +17,7 @@ generated_by: dailypaper-skills
 
 - [[Notes/Robotics/BISON|BISON]]
 - [[Notes/Robotics/HumanNet|HumanNet]]
+- [[Notes/Robotics/PhysX-Omni|PhysX-Omni]]
 - [[Notes/Robotics/SONIC|SONIC]]
 
 ## 说明
