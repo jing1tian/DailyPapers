@@ -553,5 +553,10 @@
     "id": "2605.18747",
     "date": "2026-05-24",
     "title": "Code as Agent Harness"
+  },
+  {
+    "id": "2507.19457",
+    "date": "2026-05-25",
+    "title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning"
   }
 ]
