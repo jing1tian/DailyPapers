@@ -25,6 +25,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/COCONUT|COCONUT]]
 - [[Notes/Concepts/Architecture/Cascaded WAM|Cascaded WAM]]
 - [[Notes/Concepts/Architecture/CausVid|CausVid]]
+- [[Notes/Concepts/Architecture/CogVideoX|CogVideoX]]
 - [[Notes/Concepts/Architecture/Cognition Token|Cognition Token]]
 - [[Notes/Concepts/Architecture/Cross-Attention|Cross-Attention]]
 - [[Notes/Concepts/Architecture/Cross-Entropy Method|Cross-Entropy Method]]
