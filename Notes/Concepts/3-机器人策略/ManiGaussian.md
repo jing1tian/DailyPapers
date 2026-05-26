@@ -16,6 +16,7 @@ aliases: [Manipulation with Gaussian Splatting]
 ## 代表工作
 - [[ManiGaussian]]：3DGS-based 操控策略对比基线
 - [[EvoScene-VLA]]：以 ManiGaussian 为对比，提出场景信念解码器方案
+- [[GAF]]：将 ManiGaussian 作为 V-3D-A 范式基线，GAF 的 PSNR 高出 +11.54 dB，成功率高出 +10.3%
 
 ## 相关概念
 - [[3D Gaussian Splatting]]

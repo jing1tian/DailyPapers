@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [FR3, Franka Research 3, Franka Emika Research 3]
+aliases: [FR3, Franka Research 3, Franka Emika Research 3, Franka Panda, Panda]
 ---
 
 # Franka Research 3
@@ -16,6 +16,7 @@ Franka Robotics 推出的 7 自由度研究用机械臂，是目前学术界最�
 
 ## 代表工作
 - [[RoVLA]]: 使用 FR3 + 腕部摄像头进行 5 项真实桌面操作任务评测
+- [[GAF]]: 使用 Franka Panda 机械臂配合 3 个相机（2 静态 + 1 腕部）进行真实世界 55 次操作评测
 - 大量 VLA 真实世界实验的标准平台
 
 ## 相关概念

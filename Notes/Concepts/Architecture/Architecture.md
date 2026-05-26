@@ -78,6 +78,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/SSIM|SSIM]]
 - [[Notes/Concepts/Architecture/Space-Time Self-Similarity|Space-Time Self-Similarity]]
 - [[Notes/Concepts/Architecture/Stream Masking|Stream Masking]]
+- [[Notes/Concepts/Architecture/TesserACT|TesserACT]]
 - [[Notes/Concepts/Architecture/UniPi|UniPi]]
 - [[Notes/Concepts/Architecture/V-JEPA|V-JEPA]]
 - [[Notes/Concepts/Architecture/Vid2World|Vid2World]]

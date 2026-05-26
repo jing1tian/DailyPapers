@@ -14,6 +14,7 @@ generated_by: dailypaper-skills
 
 ## 当前目录笔记
 
+- [[Notes/Robotics/VLA/Agentic-VLA|Agentic-VLA]]
 - [[Notes/Robotics/VLA/COAST|COAST]]
 - [[Notes/Robotics/VLA/CapVector|CapVector]]
 - [[Notes/Robotics/VLA/DyGRO-VLA|DyGRO-VLA]]
