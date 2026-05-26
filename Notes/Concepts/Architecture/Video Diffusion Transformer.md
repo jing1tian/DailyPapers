@@ -19,6 +19,7 @@ Video Diffusion Transformer（Video DiT）是将 Diffusion Model 的去噪过程
 ## 代表工作
 
 - [[HYWorld2]]: WorldStereo 2.0 以 Video DiT 为主干，配合 GGM 和 SSM++ 记忆机制实现多视图一致性世界扩展
+- [[GEM-4D]]: 以 Video DiT 为视频生成主干，并行几何 DiT 仅以视频中间特征 $m_t$ 为条件，实现零推理代价的几何一致性注入
 
 ## 相关概念
 

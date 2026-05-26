@@ -33,6 +33,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Datasets/PartNet|PartNet]]
 - [[Notes/Concepts/Datasets/PhysXVerse|PhysXVerse]]
 - [[Notes/Concepts/Datasets/RECON|RECON]]
+- [[Notes/Concepts/Datasets/RLBench|RLBench]]
 - [[Notes/Concepts/Datasets/RealEstate10K|RealEstate10K]]
 - [[Notes/Concepts/Datasets/RoboCasa|RoboCasa]]
 - [[Notes/Concepts/Datasets/RoboChallenge|RoboChallenge]]

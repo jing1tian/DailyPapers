@@ -39,7 +39,7 @@ WAM 两大范式的分解：
 - [[WAMSurvey]]: 首篇系统性综述，提出正式定义与分类法
 - **Cascaded WAM**: UniPi, VLP, AVDC, VPP, LAPA, S-VAM
 - **Joint WAM (Auto-regressive)**: GR-1, GR-2, CoT-VLA, WorldVLA, VLA-JEPA
-- **Joint WAM (Diffusion)**: PAD, UWM, DreamZero, Cosmos Policy, FLARE, Motus
+- **Joint WAM (Diffusion)**: PAD, UWM, DreamZero, Cosmos Policy, FLARE, Motus, [[JOPAT]]
 
 ## 相关概念
 
