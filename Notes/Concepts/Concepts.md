@@ -26,7 +26,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Datasets/Datasets|Datasets]] · 31 篇笔记 · 0 个子目录
 - [[Notes/Concepts/Models/Models|Models]] · 31 篇笔记 · 0 个子目录
 - [[Notes/Concepts/Training/Training|Training]] · 61 篇笔记 · 0 个子目录
-- [[Notes/Concepts/VLA/VLA|VLA]] · 37 篇笔记 · 0 个子目录
+- [[Notes/Concepts/VLA/VLA|VLA]] · 39 篇笔记 · 0 个子目录
 
 ## 说明
 
