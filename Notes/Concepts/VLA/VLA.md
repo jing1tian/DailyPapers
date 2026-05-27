@@ -18,6 +18,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/VLA/Diffusion Policy|Diffusion Policy]]
 - [[Notes/Concepts/VLA/EVOLVE-VLA|EVOLVE-VLA]]
 - [[Notes/Concepts/VLA/GR00T N1.5|GR00T N1.5]]
+- [[Notes/Concepts/VLA/GR00T-N1|GR00T-N1]]
 - [[Notes/Concepts/VLA/GR00T|GR00T]]
 - [[Notes/Concepts/VLA/LaRA-VLA|LaRA-VLA]]
 - [[Notes/Concepts/VLA/MemoryVLA|MemoryVLA]]
