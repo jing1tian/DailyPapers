@@ -18,6 +18,7 @@ SparseVLM 是一种 VLM 推理加速方法，通过文本引导的稀疏化策�
 ## 代表工作
 
 - [[SparseVLM]]（原方法）: 文本引导稀疏视觉 token
+- [[VLA-Pruner]]: 指出 SparseVLM 直接用于 VLA 会因语义-动作差异导致性能下降，提出双流重要性估计
 
 ## 相关概念
 

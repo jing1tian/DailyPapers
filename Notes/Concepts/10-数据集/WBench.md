@@ -18,7 +18,7 @@ WBench 是 Fudan University 和 Meituan LongCat Team 提出的交互式视频世
 
 ## 代表工作
 
-- Ying et al. 2026: WBench 论文（arXiv 2605.25874）
+- [[WBench]]: 完整论文笔记（Ying et al. 2026, arXiv 2605.25874）
 
 ## 相关概念
 

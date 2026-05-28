@@ -18,6 +18,7 @@ DivPrune 是一种基于多样性的视觉 token 剪枝方法，保留语义多�
 ## 代表工作
 
 - [[DivPrune]]（原方法）: 多样性驱动 token 剪枝
+- [[VLA-Pruner]]: 在 Combine-then-Filter 中借鉴多样性去冗余思路，并补充动作相关重要性估计
 
 ## 相关概念
 

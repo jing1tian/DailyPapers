@@ -25,6 +25,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Training/FOMAML|FOMAML]]
 - [[Notes/Concepts/Training/Flow Matching|Flow Matching]]
 - [[Notes/Concepts/Training/FlowGRPO|FlowGRPO]]
+- [[Notes/Concepts/Training/GEM|GEM]]
 - [[Notes/Concepts/Training/GRPO|GRPO]]
 - [[Notes/Concepts/Training/GSPO|GSPO]]
 - [[Notes/Concepts/Training/LLM数据增强|LLM数据增强]]

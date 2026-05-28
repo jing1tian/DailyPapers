@@ -19,6 +19,7 @@ FastV 是一种用于 VLM 推理加速的视觉 token 剪枝方法，通过分�
 ## 代表工作
 
 - [[FastV]]（原方法）: VLM 视觉 token 剪枝，CVPR 2024
+- [[VLA-Pruner]]: 指出 FastV 忽略 action-decode 阶段注意力，在 VLA 高压缩率下性能严重下降
 
 ## 相关概念
 
