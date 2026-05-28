@@ -37,6 +37,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Datasets/RealEstate10K|RealEstate10K]]
 - [[Notes/Concepts/Datasets/RoboCasa|RoboCasa]]
 - [[Notes/Concepts/Datasets/RoboChallenge|RoboChallenge]]
+- [[Notes/Concepts/Datasets/RoboFine|RoboFine]]
 - [[Notes/Concepts/Datasets/RoboTwin 2.0|RoboTwin 2.0]]
 - [[Notes/Concepts/Datasets/RoboTwin|RoboTwin]]
 - [[Notes/Concepts/Datasets/RoboTwin2|RoboTwin2]]

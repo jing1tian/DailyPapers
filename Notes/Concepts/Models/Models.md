@@ -35,6 +35,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Models/Qwen2.5-VL|Qwen2.5-VL]]
 - [[Notes/Concepts/Models/Qwen3-8B|Qwen3-8B]]
 - [[Notes/Concepts/Models/Qwen3-VL|Qwen3-VL]]
+- [[Notes/Concepts/Models/QwenVL|QwenVL]]
 - [[Notes/Concepts/Models/SigLIP|SigLIP]]
 - [[Notes/Concepts/Models/SigLIP2|SigLIP2]]
 - [[Notes/Concepts/Models/TRELLIS|TRELLIS]]
