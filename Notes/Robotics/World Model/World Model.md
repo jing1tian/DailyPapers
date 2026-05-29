@@ -17,6 +17,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/CoME|CoME]]
 - [[Notes/Robotics/World Model/FeedbackWM|FeedbackWM]]
 - [[Notes/Robotics/World Model/GAF|GAF]]
+- [[Notes/Robotics/World Model/GE-Sim2|GE-Sim2]]
 - [[Notes/Robotics/World Model/GEM-4D|GEM-4D]]
 - [[Notes/Robotics/World Model/GaussianDream|GaussianDream]]
 - [[Notes/Robotics/World Model/HYWorld2|HYWorld2]]
