@@ -54,6 +54,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/LDM|LDM]]
 - [[Notes/Concepts/Architecture/LPIPS|LPIPS]]
 - [[Notes/Concepts/Architecture/Language-Conditioned World Model|Language-Conditioned World Model]]
+- [[Notes/Concepts/Architecture/LingBot-VA|LingBot-VA]]
 - [[Notes/Concepts/Architecture/MAGVIT|MAGVIT]]
 - [[Notes/Concepts/Architecture/MM-DiT|MM-DiT]]
 - [[Notes/Concepts/Architecture/Marble|Marble]]
@@ -100,6 +101,8 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/对象中心表示|对象中心表示]]
 - [[Notes/Concepts/Architecture/混合专家|混合专家]]
 - [[Notes/Concepts/Architecture/生成世界模型|生成世界模型]]
+- [[Notes/Concepts/Architecture/累积风险函数|累积风险函数]]
+- [[Notes/Concepts/Architecture/累积风险调度器|累积风险调度器]]
 - [[Notes/Concepts/Architecture/行动感知引导|行动感知引导]]
 - [[Notes/Concepts/Architecture/闭环控制|闭环控制]]
 

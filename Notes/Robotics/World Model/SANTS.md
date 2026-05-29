@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [world-action-model, inference-efficiency, adaptive-scheduling, diffusion-policy, robot-manipulation, reinforcement-learning, denoising]
 zotero_collection: 3-Robotics/World Model
-image_source: online
+image_source: mixed
 arxiv_html: https://arxiv.org/html/2605.27947
 created: 2026-05-29
 ---
@@ -65,7 +65,7 @@ SANTS 采用**附加模块**架构，挂载在冻结的视频-动作[[扩散策�
 
 - **输入**: 当前视频状态特征（池化后）$z_k$ + 当前噪声水平 $\sigma_k$
 - **Backbone**: 冻结的 [[WAM]]（[[Cascaded WAM]] 范式，先去噪视频再生成动作）
-- **核心模块**: [[累积风险调度器]] 用于停止决策，[[Beta分布噪声进展]] 用于自适应跳进
+- **核心模块**: [[累积风险调度器]] 用于停止决策，[[Beta分布]] 噪声跳进机制用于自适应步长
 - **输出**: 停止风险增量 $\Delta H_k$ + 噪声进展参数 $(\alpha_k, \beta_k)$
 - **参数量**: 轻量 2 层 MLP，约数十万参数（512 隐藏层 + 256 瓶颈层）
 
@@ -259,7 +259,7 @@ $$
 
 ### Appendix Figure: 真实机器人任务序列
 
-![[SANTS_fig5.png|600]]
+![[SANTS_fig4_realrobot.png|600]]
 
 **说明**: AgileX 双臂平台（衣物折叠、背包装包、袜子放置、充电器插入）和 UR10 厨房平台（盘子转移、冰箱放置、水果分拣）的任务演示图序。
 
