@@ -40,6 +40,7 @@ WAM 两大范式的分解：
 - **Cascaded WAM**: UniPi, VLP, AVDC, VPP, LAPA, S-VAM
 - **Joint WAM (Auto-regressive)**: GR-1, GR-2, CoT-VLA, WorldVLA, VLA-JEPA
 - **Joint WAM (Diffusion)**: PAD, UWM, DreamZero, Cosmos Policy, FLARE, Motus, [[JOPAT]]
+- **WAM 推理效率**: [[SANTS]] — 状态自适应调度器，动态决定最优去噪深度，延迟降低 ~80%
 
 ## 相关概念
 
