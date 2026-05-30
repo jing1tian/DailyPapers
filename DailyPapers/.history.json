@@ -888,5 +888,130 @@
     "id": "2605.28691",
     "date": "2026-05-29",
     "title": "OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning"
+  },
+  {
+    "id": "2605.29416",
+    "date": "2026-05-30",
+    "title": "3DVLA: Enhancing Vision-Language-Action Models via 3D Spatial and Instance Understanding"
+  },
+  {
+    "id": "2605.29438",
+    "date": "2026-05-30",
+    "title": "ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models"
+  },
+  {
+    "id": "unknown_36878",
+    "date": "2026-05-30",
+    "title": "VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models"
+  },
+  {
+    "id": "2605.29605",
+    "date": "2026-05-30",
+    "title": "VLAConf: Calibrated Task-Success Confidence for Vision-Language-Action Models"
+  },
+  {
+    "id": "unknown_98611",
+    "date": "2026-05-30",
+    "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments"
+  },
+  {
+    "id": "2605.30011",
+    "date": "2026-05-30",
+    "title": "VisualThink-VLA: Visual Intermediate Reasoning for Effective and Low-Latency Vision-Language-Action "
+  },
+  {
+    "id": "2605.30263",
+    "date": "2026-05-30",
+    "title": "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models"
+  },
+  {
+    "id": "2510.27607",
+    "date": "2026-05-30",
+    "title": "Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model"
+  },
+  {
+    "id": "2605.30226",
+    "date": "2026-05-30",
+    "title": "BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterou"
+  },
+  {
+    "id": "2605.30282",
+    "date": "2026-05-30",
+    "title": "Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation"
+  },
+  {
+    "id": "2605.29577",
+    "date": "2026-05-30",
+    "title": "Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning"
+  },
+  {
+    "id": "2605.29662",
+    "date": "2026-05-30",
+    "title": "SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Acti"
+  },
+  {
+    "id": "2605.30117",
+    "date": "2026-05-30",
+    "title": "VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing"
+  },
+  {
+    "id": "2510.01711",
+    "date": "2026-05-30",
+    "title": "Contrastive Representation Regularization for Vision-Language-Action Models"
+  },
+  {
+    "id": "2602.08968",
+    "date": "2026-05-30",
+    "title": "stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation"
+  },
+  {
+    "id": "2605.29710",
+    "date": "2026-05-30",
+    "title": "PhAIL: A Real-Robot VLA Benchmark and Distributional Methodology"
+  },
+  {
+    "id": "2605.29114",
+    "date": "2026-05-30",
+    "title": "ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomo"
+  },
+  {
+    "id": "2605.28842",
+    "date": "2026-05-30",
+    "title": "Thoughts-as-Planning: Latent World Models for Chain-of-Thoughts Optimization via Reinforcement Plann"
+  },
+  {
+    "id": "2512.04733",
+    "date": "2026-05-30",
+    "title": "E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving"
+  },
+  {
+    "id": "2605.13548",
+    "date": "2026-05-30",
+    "title": "AttenA+: Rectifying Action Inequality in Robotic Foundation Models"
+  },
+  {
+    "id": "2408.15998",
+    "date": "2026-05-30",
+    "title": "Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of\n  Encoders"
+  },
+  {
+    "id": "2506.07900",
+    "date": "2026-05-30",
+    "title": "MiniCPM4: Ultra-Efficient LLMs on End Devices"
+  },
+  {
+    "id": "2603.18815",
+    "date": "2026-05-30",
+    "title": "ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents"
+  },
+  {
+    "id": "2605.28421",
+    "date": "2026-05-30",
+    "title": "DenoiseRL: Bootstrapping Reasoning Models to Recover from Noisy Prefixes"
+  },
+  {
+    "id": "unknown_14035",
+    "date": "2026-05-30",
+    "title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning"
   }
 ]
