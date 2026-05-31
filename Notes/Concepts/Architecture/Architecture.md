@@ -99,6 +99,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/可微分仿真|可微分仿真]]
 - [[Notes/Concepts/Architecture/可微分策略优化|可微分策略优化]]
 - [[Notes/Concepts/Architecture/对象中心表示|对象中心表示]]
+- [[Notes/Concepts/Architecture/旋转位置编码|旋转位置编码]]
 - [[Notes/Concepts/Architecture/混合专家|混合专家]]
 - [[Notes/Concepts/Architecture/生成世界模型|生成世界模型]]
 - [[Notes/Concepts/Architecture/累积风险函数|累积风险函数]]
