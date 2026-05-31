@@ -888,5 +888,30 @@
     "id": "2605.28691",
     "date": "2026-05-29",
     "title": "OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning"
+  },
+  {
+    "id": "2605.30263",
+    "date": "2026-05-31",
+    "title": "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models"
+  },
+  {
+    "id": "2602.08968",
+    "date": "2026-05-31",
+    "title": "stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation"
+  },
+  {
+    "id": "2408.15998",
+    "date": "2026-05-31",
+    "title": "Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of\n  Encoders"
+  },
+  {
+    "id": "2506.07900",
+    "date": "2026-05-31",
+    "title": "MiniCPM4: Ultra-Efficient LLMs on End Devices"
+  },
+  {
+    "id": "2603.18815",
+    "date": "2026-05-31",
+    "title": "ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents"
   }
 ]
