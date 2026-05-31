@@ -31,6 +31,8 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/WAMSurvey|WAMSurvey]]
 - [[Notes/Robotics/World Model/WBench|WBench]]
 - [[Notes/Robotics/World Model/WMRobotSurvey|WMRobotSurvey]]
+- [[Notes/Robotics/World Model/minWM|minWM]]
+- [[Notes/Robotics/World Model/stable-worldmodel|stable-worldmodel]]
 
 ## 说明
 
