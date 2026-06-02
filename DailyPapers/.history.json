@@ -913,5 +913,105 @@
     "id": "2605.12500",
     "date": "2026-05-14",
     "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
+  },
+  {
+    "id": "2605.31234",
+    "date": "2026-06-02",
+    "title": "HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model"
+  },
+  {
+    "id": "2605.31286",
+    "date": "2026-06-02",
+    "title": "DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation"
+  },
+  {
+    "id": "2605.30484",
+    "date": "2026-06-02",
+    "title": "ELAN4D: Embodiment-Centric 4D Supervision for Vision-Language-Action Models via Plug-and-Play Adaptation"
+  },
+  {
+    "id": "2605.30877",
+    "date": "2026-06-02",
+    "title": "Wall-OSS-0.5 Technical Report"
+  },
+  {
+    "id": "2605.30542",
+    "date": "2026-06-02",
+    "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI"
+  },
+  {
+    "id": "2604.01985",
+    "date": "2026-06-02",
+    "title": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry"
+  },
+  {
+    "id": "2605.31314",
+    "date": "2026-06-02",
+    "title": "AR Forcing: Towards Long-Horizon Robot Navigation World Model"
+  },
+  {
+    "id": "2601.01075",
+    "date": "2026-06-02",
+    "title": "Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments"
+  },
+  {
+    "id": "2605.31158",
+    "date": "2026-06-02",
+    "title": "Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models"
+  },
+  {
+    "id": "2605.31111",
+    "date": "2026-06-02",
+    "title": "Subspace-Decomposed JEPAs: Disentangling Progression and Content in Latent World Models"
+  },
+  {
+    "id": "2605.31271",
+    "date": "2026-06-02",
+    "title": "DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions"
+  },
+  {
+    "id": "2605.30795",
+    "date": "2026-06-02",
+    "title": "Feat2Go: Visual Feature-Grounded Value Estimation for Embodied Reinforcement Learning"
+  },
+  {
+    "id": "2605.30660",
+    "date": "2026-06-02",
+    "title": "BOKBO (Best of K Bad Options): Calibrated Abstention for VLA Policies"
+  },
+  {
+    "id": "2511.19433",
+    "date": "2026-06-02",
+    "title": "Mixture of Horizons in Action Chunking"
+  },
+  {
+    "id": "2605.30834",
+    "date": "2026-06-02",
+    "title": "Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring"
+  },
+  {
+    "id": "2605.30695",
+    "date": "2026-06-02",
+    "title": "Primitive Subspaces Mediate Few-Shot Transfer in VLAs"
+  },
+  {
+    "id": "2605.31041",
+    "date": "2026-06-02",
+    "title": "Does Visual Information Play a Decisive Role in Vision-Language-Action Model Driving Behavior?"
+  },
+  {
+    "id": "2605.30957",
+    "date": "2026-06-02",
+    "title": "RDGen: Demonstration Generation for High-Quality Robot Learning via Reinforcement Learning"
+  },
+  {
+    "id": "2605.31066",
+    "date": "2026-06-02",
+    "title": "Can Aerial VLA Models Cooperate? Evaluating Closed-Loop Air-Ground Coordination with CARLA-Air"
+  },
+  {
+    "id": "2605.30987",
+    "date": "2026-06-02",
+    "title": "Benchmarking Single-Step Inpainting Methods for Multi-Object 3D Gaussian Splatting Scenes"
   }
 ]
