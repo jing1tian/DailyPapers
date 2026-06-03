@@ -100,6 +100,11 @@
     "title": "L2P: Unlocking Latent Potential for Pixel Generation"
   },
   {
+    "id": "2605.12500",
+    "date": "2026-05-14",
+    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
+  },
+  {
     "id": "2605.13724",
     "date": "2026-05-16",
     "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation"
@@ -123,6 +128,11 @@
     "id": "2605.15190",
     "date": "2026-05-16",
     "title": "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO"
+  },
+  {
+    "id": "2509.24695",
+    "date": "2026-05-16",
+    "title": "SANA-Video: Efficient Video Generation with Block Linear Diffusion\n  Transformer"
   },
   {
     "id": "2605.15964",
@@ -445,6 +455,11 @@
     "title": "DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos"
   },
   {
+    "id": "2605.18739",
+    "date": "2026-05-22",
+    "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation"
+  },
+  {
     "id": "2605.22812",
     "date": "2026-05-23",
     "title": "GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations"
@@ -523,6 +538,11 @@
     "id": "2605.22020",
     "date": "2026-05-23",
     "title": "ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting"
+  },
+  {
+    "id": "2510.22200",
+    "date": "2026-05-23",
+    "title": "LongCat-Video Technical Report"
   },
   {
     "id": "2605.22791",
@@ -865,6 +885,11 @@
     "title": "Uni-LaViRA: Language-Vision-Robot Actions Translation for Unified Embodied Navigation"
   },
   {
+    "id": "2605.28691",
+    "date": "2026-05-29",
+    "title": "OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning"
+  },
+  {
     "id": "2408.15998",
     "date": "2026-05-31",
     "title": "Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of\n  Encoders"
@@ -888,31 +913,6 @@
     "id": "2602.08968",
     "date": "2026-05-31",
     "title": "stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation"
-  },
-  {
-    "id": "2605.18739",
-    "date": "2026-05-22",
-    "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation"
-  },
-  {
-    "id": "2509.24695",
-    "date": "2026-05-16",
-    "title": "SANA-Video: Efficient Video Generation with Block Linear Diffusion\n  Transformer"
-  },
-  {
-    "id": "2510.22200",
-    "date": "2026-05-23",
-    "title": "LongCat-Video Technical Report"
-  },
-  {
-    "id": "2605.28691",
-    "date": "2026-05-29",
-    "title": "OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning"
-  },
-  {
-    "id": "2605.12500",
-    "date": "2026-05-14",
-    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
   },
   {
     "id": "2605.31234",
@@ -1013,5 +1013,155 @@
     "id": "2605.30987",
     "date": "2026-06-02",
     "title": "Benchmarking Single-Step Inpainting Methods for Multi-Object 3D Gaussian Splatting Scenes"
+  },
+  {
+    "id": "2606.01095",
+    "date": "2026-06-03",
+    "title": "Beyond Task Success: Behavioral and Representational Diagnostics for WAM and VLA"
+  },
+  {
+    "id": "2606.00053",
+    "date": "2026-06-03",
+    "title": "VLAMotor: Test-Guided Enhancement of Vision-Language-Action Models via Agent-BasedData Synthesis"
+  },
+  {
+    "id": "2606.00773",
+    "date": "2026-06-03",
+    "title": "SafeVLA-Bench: A Benchmark for the Success-Safety Gap in Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.02486",
+    "date": "2026-06-03",
+    "title": "Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation"
+  },
+  {
+    "id": "2605.30280",
+    "date": "2026-06-03",
+    "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments"
+  },
+  {
+    "id": "2606.00054",
+    "date": "2026-06-03",
+    "title": "From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data"
+  },
+  {
+    "id": "2606.00515",
+    "date": "2026-06-03",
+    "title": "PaCo-VLA: Passivity-Shielded Compliance Prior for Contact-Rich Vision-Language-Action Manipulation"
+  },
+  {
+    "id": "2606.01458",
+    "date": "2026-06-03",
+    "title": "LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World"
+  },
+  {
+    "id": "2606.02307",
+    "date": "2026-06-03",
+    "title": "FATE-VLA:Failue-aware test generation for vision-language-action models"
+  },
+  {
+    "id": "2508.20072",
+    "date": "2026-06-03",
+    "title": "Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies"
+  },
+  {
+    "id": "2601.03309",
+    "date": "2026-06-03",
+    "title": "VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.00113",
+    "date": "2026-06-03",
+    "title": "World Models for Robotic Manipulation: A Survey"
+  },
+  {
+    "id": "2606.00229",
+    "date": "2026-06-03",
+    "title": "Continuous Reasoning for Vision-Language-Action"
+  },
+  {
+    "id": "2606.00253",
+    "date": "2026-06-03",
+    "title": "Per-Group Error, Not Total MSE: Fine-Tuning Vision-Language-Action Models for 11-DoF Mobile Manipulation"
+  },
+  {
+    "id": "2606.00664",
+    "date": "2026-06-03",
+    "title": "SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models"
+  },
+  {
+    "id": "2606.00966",
+    "date": "2026-06-03",
+    "title": "Threading Optimization for Vision-Language-Action Model Inference in Low-Cost Smart Agricultural Manipulation"
+  },
+  {
+    "id": "2606.00985",
+    "date": "2026-06-03",
+    "title": "Make Your VLA More Robust Without More Data By Interleaving Motion Planning"
+  },
+  {
+    "id": "2606.01241",
+    "date": "2026-06-03",
+    "title": "OneVLA: A Unified Framework for Embodied Tasks"
+  },
+  {
+    "id": "2606.01955",
+    "date": "2026-06-03",
+    "title": "WALL-WM: Carving World Action Modeling at the Event Joints"
+  },
+  {
+    "id": "2606.02277",
+    "date": "2026-06-03",
+    "title": "RoboSemanticBench: Diagnosing Semantic Grounding in Action Prediction for VLA Models"
+  },
+  {
+    "id": "2606.02313",
+    "date": "2026-06-03",
+    "title": "Towards Precise Intent-Aligned VLA Aerial Navigation via Expert-Guided GRPO"
+  },
+  {
+    "id": "2606.02577",
+    "date": "2026-06-03",
+    "title": "RoboDream: Compositional World Models for Scalable Robot Data Synthesis"
+  },
+  {
+    "id": "2603.09292",
+    "date": "2026-06-03",
+    "title": "See, Plan, Rewind: Progress-Aware Vision-Language-Action Models for Robust Robotic Manipulation"
+  },
+  {
+    "id": "2510.01711",
+    "date": "2026-06-03",
+    "title": "Contrastive Representation Regularization for Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.00933",
+    "date": "2026-06-03",
+    "title": "Generative Multi-Robot Motion Planning via Diffusion Modeling with Multi-Agent Reinforcement Learning Guidance"
+  },
+  {
+    "id": "2606.01027",
+    "date": "2026-06-03",
+    "title": "$\\tau_0$-WM: A Unified Video-Action World Model for Robotic Manipulation"
+  },
+  {
+    "id": "2606.01205",
+    "date": "2026-06-03",
+    "title": "ImagineUAV: Aerial Vision-Language Navigation via World-Action Modeling and Kinodynamic Planning"
+  },
+  {
+    "id": "2606.01950",
+    "date": "2026-06-03",
+    "title": "Learning Action-Conditional and Object-Centric Gaussian Splatting World Models for Rigid Objects"
+  },
+  {
+    "id": "2606.00267",
+    "date": "2026-06-03",
+    "title": "StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement"
+  },
+  {
+    "id": "2606.01600",
+    "date": "2026-06-03",
+    "title": "RoboTrustBench: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation"
   }
 ]

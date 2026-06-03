@@ -14,7 +14,7 @@ aliases: [DreamVLA]
 3. 3. 常见于 VLA + world model 融合研究
 
 ## 代表工作
-- (待补充)
+- [[DreamVLA]]: 在观测空间生成预测图像的 VLA 增强方法，AHEAD 论文中的最强基线（最高 58.3% 成功率，AHEAD 达 97.3%）
 
 ## 相关概念
 - [[VLA]]
