@@ -1,13 +1,13 @@
 ---
 type: concept
-aliases: [Feature-wise Linear Modulation, 特征线性调制]
+aliases: [Feature-wise Linear Modulation, 特征线性调制, FiLM Layer]
 ---
 
-# FiLM
+# FiLM（Feature-wise Linear Modulation）
 
 ## 定义
 
-FiLM（Feature-wise Linear Modulation）是一种条件特征调制机制，通过从条件输入生成逐通道的缩放参数 $\gamma$ 和偏移参数 $\beta$，对中间特征图进行仿射变换，从而将外部条件信息注入网络中间层。
+通过对中间特征图施加逐通道的仿射变换（缩放 + 偏移），将条件信号（如动作、语言、类别）注入神经网络的一种轻量级条件机制。
 
 ## 数学形式
 
@@ -15,19 +15,20 @@ $$
 F'_\ell = \gamma_\ell \odot F_\ell + \beta_\ell
 $$
 
-其中 $[\gamma_\ell, \beta_\ell] = \mathrm{MLP}(\mathbf{c})$，$\mathbf{c}$ 为条件向量。
+其中 $\gamma_\ell$ 和 $\beta_\ell$ 由条件输入通过 MLP 预测，$\odot$ 为逐元素乘法。
 
 ## 核心要点
 
-1. **轻量条件注入**: 仅需在每层添加一个生成 $\gamma, \beta$ 的小型 MLP，参数开销极低
-2. **层级调制**: 可在网络各层独立施加不同强度的调制
-3. **广泛适用性**: 适用于语言条件、动作条件、风格迁移等多种场景
+1. **条件注入无需修改主干**: 通过预测缩放/偏移参数插入条件信息，对原始网络结构改动最小
+2. **逐层调制**: 通常在多个网络层分别注入，实现不同层次的条件控制
+3. **与 LayerNorm 关系**: 当 $\gamma$ 和 $\beta$ 为常数时等价于条件 LayerNorm，FiLM 更通用（参数由输入动态预测）
+4. **Zero-init 技巧**: 初始化 $\gamma=1, \beta=0$ 使训练初期为恒等变换，稳定训练
 
 ## 代表工作
 
-- [[SKIP]]: AC-FILM 使用 FiLM 机制将动作序列注入插帧网络各金字塔层级
+- [[SKIP]]: AC-FILM 中用于将动作序列注入插值网络，每层特征图通过 FiLM 对齐运动信息
 
 ## 相关概念
 
-- [[AdaLN]]（自适应层归一化，类似思路）
-- [[注意力机制]]
+- [[Diffusion Transformer (DiT)]]: DiT 中使用类似的 AdaLN 条件注入
+- [[AC-FILM]]: 将 FiLM 与动作条件和门控机制结合的 SKIP 变体

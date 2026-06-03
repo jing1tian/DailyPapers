@@ -30,6 +30,7 @@ $$
 
 - [[WAMSurvey]]: 用于世界模型生成质量的语义对齐评估
 - LDA-1B: 在 DINOv3 潜在空间预测未来状态
+- [[SKIP]]: 冻结 DINOv2 ViT-L/16 作为 SKIP-Selector 的语义特征流（2048D CLS + 均值块特征）
 
 ## 相关概念
 
