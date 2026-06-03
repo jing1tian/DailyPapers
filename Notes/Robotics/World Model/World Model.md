@@ -25,6 +25,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/JOPAT|JOPAT]]
 - [[Notes/Robotics/World Model/LeWM|LeWM]]
 - [[Notes/Robotics/World Model/OrbiSim|OrbiSim]]
+- [[Notes/Robotics/World Model/PVWM|PVWM]]
 - [[Notes/Robotics/World Model/RoboDream|RoboDream]]
 - [[Notes/Robotics/World Model/SANTS|SANTS]]
 - [[Notes/Robotics/World Model/SWEET|SWEET]]
