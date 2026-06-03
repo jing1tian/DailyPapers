@@ -14,7 +14,8 @@ aliases: [DreamVLA]
 3. 3. 常见于 VLA + world model 融合研究
 
 ## 代表工作
-- (待补充)
+- [[DreamVLA]]: 原始论文，在观测空间生成预测图像增强 VLA 规划
+- [[AHEAD]]: 对比方法，在潜特征空间预测（更高效），实验中 AHEAD 显著超越 DreamVLA
 
 ## 相关概念
 - [[VLA]]

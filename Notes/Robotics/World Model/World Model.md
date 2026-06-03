@@ -28,6 +28,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/PVWM|PVWM]]
 - [[Notes/Robotics/World Model/RoboDream|RoboDream]]
 - [[Notes/Robotics/World Model/SANTS|SANTS]]
+- [[Notes/Robotics/World Model/SKIP|SKIP]]
 - [[Notes/Robotics/World Model/SWEET|SWEET]]
 - [[Notes/Robotics/World Model/WALL-WM|WALL-WM]]
 - [[Notes/Robotics/World Model/WAM-Survey|WAM-Survey]]

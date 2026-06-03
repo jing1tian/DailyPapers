@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [world-model, robot-data-synthesis, video-diffusion, data-augmentation, manipulation, embodied-ai]
 zotero_collection: Robotics/World Model
-image_source: mixed
+image_source: online
 arxiv_html: https://arxiv.org/html/2606.02577
 created: 2026-06-03
 ---
@@ -65,8 +65,8 @@ created: 2026-06-03
 RoboDream 基于 [[Cosmos-Predict2]] 2B 视频扩散 Transformer 微调，采用**多模态条件化**架构：
 
 - **输入**: 渲染的机器人运动视频 $v_{\text{rob}}$ + 场景先验图 $I_s$ + 物体先验图 $I_o$ + 语言指令 $\ell$ + 轨迹状态 $\tau$
-- **Backbone**: [[视频扩散Transformer]]（Cosmos-Predict2 2B）
-- **核心模块**: [[多模态通道扩展]] + [[自注意力物体注入]] + [[交叉注意力条件化]]
+- **Backbone**: [[视频扩散模型|视频扩散Transformer]]（Cosmos-Predict2 2B）
+- **核心模块**: [[多模态通道扩展]] + [[扩展自注意力]] + [[交叉注意力]]
 - **输出**: 逼真的机器人操作视频 $o_{1:T}$
 - **训练数据**: ~40k DROID 数据集片段（含相机标定信息）
 
@@ -86,7 +86,7 @@ RoboDream 基于 [[Cosmos-Predict2]] 2B 视频扩散 Transformer 微调，采用
 
 #### 模块 2: 自注意力物体注入（Object Prior via Self-Attention）
 
-**设计动机**: 物体先验需要让模型在视频生成的任意时刻都能感知目标物体的视觉细节，选择[[自注意力]]机制以实现全局感受野下的物体引导。
+**设计动机**: 物体先验需要让模型在视频生成的任意时刻都能感知目标物体的视觉细节，选择[[自注意力机制|自注意力]]机制以实现全局感受野下的物体引导。
 
 **具体实现**:
 - 物体先验图像独立通过 VAE 编码，得到 token 序列 $K_{\text{obj}}, V_{\text{obj}}$
@@ -116,7 +116,7 @@ RoboDream 基于 [[Cosmos-Predict2]] 2B 视频扩散 Transformer 微调，采用
 
 ## 关键公式
 
-### 公式 1: [[条件生成分布|RoboDream 条件生成目标]]
+### 公式 1: [[条件视频生成|RoboDream 条件生成目标]]
 
 $$
 p_\theta(o_{1:T} \mid v_{\text{rob}},\ I_s,\ I_o,\ \ell,\ \tau)
@@ -174,7 +174,7 @@ $$
 
 ![Figure 2 - Architecture](https://arxiv.org/html/2606.02577v1/x2.png)
 
-**说明**: RoboDream 的完整架构。渲染机器人视频与场景先验经 VAE 编码后通过[[多模态通道扩展]]与噪声 latent 拼接；物体先验通过[[自注意力]]注入；语言指令和轨迹状态通过[[交叉注意力]]条件化。
+**说明**: RoboDream 的完整架构。渲染机器人视频与场景先验经 VAE 编码后通过[[多模态通道扩展]]与噪声 latent 拼接；物体先验通过[[自注意力机制|自注意力]]注入；语言指令和轨迹状态通过[[交叉注意力]]条件化。
 
 ### Figure 3: 先验提取流水线
 
@@ -196,7 +196,7 @@ $$
 
 ### Figure 6: 组合式生成
 
-![[RoboDream_fig6_compositional.png]]
+![Figure 6 - Compositional Generation](https://arxiv.org/html/2606.02577v1/x5.png)
 
 **说明**: 展示 RoboDream 的组合泛化能力——同一动作轨迹 × 不同物体 × 不同场景的自由组合，验证了三个元素的解耦性。
 
@@ -309,7 +309,7 @@ Retrieval and Rebirth 可将 DROID 数据集中的已有轨迹无缝迁移到新
 
 ### 硬件/数据相关
 - [[DROID]]: 大规模真实机器人操作数据集
-- [[Franka Panda]]: 评测使用的机器人平台
+- [[Franka Research 3|Franka Panda]]: 评测使用的机器人平台
 
 ---
 
