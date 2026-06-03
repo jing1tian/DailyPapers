@@ -64,7 +64,7 @@ created: 2026-06-03
 
 ### 模型架构
 
-![Figure 3: Overall Framework](https://arxiv.org/html/2606.01955/2606.01955v1/x3.png)
+![[WALL-WM_fig3_p7.png]]
 
 WALL-WM 采用**事件对齐的视频-动作联合预训练**架构，分为三大模块：
 
@@ -242,13 +242,13 @@ $$
 
 ### Figure 1：概念图与整体性能
 
-![Figure 1](https://arxiv.org/html/2606.01955/2606.01955v1/x1.png)
+![[WALL-WM_fig1_p2.png]]
 
 **说明**: 左侧展示模态层次结构（语言 → 视觉 → 动作），说明不同模态在语义粒度上的天然差异；右侧展示 WALL-WM 在真实机器人泛化评估上的整体性能对比，WALL-WM 达到 SOTA。
 
 ### Figure 2：训练方案对比
 
-![Figure 2](https://arxiv.org/html/2606.01955/2606.01955v1/x2.png)
+![[WALL-WM_fig2_p4.png]]
 
 **说明**: 对比"下一事件训练（Next-Event Training）"与"等长块方案（Equilong-Chunk Scheme）"。事件对齐方案的块长度随语义内容动态变化，等长方案在语义边界处产生错位。
 
@@ -260,49 +260,49 @@ $$
 
 ### Figure 4：跨视图遮罩机制
 
-![Figure 4](https://arxiv.org/html/2606.01955/2606.01955v1/x4.png)
+![[WALL-WM_fig4_p13.png]]
 
 **说明**: 展示视锥注意力遮罩（左）和管状补丁遮罩（右）的工作原理。视锥遮罩基于几何相交判断哪些补丁对之间可以交互；管状遮罩在时序连续帧的对应空间位置施加更强的一致性约束。
 
 ### Figure 5：观测中心窗口（M=1）
 
-![Figure 5](https://arxiv.org/html/2606.01955/2606.01955v1/x5.png)
+![[WALL-WM_fig5_p15.png]]
 
 **说明**: 展示在 next-chunk 适配阶段（Stage 5）中，以单帧历史（M=1）、锚点帧和 N 帧未来为输入的观测中心窗口结构。VAE 编解码规则：$1 + 4M + 4N$ 原始帧压缩为 $1 + M + N$ 潜变量。
 
 ### Figure 6：三种 CoT 推理方案对比
 
-![Figure 6](https://arxiv.org/html/2606.01955/2606.01955v1/x6.png)
+![[WALL-WM_fig6_p17.png]]
 
 **说明**: 对比串行 CoT（Sequential）、并行无监督（Parallel Unsupervised）与楼梯式蒸馏（Staircase Distillation）三种推理调度方案。楼梯式方案实现了并行生成同时保留重建监督，兼顾速度与质量。
 
 ### Figure 7：部署平台
 
-![Figure 7](https://arxiv.org/html/2606.01955/2606.01955v1/x7.png)
+![[WALL-WM_fig7_p25.png]]
 
 **说明**: 内部自研的机器人部署平台，展示 WALL-WM 在真实机器人上的硬件部署环境。
 
 ### Figure 8：数据集来源分布图
 
-![Figure 8](https://arxiv.org/html/2606.01955/2606.01955v1/x8.png)
+![[WALL-WM_fig8_p28.png]]
 
 **说明**: 训练数据来源的四象限分布图：一般互联网视频（OpenVID 1.2M clips）、以自我为中心的人类动作视频、XRZero-G0 可穿戴设备采集的无机身数据、以及异构机器人遥操作与公开数据集。
 
 ### Figure 9：视频+动作数据统计分布
 
-![Figure 9](https://arxiv.org/html/2606.01955/2606.01955v1/x9.png)
+![[WALL-WM_fig9_p29.png]]
 
 **说明**: 训练集中视频和动作数据的分布统计，包括事件时长分布、数据规模统计等，反映数据集的覆盖广度。
 
 ### Figure 10：XRZero-G0 无机身数据采集装置
 
-![Figure 10](https://arxiv.org/html/2606.01955/2606.01955v1/x10.png)
+![[WALL-WM_fig10_p35.png]]
 
 **说明**: XRZero-G0 可穿戴采集装置，允许在无机器人本体的情况下收集 UMI 风格的手部操作数据，大幅降低数据采集成本并拓展场景多样性。
 
 ### Figure 11：视频+动作数据的时间同步
 
-![Figure 11](https://arxiv.org/html/2606.01955/2606.01955v1/x11.png)
+![[WALL-WM_fig11_p37.png]]
 
 **说明**: 展示视频-动作相位对齐方法：通过光流估算视觉运动信号，通过末端执行器位置有限差分估算动作运动信号，再做跨模态时间相关对齐，消除采集时的相位偏移。
 
