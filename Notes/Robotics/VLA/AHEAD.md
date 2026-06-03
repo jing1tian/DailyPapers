@@ -249,7 +249,7 @@ $$
 
 ### Figure 1: 真实机器人动态操纵任务演示
 
-![Figure 1 - AHEAD 真实任务演示](https://arxiv.org/html/2606.02486/2606.02486v1/x1.png)
+![Figure 1 - AHEAD 真实任务演示](https://arxiv.org/html/2606.02486v1/x1.png)
 
 **说明**: AHEAD 在四个真实世界动态操纵任务上的演示。半透明叠加层显示物体运动轨迹和机器人瞬时位置，实线轮廓显示最终操纵姿态。从左到右：传送带+橡皮鸭抓取、静止橡皮鸭+移动盒子、乒乓球拦截（桨击打）、弹射物捕捉（22m/s 发射器）。
 
@@ -259,7 +259,7 @@ $$
 
 ### Figure 3: AHEAD 完整预处理与前向传播流程
 
-![Figure 3 - AHEAD 完整架构](https://arxiv.org/html/2606.02486/2606.02486v1/x2.png)
+![Figure 3 - AHEAD 完整架构](https://arxiv.org/html/2606.02486v1/x2.png)
 
 **说明**（Appendix A 完整架构图）: 完整流水线。预处理阶段用 RAFT 计算三帧间光流，池化到 patch 级速度，有限差分得加速度。冻结 OpenVLA 编码器产生 $N$ 个 patch token，经语言引导[[跨注意力|交叉注意力]]选出 30-60 个显著 token；4 层 Transformer 编码器压缩为潜变量；[[条件流匹配]]动力学模型带解析运动学条件前向滚动，$S=5$ 个样本；[[不确定度估计|不确定度]]超阈值时自适应停止；MLP 解码器重建预测 token，特征对齐后 Token Splicing 注入冻结 VLA 骨干生成动作。
 
