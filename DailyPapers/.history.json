@@ -1013,5 +1013,135 @@
     "id": "2605.30987",
     "date": "2026-06-02",
     "title": "Benchmarking Single-Step Inpainting Methods for Multi-Object 3D Gaussian Splatting Scenes"
+  },
+  {
+    "id": "2606.03127",
+    "date": "2026-06-04",
+    "title": "TTT-VLA: Test-Time Latent Prompt Optimization for Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.03188",
+    "date": "2026-06-04",
+    "title": "GeoSem-WAM: Geometry- and Semantic-Aware World Action Models"
+  },
+  {
+    "id": "UNKNOWN",
+    "date": "2026-06-04",
+    "title": "VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.03598",
+    "date": "2026-06-04",
+    "title": "PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.03609",
+    "date": "2026-06-04",
+    "title": "A 3D Isovist World Model -- Revealing a City's Unseen Geometry and Its Emergent Cross-City Signature"
+  },
+  {
+    "id": "2603.23117",
+    "date": "2026-06-04",
+    "title": "TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches"
+  },
+  {
+    "id": "2602.06219",
+    "date": "2026-06-04",
+    "title": "Coupled Local and Global World Models for Efficient First Order RL"
+  },
+  {
+    "id": "2606.02735",
+    "date": "2026-06-04",
+    "title": "See Less, Specify More: Visual Evidence Budgets for Generalizable VLAs"
+  },
+  {
+    "id": "2606.03240",
+    "date": "2026-06-04",
+    "title": "GeoAlign: Beyond Semantics with State-Guided Spatial Alignment in VLA Models"
+  },
+  {
+    "id": "2606.03252",
+    "date": "2026-06-04",
+    "title": "AirDreamer: Generalist Drone Navigation with World Models"
+  },
+  {
+    "id": "2606.03392",
+    "date": "2026-06-04",
+    "title": "OpenEAI-Platform: An Open-source Embodied Artificial Intelligence Hardware-Software Unified Platform"
+  },
+  {
+    "id": "2606.03556",
+    "date": "2026-06-04",
+    "title": "Partially Observable Adversarial Patch Attacks on Vision-Language-Action Models in Robotics"
+  },
+  {
+    "id": "2606.02745",
+    "date": "2026-06-04",
+    "title": "SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos"
+  },
+  {
+    "id": "2606.03784",
+    "date": "2026-06-04",
+    "title": "Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation"
+  },
+  {
+    "id": "2606.02753",
+    "date": "2026-06-04",
+    "title": "MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data"
+  },
+  {
+    "id": "2606.03971",
+    "date": "2026-06-04",
+    "title": "Video-Mirai: Autoregressive Video Diffusion Models Need Foresight"
+  },
+  {
+    "id": "2606.03685",
+    "date": "2026-06-04",
+    "title": "A Close Look At World Model Recovery In Supervised Fine-Tuned LLM Planners"
+  },
+  {
+    "id": "2509.19305",
+    "date": "2026-06-04",
+    "title": "Wavelet Fourier Diffuser: Frequency-Aware Diffusion Model for Reinforcement Learning"
+  },
+  {
+    "id": "2606.03943",
+    "date": "2026-06-04",
+    "title": "PointAction: 3D Points as Universal Action Representations for Robot Control"
+  },
+  {
+    "id": "2606.02775",
+    "date": "2026-06-04",
+    "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM"
+  },
+  {
+    "id": "2606.03593",
+    "date": "2026-06-04",
+    "title": "Making Embodied AI Reliable: A Community Agenda from Testing to Formal Verification"
+  },
+  {
+    "id": "2606.03603",
+    "date": "2026-06-04",
+    "title": "World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning"
+  },
+  {
+    "id": "2606.03827",
+    "date": "2026-06-04",
+    "title": "Conditional Latent Diffusion Model with Fourier-based Motion Modelling for Virtual Population Synthesis"
+  },
+  {
+    "id": "2602.09708",
+    "date": "2026-06-04",
+    "title": "Physics-informed diffusion models in spectral space"
+  },
+  {
+    "id": "2602.18690",
+    "date": "2026-06-04",
+    "title": "Neural Fields as World Models"
+  },
+  {
+    "id": "2606.02884",
+    "date": "2026-06-04",
+    "title": "Are we really tilting? The mechanics of reward guidance in flow and diffusion models"
   }
 ]
