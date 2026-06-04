@@ -10,16 +10,18 @@ generated_by: dailypaper-skills
 
 ## 子目录
 
-- [[Notes/Robotics/World Model/assets/assets|assets]] · 0 篇笔记 · 1 个子目录
+- [[Notes/Robotics/World Model/assets/assets|assets]] · 0 篇笔记 · 0 个子目录
 
 ## 当前目录笔记
 
 - [[Notes/Robotics/World Model/CoME|CoME]]
+- [[Notes/Robotics/World Model/Cosmos3|Cosmos3]]
 - [[Notes/Robotics/World Model/FeedbackWM|FeedbackWM]]
 - [[Notes/Robotics/World Model/GAF|GAF]]
 - [[Notes/Robotics/World Model/GE-Sim2|GE-Sim2]]
 - [[Notes/Robotics/World Model/GEM-4D|GEM-4D]]
 - [[Notes/Robotics/World Model/GaussianDream|GaussianDream]]
+- [[Notes/Robotics/World Model/GeoSem-WAM|GeoSem-WAM]]
 - [[Notes/Robotics/World Model/HYWorld2|HYWorld2]]
 - [[Notes/Robotics/World Model/ITC|ITC]]
 - [[Notes/Robotics/World Model/JOPAT|JOPAT]]
