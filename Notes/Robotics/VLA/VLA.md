@@ -19,6 +19,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/COAST|COAST]]
 - [[Notes/Robotics/VLA/CapVector|CapVector]]
 - [[Notes/Robotics/VLA/DyGRO-VLA|DyGRO-VLA]]
+- [[Notes/Robotics/VLA/ERVLA|ERVLA]]
 - [[Notes/Robotics/VLA/EXPO-FT|EXPO-FT]]
 - [[Notes/Robotics/VLA/FineVLA|FineVLA]]
 - [[Notes/Robotics/VLA/MolmoAct2|MolmoAct2]]

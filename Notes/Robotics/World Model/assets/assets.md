@@ -8,9 +8,9 @@ generated_by: dailypaper-skills
 
 - 当前目录：`Robotics/World Model/assets`
 
-## 子目录
+## 当前目录笔记
 
-- [[Notes/Robotics/World Model/assets/SKIP_imgs/SKIP_imgs|SKIP_imgs]] · 0 篇笔记 · 0 个子目录
+- 暂无内容
 
 ## 说明
 
