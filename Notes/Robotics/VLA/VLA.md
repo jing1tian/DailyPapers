@@ -14,6 +14,7 @@ generated_by: dailypaper-skills
 
 ## 当前目录笔记
 
+- [[Notes/Robotics/VLA/3DThinkVLA|3DThinkVLA]]
 - [[Notes/Robotics/VLA/AHEAD|AHEAD]]
 - [[Notes/Robotics/VLA/Agentic-VLA|Agentic-VLA]]
 - [[Notes/Robotics/VLA/COAST|COAST]]

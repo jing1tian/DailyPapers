@@ -20,6 +20,7 @@ $$G = f_{\text{VGGT}}(I_1, \ldots, I_N)$$
 
 ## 代表工作
 - [[GaussianDream]]：利用 VGGT-like 架构做 feed-forward 3DGS 世界状态预测
+- [[3DThinkVLA]]：使用 VGGT 输出作为几何对齐目标，通过几何适配器将 3D 几何先验蒸馏到 VLA 视觉特征（仅训练时使用）
 
 ## 相关概念
 - [[SAM]]
