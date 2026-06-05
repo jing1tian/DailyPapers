@@ -190,19 +190,45 @@ $$
 
 **说明**: 三组件架构——条件编码（第一帧 + 骨架 VAE latent 求和）→ 条件注入（latent 空间相加送入 DiT）→ 视频生成（DiT 去噪 + VAE 解码）。
 
-### Figure 3: 跨本体骨架覆盖
+### Figure 3: 跨本体骨架覆盖（8 个训练源）
 
-![Figure 3: 八个训练源的骨架叠加](https://arxiv.org/html/2606.04463v2/x4.png)
+![Figure 3a - DROID](https://arxiv.org/html/2606.04463v2/x4.png)
 
-**说明**: 展示 8 个训练来源（4 个机器人数据集 + 2 个人类数据集）上的骨架渲染叠加，验证条件表示对不同本体的覆盖能力。
+![Figure 3b - RH20T-cfg5](https://arxiv.org/html/2606.04463v2/x5.png)
 
-### Figure 4: 定性对比
+![Figure 3c - RH20T-cfg7](https://arxiv.org/html/2606.04463v2/x6.png)
 
-![Figure 4 左：AgiBot G1 对比](https://arxiv.org/html/2606.04463v2/x14.png)
+![Figure 3d - InternData](https://arxiv.org/html/2606.04463v2/x7.png)
 
-![Figure 4 右：DROID 对比](https://arxiv.org/html/2606.04463v2/x15.png)
+![Figure 3e - AgiBot G1](https://arxiv.org/html/2606.04463v2/x8.png)
 
-**说明**: 在 AgiBot G1 和 DROID 本体上，OSCAR 相比 5 个基线生成了更准确的动作执行和更高视觉质量的视频。
+![Figure 3f - AIROA-MoMa](https://arxiv.org/html/2606.04463v2/x9.png)
+
+![Figure 3g - EgoDex](https://arxiv.org/html/2606.04463v2/x10.png)
+
+![Figure 3h - EPIC-Kitchens](https://arxiv.org/html/2606.04463v2/x11.png)
+
+**说明**: 同一骨架渲染流水线在 4 个机器人数据集（DROID、RH20T-cfg5、RH20T-cfg7、InternData）和 4 个人类/人形数据集（AgiBot G1、AIROA-MoMa、EgoDex、EPIC-Kitchens）上的覆盖，验证条件表示的跨本体统一性。
+
+### Figure 4: 定性对比（vs 5 个基线）
+
+![Figure 4 左：AgiBot G1 对比](https://arxiv.org/html/2606.04463v2/x12.png)
+
+![Figure 4 右：DROID 对比](https://arxiv.org/html/2606.04463v2/x13.png)
+
+**说明**: 在 AgiBot G1 和 DROID 本体上，OSCAR 相比 5 个基线（文本条件、潜在动作、Kinema4D、Genie Envisioner、EnerVerse-AC）生成了更准确的动作执行和更高视觉质量的视频。
+
+### Figure 5: 附录 — 其余形态定性结果
+
+![Figure 5a - AIROA-MoMa](https://arxiv.org/html/2606.04463v2/x14.png)
+
+![Figure 5b - InternData](https://arxiv.org/html/2606.04463v2/x15.png)
+
+![Figure 5c - RH20T-cfg5](https://arxiv.org/html/2606.04463v2/x16.png)
+
+![Figure 5d - RH20T-cfg7](https://arxiv.org/html/2606.04463v2/x17.png)
+
+**说明**: OSCAR 在 AIROA-MoMa（Toyota HSR）、InternData（KUKA iiwa 合成）、RH20T 两种配置上的定性结果，进一步验证跨本体泛化。
 
 ### Table 1: 数据集统计
 

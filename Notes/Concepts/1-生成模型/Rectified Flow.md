@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [整流流, RF, Rectified Flow Matching]
+aliases: [整流流, RF, Rectified Flow Matching, 矩形流匹配]
 ---
 
 # Rectified Flow

@@ -19,6 +19,8 @@ $$z_t = \text{Encode}(o_t, o_{t+1}), \quad a_t = \text{Decode}(z_t, o_t)$$
 ## 代表工作
 - [[HARP-VLA]]
 - [[UniVLA]]
+- [[IRASim]]: 使用隐式动作嵌入作为视频世界模型的条件，但跨本体泛化能力受限
+- [[OSCAR]]: 证明显式 2D 骨架渲染优于隐式动作嵌入作为视频世界模型的条件
 
 ## 相关概念
 - [[VLA]]

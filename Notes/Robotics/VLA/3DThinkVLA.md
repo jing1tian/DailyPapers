@@ -268,7 +268,7 @@ $$
 
 ### Figure 3: LIBERO-Plus 定性结果
 
-![Figure 3 - LIBERO-Plus Qualitative](https://arxiv.org/html/2606.04436v1/2606.04436v1/fig/failure1.png)
+![Figure 3 - LIBERO-Plus Qualitative](https://arxiv.org/html/2606.04436v1/fig/failure1.png)
 
 **说明**: LIBERO-Plus 上失败/成功案例对比。Task 1："把黑色碗放入橱柜底层抽屉并关上"，Task 2："把黑色碗放入橱柜顶层抽屉并关上"。展示了高度变化场景下模型的鲁棒性。
 
@@ -276,9 +276,9 @@ $$
 
 ### Figure 4: 真实机器人实验平台
 
-![Figure 4a - Robot Platform](https://arxiv.org/html/2606.04436v1/2606.04436v1/fig/robotsetup_a.png)
+![Figure 4a - Robot Platform](https://arxiv.org/html/2606.04436v1/fig/robotsetup_a.png)
 
-![Figure 4b - Experimental Setups](https://arxiv.org/html/2606.04436v1/2606.04436v1/fig/robotsetup_b.png)
+![Figure 4b - Experimental Setups](https://arxiv.org/html/2606.04436v1/fig/robotsetup_b.png)
 
 **说明**: (a) Realman 7-DoF 机械臂平台（含 1-DoF 夹爪、顶部摄像头、腕部摄像头）。(b) 三个真实世界任务的实验场景：高度变化泛化、透明容器放置、空间位置理解。
 
@@ -286,7 +286,7 @@ $$
 
 ### Figure 5: 训练收敛与梯度分析
 
-![Figure 5 - Gradient Analysis](https://arxiv.org/html/2606.04436v1/2606.04436v1/x3.png)
+![Figure 5 - Gradient Analysis](https://arxiv.org/html/2606.04436v1/x3.png)
 
 **说明**: (a) 训练动作损失曲线；(b) Projection-Space Similarity（PSS）分析。蓝线为使用本方法在线 3D 推理蒸馏模块，红线为仅 3D co-training。PSS ≈ 0.4 说明 3D co-training 与 VLA 训练保持优化稳定性（协同而非对抗）。
 

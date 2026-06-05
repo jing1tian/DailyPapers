@@ -12,6 +12,10 @@ generated_by: dailypaper-skills
 
 - [[Notes/Robotics/Robotics|Robotics]] · 4 篇笔记 · 2 个子目录
 
+## 当前目录笔记
+
+- [[Notes/PERSIST|PERSIST]]
+
 ## 说明
 
 - 这个目录页由脚本自动生成。
