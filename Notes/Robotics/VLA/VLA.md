@@ -16,6 +16,7 @@ generated_by: dailypaper-skills
 
 - [[Notes/Robotics/VLA/3DThinkVLA|3DThinkVLA]]
 - [[Notes/Robotics/VLA/AHEAD|AHEAD]]
+- [[Notes/Robotics/VLA/AffordanceVLA|AffordanceVLA]]
 - [[Notes/Robotics/VLA/Agentic-VLA|Agentic-VLA]]
 - [[Notes/Robotics/VLA/COAST|COAST]]
 - [[Notes/Robotics/VLA/CapVector|CapVector]]
