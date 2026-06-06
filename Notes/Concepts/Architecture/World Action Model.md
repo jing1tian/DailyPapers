@@ -41,6 +41,7 @@ WAM 两大范式的分解：
 - **Joint WAM (Auto-regressive)**: GR-1, GR-2, CoT-VLA, WorldVLA, VLA-JEPA
 - **Joint WAM (Diffusion)**: PAD, UWM, DreamZero, Cosmos Policy, FLARE, Motus, [[JOPAT]]
 - **WAM 推理效率**: [[SANTS]] — 状态自适应调度器，动态决定最优去噪深度，延迟降低 ~80%
+- **WAM 推理效率**: [[Flash-WAM]] — 模态感知一致性蒸馏，23× 加速（8.1s → 348ms），动作流线性参数化解决梯度消失
 - **WAM 表征增强**: [[GeoSem-WAM]] — 引入几何（深度）和语义（分割）辅助监督分支，提升 latent 表征质量
 
 ## 相关概念
