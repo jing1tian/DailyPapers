@@ -24,6 +24,7 @@ LingBot-VA 是一种基于像素空间视频去噪的 [[Cascaded WAM]]，先通�
 
 ## 代表工作
 - [[SANTS]]: 在 LingBot-VA 骨干上附加调度器，将成功率提升至 94.4%，延迟降至 523.7 ms
+- [[Flash-WAM]]: 以 LingBot-VA 为教师模型，通过模态感知一致性蒸馏将推理压缩至单步（348ms），达到 85.5% 成功率
 
 ## 相关概念
 - [[WAM]]: LingBot-VA 所属的模型类别
