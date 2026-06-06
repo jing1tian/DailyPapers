@@ -1243,5 +1243,110 @@
     "id": "2606.04718",
     "date": "2026-06-05",
     "title": "CoRe-MoE: Contrastive Reweighted Mixture of Experts for Multi-Terrain Humanoid Locomotion with Gait Adaptation"
+  },
+  {
+    "id": "2606.05773",
+    "date": "2026-06-06",
+    "title": "PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation"
+  },
+  {
+    "id": "2606.06155",
+    "date": "2026-06-06",
+    "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding"
+  },
+  {
+    "id": "2606.06491",
+    "date": "2026-06-06",
+    "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies"
+  },
+  {
+    "id": "2606.05254",
+    "date": "2026-06-06",
+    "title": "Flash-WAM: Modality-Aware Distillation for World Action Models"
+  },
+  {
+    "id": "2606.05979",
+    "date": "2026-06-06",
+    "title": "World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis"
+  },
+  {
+    "id": "2606.06147",
+    "date": "2026-06-06",
+    "title": "WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation"
+  },
+  {
+    "id": "2606.05468",
+    "date": "2026-06-06",
+    "title": "FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization"
+  },
+  {
+    "id": "2606.05645",
+    "date": "2026-06-06",
+    "title": "Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning"
+  },
+  {
+    "id": "2606.05660",
+    "date": "2026-06-06",
+    "title": "Safe Embodied AI for Long-horizon Tasks: A Cross-layer Analysis of Robotic Manipulation"
+  },
+  {
+    "id": "2606.05737",
+    "date": "2026-06-06",
+    "title": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.06245",
+    "date": "2026-06-06",
+    "title": "MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action"
+  },
+  {
+    "id": "2606.06014",
+    "date": "2026-06-06",
+    "title": "PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models"
+  },
+  {
+    "id": "2605.08215",
+    "date": "2026-06-06",
+    "title": "Test-Time Training for Visual Foresight Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.05758",
+    "date": "2026-06-06",
+    "title": "DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models"
+  },
+  {
+    "id": "2605.09989",
+    "date": "2026-06-06",
+    "title": "StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception"
+  },
+  {
+    "id": "2606.05699",
+    "date": "2026-06-06",
+    "title": "DexFuture: Hierarchical Future-State Visuomotor Targeting for Bimanual Dexterous Tool Use"
+  },
+  {
+    "id": "2606.05960",
+    "date": "2026-06-06",
+    "title": "Towards a Data Flywheel for Embodied Intelligence in Logistics"
+  },
+  {
+    "id": "2606.05883",
+    "date": "2026-06-06",
+    "title": "Geometry-Aware Dataset Condensation for Diffusion Model Training"
+  },
+  {
+    "id": "2606.06060",
+    "date": "2026-06-06",
+    "title": "ReCache: Learning Budget-Aware Caching Schedules for Diffusion Models via REINFORCE"
+  },
+  {
+    "id": "2606.06066",
+    "date": "2026-06-06",
+    "title": "FontFusion: Enhancing Generative Text in Diffusion Models with Typographic Conditioning"
+  },
+  {
+    "id": "2606.06120",
+    "date": "2026-06-06",
+    "title": "Diff-CA: Separating Common and Salient Factors with Diffusion Models"
   }
 ]
