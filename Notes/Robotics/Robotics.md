@@ -16,6 +16,7 @@ generated_by: dailypaper-skills
 ## 当前目录笔记
 
 - [[Notes/Robotics/BISON|BISON]]
+- [[Notes/Robotics/GRAIL|GRAIL]]
 - [[Notes/Robotics/HumanNet|HumanNet]]
 - [[Notes/Robotics/PhysX-Omni|PhysX-Omni]]
 - [[Notes/Robotics/SONIC|SONIC]]
