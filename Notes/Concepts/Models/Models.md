@@ -43,6 +43,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Models/SigLIP2|SigLIP2]]
 - [[Notes/Concepts/Models/TRELLIS|TRELLIS]]
 - [[Notes/Concepts/Models/V-JEPA2|V-JEPA2]]
+- [[Notes/Concepts/Models/VFM|VFM]]
 - [[Notes/Concepts/Models/Wan2.2|Wan2.2]]
 - [[Notes/Concepts/Models/pi0|pi0]]
 
