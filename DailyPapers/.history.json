@@ -1348,5 +1348,10 @@
     "id": "2606.06120",
     "date": "2026-06-06",
     "title": "Diff-CA: Separating Common and Salient Factors with Diffusion Models"
+  },
+  {
+    "id": "2606.02373",
+    "date": "2026-06-08",
+    "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses"
   }
 ]
