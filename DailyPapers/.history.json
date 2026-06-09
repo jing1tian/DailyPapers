@@ -1,60 +1,5 @@
 [
   {
-    "id": "2605.03269",
-    "date": "2026-05-09",
-    "title": "RLDX-1 Technical Report"
-  },
-  {
-    "id": "2605.05204",
-    "date": "2026-05-09",
-    "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models"
-  },
-  {
-    "id": "2605.02881",
-    "date": "2026-05-09",
-    "title": "MolmoAct2: Action Reasoning Models for Real-world Deployment"
-  },
-  {
-    "id": "2605.05163",
-    "date": "2026-05-09",
-    "title": "PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World"
-  },
-  {
-    "id": "2605.06507",
-    "date": "2026-05-09",
-    "title": "MARBLE: Multi-Aspect Reward Balance for Diffusion RL"
-  },
-  {
-    "id": "2602.06036",
-    "date": "2026-05-09",
-    "title": "DFlash: Block Diffusion for Flash Speculative Decoding"
-  },
-  {
-    "id": "2605.06376",
-    "date": "2026-05-09",
-    "title": "Continuous-Time Distribution Matching for Few-Step Diffusion Distillation"
-  },
-  {
-    "id": "2604.28123",
-    "date": "2026-05-09",
-    "title": "Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL"
-  },
-  {
-    "id": "2605.00658",
-    "date": "2026-05-09",
-    "title": "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors"
-  },
-  {
-    "id": "2603.19312",
-    "date": "2026-05-09",
-    "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels"
-  },
-  {
-    "id": "2504.01990",
-    "date": "2026-05-09",
-    "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired\n  Intelligence to Evolutionary, Collaborative, and Safe Systems"
-  },
-  {
     "id": "2308.04079",
     "date": "2026-05-10",
     "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
@@ -1353,5 +1298,100 @@
     "id": "2606.02373",
     "date": "2026-06-08",
     "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses"
+  },
+  {
+    "id": "2606.06556",
+    "date": "2026-06-09",
+    "title": "Robots Need More than VLA and World Models"
+  },
+  {
+    "id": "2606.07089",
+    "date": "2026-06-09",
+    "title": "Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning"
+  },
+  {
+    "id": "2606.07107",
+    "date": "2026-06-09",
+    "title": "Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.07383",
+    "date": "2026-06-09",
+    "title": "RhinoVLA Technical Report"
+  },
+  {
+    "id": "2606.07100",
+    "date": "2026-06-09",
+    "title": "LARA: Latent Action Representation Alignment for Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.06832",
+    "date": "2026-06-09",
+    "title": "STRIPS-WM: Learning Grounded Propositional STRIPS-style World Models from Images"
+  },
+  {
+    "id": "2605.08732",
+    "date": "2026-06-09",
+    "title": "Latent Geometry Beyond Search: Amortizing Planning in World Models"
+  },
+  {
+    "id": "2606.06836",
+    "date": "2026-06-09",
+    "title": "Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation"
+  },
+  {
+    "id": "2606.06904",
+    "date": "2026-06-09",
+    "title": "ActionMap: Robot Policy Learning via Voxel Action Heatmap"
+  },
+  {
+    "id": "2606.07217",
+    "date": "2026-06-09",
+    "title": "Robotic Policy Adaptation via Weight-Space Meta-Learning"
+  },
+  {
+    "id": "2512.00883",
+    "date": "2026-06-09",
+    "title": "Audio-Visual World Models: Grounding Multisensory Imagination for Embodied Agents"
+  },
+  {
+    "id": "2604.08168",
+    "date": "2026-06-09",
+    "title": "ViVa: A Video-Generative Value Model for Robot Reinforcement Learning"
+  },
+  {
+    "id": "2605.24011",
+    "date": "2026-06-09",
+    "title": "ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.07118",
+    "date": "2026-06-09",
+    "title": "QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation"
+  },
+  {
+    "id": "2606.07386",
+    "date": "2026-06-09",
+    "title": "Spline Policy: A Structured Representation for Robot Policies"
+  },
+  {
+    "id": "2603.24576",
+    "date": "2026-06-09",
+    "title": "Chameleon: Control-Indexed Prospective Memory for Visuomotor Manipulation"
+  },
+  {
+    "id": "2606.06627",
+    "date": "2026-06-09",
+    "title": "What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?"
+  },
+  {
+    "id": "2606.06761",
+    "date": "2026-06-09",
+    "title": "AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipu"
+  },
+  {
+    "id": "2606.06790",
+    "date": "2026-06-09",
+    "title": "Learning All-Terrain Locomotion for a Planetary Rover with Actively Articulated Suspension"
   }
 ]
