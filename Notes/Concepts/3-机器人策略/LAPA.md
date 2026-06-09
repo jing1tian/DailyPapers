@@ -16,6 +16,7 @@ Latent Action Pretraining from Videos，一种通过视频预训练学习潜在�
 
 ## 代表工作
 - [[CLAW]]: 与 LAPA 做了系统对比
+- [[RobotsNeedMore]]: 引用 LAPA 作为从视频学习离散潜在动作词汇表的代表
 
 ## 相关概念
 - [[LAM]]
