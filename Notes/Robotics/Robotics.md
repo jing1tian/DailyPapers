@@ -10,12 +10,13 @@ generated_by: dailypaper-skills
 
 ## 子目录
 
-- [[Notes/Robotics/VLA/VLA|VLA]] · 21 篇笔记 · 1 个子目录
-- [[Notes/Robotics/World Model/World Model|World Model]] · 30 篇笔记 · 1 个子目录
+- [[Notes/Robotics/VLA/VLA|VLA]] · 22 篇笔记 · 1 个子目录
+- [[Notes/Robotics/World Model/World Model|World Model]] · 33 篇笔记 · 1 个子目录
 
 ## 当前目录笔记
 
 - [[Notes/Robotics/BISON|BISON]]
+- [[Notes/Robotics/FAWAM|FAWAM]]
 - [[Notes/Robotics/GRAIL|GRAIL]]
 - [[Notes/Robotics/HumanNet|HumanNet]]
 - [[Notes/Robotics/PhysX-Omni|PhysX-Omni]]

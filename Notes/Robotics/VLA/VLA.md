@@ -35,6 +35,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/VLA-REPLICA|VLA-REPLICA]]
 - [[Notes/Robotics/VLA/WorldVLN|WorldVLN]]
 - [[Notes/Robotics/VLA/X-DiffVLA|X-DiffVLA]]
+- [[Notes/Robotics/VLA/vla.cpp|vla.cpp]]
 
 ## 说明
 
