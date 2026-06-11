@@ -4,9 +4,9 @@ method_name: "NextForcing"
 authors: [Gangwei Xu, Qihang Zhang, Jiaming Zhou, Xing Zhu, Yujun Shen, Xin Yang, Yinghao Xu]
 year: 2026
 venue: arXiv
-tags: [world-model, autoregressive-generation, video-prediction, multi-chunk-prediction, robot-manipulation]
+tags: [world-action-model, autoregressive-generation, video-prediction, multi-chunk-prediction, robot-manipulation]
 zotero_collection: 3-Robotics/World Model
-image_source: local
+image_source: online
 arxiv_html: https://arxiv.org/html/2606.11187
 created: 2026-06-11
 ---
@@ -287,31 +287,31 @@ $$
 
 ### Figure 1: 训练收敛曲线
 
-![[NextForcing_fig1.png]]
+![Figure 1 - 训练收敛曲线](https://arxiv.org/html/2606.11187v1/x1.png)
 
 **说明**: RoboTwin 上不同训练步数的任务成功率（%）。Next Forcing 在 12 fps 和 50 fps 两种设置下都收敛更快、最终精度更高。在 50 fps 高帧率下，5k 步时 Next Forcing（70.2/61.6%）vs 基线（45.5/31.9%），体现了近视监督问题在高帧率下的严重性。
 
 ### Figure 2: 整体架构图
 
-![[NextForcing_fig2.png]]
+![Figure 2 - 整体架构图](https://arxiv.org/html/2606.11187v1/x2.png)
 
 **说明**: Next Forcing 整体框架。主模型去噪当前块，同时链式 [[Multi-Chunk Prediction|MCP 模块]] 利用主模型的多层特征预测未来块（next¹, next², …）。独立噪声注入、时序块偏移和因果链设计确保 MCP 模块有效学习长程时序依赖。
 
 ### Figure 3: PhyWorld 定性对比
 
-![[NextForcing_fig3.png]]
+![Figure 3 - PhyWorld 定性对比](https://arxiv.org/html/2606.11187v1/x3.png)
 
 **说明**: PhyWorld 物理一致性的定性对比，展示 5 帧（起始、3 个中间帧、结束）。上：Ground Truth，中：Next Forcing，下：基线。Next Forcing 生成的视频更符合物理规律，基线常出现物理异常。
 
 ### Figure 4: 通用视频预训练 FVD 曲线
 
-![[NextForcing_fig4.png]]
+![Figure 4 - 通用视频预训练 FVD](https://arxiv.org/html/2606.11187v1/x4.png)
 
 **说明**: 在 3.5M 通用视频数据上预训练时，Next Forcing 与基线的 FVD 随训练步数变化。Test Set 1（人体活动视频）：Next Forcing 在 10k 步超越基线 50k 步；58% FVD 降低（94 vs 225）。
 
 ### Figure 5: 注意力掩码设计
 
-![[NextForcing_fig5.png]]
+![Figure 5 - 注意力掩码](https://arxiv.org/html/2606.11187v1/x5.png)
 
 **说明**: 主模型与 MCP 模块的注意力掩码（仅展示视频 token，省略动作 token）。主模型使用因果掩码，MCP 模块各深度的注意力范围与因果链结构对应。
 
@@ -449,7 +449,7 @@ PhyWorld 定性结果（Figure 3）显示：Next Forcing 生成的视频物理�
 ### 对比
 
 - [[Diffusion Forcing]]: 修改噪声调度的"forcing"方法，Next Forcing 修改预测目标，两者正交
-- [[Self Forcing]]: 修改上下文策略，与 Next Forcing 也正交可组合
+- [[Self-Forcing]]: 修改上下文策略，与 Next Forcing 也正交可组合
 
 ### 方法相关
 
