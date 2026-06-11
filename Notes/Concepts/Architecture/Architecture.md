@@ -45,6 +45,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/Dual-System Architecture|Dual-System Architecture]]
 - [[Notes/Concepts/Architecture/FVD|FVD]]
 - [[Notes/Concepts/Architecture/GAIA-1|GAIA-1]]
+- [[Notes/Concepts/Architecture/Gaussian Splatting|Gaussian Splatting]]
 - [[Notes/Concepts/Architecture/GigaWorld|GigaWorld]]
 - [[Notes/Concepts/Architecture/HY-Pano 2.0|HY-Pano 2.0]]
 - [[Notes/Concepts/Architecture/Hierarchical Memory|Hierarchical Memory]]
