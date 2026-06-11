@@ -37,6 +37,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/VLA/Pi0.5|Pi0.5]]
 - [[Notes/Concepts/VLA/RIPT-VLA|RIPT-VLA]]
 - [[Notes/Concepts/VLA/RT-2|RT-2]]
+- [[Notes/Concepts/VLA/SAM2Act|SAM2Act]]
 - [[Notes/Concepts/VLA/SimpleVLA-RL|SimpleVLA-RL]]
 - [[Notes/Concepts/VLA/SmolVLA|SmolVLA]]
 - [[Notes/Concepts/VLA/Spatial Forcing|Spatial Forcing]]

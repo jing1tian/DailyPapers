@@ -24,6 +24,7 @@ $$
 - Kingma & Welling（2013）：VAE 原始论文
 - [[潜扩散模型]]：使用 VAE 编解码器作为像素-潜空间桥梁
 - [[OrbiSim]]: OrbiSim-Vision 使用 VAE 在潜空间执行扩散去噪
+- [[HiMem-WAM]]: 用 VAE 结构学习低层运动潜在动作 tokenizer
 
 ## 相关概念
 - [[潜扩散模型]]
