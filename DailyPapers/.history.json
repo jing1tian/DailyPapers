@@ -1,15 +1,5 @@
 [
   {
-    "id": "2605.06747",
-    "date": "2026-05-12",
-    "title": "HumanNet: Scaling Human-centric Video Learning to One Million Hours"
-  },
-  {
-    "id": "2605.07915",
-    "date": "2026-05-12",
-    "title": "What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion"
-  },
-  {
     "id": "2605.10903",
     "date": "2026-05-13",
     "title": "CapVector: Learning Transferable Capability Vectors in Parametric Space for Vision-Language-Action Models"
@@ -40,6 +30,11 @@
     "title": "L2P: Unlocking Latent Potential for Pixel Generation"
   },
   {
+    "id": "2605.12500",
+    "date": "2026-05-14",
+    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
+  },
+  {
     "id": "2605.13724",
     "date": "2026-05-16",
     "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation"
@@ -63,6 +58,11 @@
     "id": "2605.15190",
     "date": "2026-05-16",
     "title": "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO"
+  },
+  {
+    "id": "2509.24695",
+    "date": "2026-05-16",
+    "title": "SANA-Video: Efficient Video Generation with Block Linear Diffusion\n  Transformer"
   },
   {
     "id": "2605.15964",
@@ -385,6 +385,11 @@
     "title": "DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos"
   },
   {
+    "id": "2605.18739",
+    "date": "2026-05-22",
+    "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation"
+  },
+  {
     "id": "2605.22812",
     "date": "2026-05-23",
     "title": "GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations"
@@ -463,6 +468,11 @@
     "id": "2605.22020",
     "date": "2026-05-23",
     "title": "ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting"
+  },
+  {
+    "id": "2510.22200",
+    "date": "2026-05-23",
+    "title": "LongCat-Video Technical Report"
   },
   {
     "id": "2605.22791",
@@ -805,6 +815,11 @@
     "title": "Uni-LaViRA: Language-Vision-Robot Actions Translation for Unified Embodied Navigation"
   },
   {
+    "id": "2605.28691",
+    "date": "2026-05-29",
+    "title": "OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning"
+  },
+  {
     "id": "2408.15998",
     "date": "2026-05-31",
     "title": "Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of\n  Encoders"
@@ -828,31 +843,6 @@
     "id": "2602.08968",
     "date": "2026-05-31",
     "title": "stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation"
-  },
-  {
-    "id": "2605.18739",
-    "date": "2026-05-22",
-    "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation"
-  },
-  {
-    "id": "2509.24695",
-    "date": "2026-05-16",
-    "title": "SANA-Video: Efficient Video Generation with Block Linear Diffusion\n  Transformer"
-  },
-  {
-    "id": "2510.22200",
-    "date": "2026-05-23",
-    "title": "LongCat-Video Technical Report"
-  },
-  {
-    "id": "2605.28691",
-    "date": "2026-05-29",
-    "title": "OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning"
-  },
-  {
-    "id": "2605.12500",
-    "date": "2026-05-14",
-    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
   },
   {
     "id": "2605.31234",
@@ -1638,5 +1628,105 @@
     "id": "2606.11087",
     "date": "2026-06-11",
     "title": "Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning"
+  },
+  {
+    "id": "2606.12403",
+    "date": "2026-06-12",
+    "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors"
+  },
+  {
+    "id": "2606.12217",
+    "date": "2026-06-12",
+    "title": "Making Foresight Actionable: Repurposing Representation Alignment in World Action Models"
+  },
+  {
+    "id": "2606.11743",
+    "date": "2026-06-12",
+    "title": "TacCoRL: Integrating Tactile Feedback into VLA via Simulation"
+  },
+  {
+    "id": "2606.12105",
+    "date": "2026-06-12",
+    "title": "DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model"
+  },
+  {
+    "id": "2606.12109",
+    "date": "2026-06-12",
+    "title": "Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning"
+  },
+  {
+    "id": "2606.12352",
+    "date": "2026-06-12",
+    "title": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy"
+  },
+  {
+    "id": "2606.12366",
+    "date": "2026-06-12",
+    "title": "APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies"
+  },
+  {
+    "id": "2604.13733",
+    "date": "2026-06-12",
+    "title": "Vision-Language-Action Jump-Starting for Reinforcement Learning Robotic Agents"
+  },
+  {
+    "id": "2606.12072",
+    "date": "2026-06-12",
+    "title": "World Model Self-Distillation: Training World Models to Solve General Tasks"
+  },
+  {
+    "id": "2606.11396",
+    "date": "2026-06-12",
+    "title": "PLUME: Probabilistic Latent Unified World Modeling and Parameter Estimation for Multi-Finger Manipulation"
+  },
+  {
+    "id": "2606.12299",
+    "date": "2026-06-12",
+    "title": "Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering"
+  },
+  {
+    "id": "2606.11324",
+    "date": "2026-06-12",
+    "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models"
+  },
+  {
+    "id": "2606.12402",
+    "date": "2026-06-12",
+    "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Reasoning"
+  },
+  {
+    "id": "2606.11901",
+    "date": "2026-06-12",
+    "title": "DuoBench: A Reproducible Benchmark for Bimanual Manipulation in Simulation"
+  },
+  {
+    "id": "2606.11408",
+    "date": "2026-06-12",
+    "title": "Dynamic Execution Horizon Prediction for Chunk-based Robot Policies"
+  },
+  {
+    "id": "2606.11221",
+    "date": "2026-06-12",
+    "title": "LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein"
+  },
+  {
+    "id": "2606.11894",
+    "date": "2026-06-12",
+    "title": "Wild3R: Feed-Forward 3D Gaussian Splatting from Unconstrained Sparse Photos"
+  },
+  {
+    "id": "2606.12316",
+    "date": "2026-06-12",
+    "title": "Slots, Transitions, Loops: Learning Composable World Models for ARC"
+  },
+  {
+    "id": "2606.11489",
+    "date": "2026-06-12",
+    "title": "Steering Multirobot Behavior via Closed-Loop Affine Activation Editing"
+  },
+  {
+    "id": "2606.11628",
+    "date": "2026-06-12",
+    "title": "LUCID: Learning Embodiment-Agnostic Intent Models from Unstructured Human Video"
   }
 ]
