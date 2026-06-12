@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [Diffusion Forcing, 扩散强制]
+aliases: [Diffusion Forcing, 扩散强制, 扩散强制训练]
 ---
 
 # Diffusion Forcing

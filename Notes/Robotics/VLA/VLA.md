@@ -14,7 +14,9 @@ generated_by: dailypaper-skills
 
 ## 当前目录笔记
 
+- [[Notes/Robotics/VLA/3DThinkVLA|3DThinkVLA]]
 - [[Notes/Robotics/VLA/AHEAD|AHEAD]]
+- [[Notes/Robotics/VLA/AffordanceVLA|AffordanceVLA]]
 - [[Notes/Robotics/VLA/Agentic-VLA|Agentic-VLA]]
 - [[Notes/Robotics/VLA/COAST|COAST]]
 - [[Notes/Robotics/VLA/CapVector|CapVector]]
@@ -31,8 +33,10 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/VLA-Hijack|VLA-Hijack]]
 - [[Notes/Robotics/VLA/VLA-Pruner|VLA-Pruner]]
 - [[Notes/Robotics/VLA/VLA-REPLICA|VLA-REPLICA]]
+- [[Notes/Robotics/VLA/WorldPilot|WorldPilot]]
 - [[Notes/Robotics/VLA/WorldVLN|WorldVLN]]
 - [[Notes/Robotics/VLA/X-DiffVLA|X-DiffVLA]]
+- [[Notes/Robotics/VLA/vla.cpp|vla.cpp]]
 
 ## 说明
 

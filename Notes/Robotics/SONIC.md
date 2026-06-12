@@ -467,6 +467,9 @@ $$
 - [[OpenHomie]]: 步态专用控制器，速度追踪 43% vs SONIC 98.5%
 - [[BeyondMimic]]: 运动追踪对比，test-rep 85.8% vs SONIC 99.6%
 
+### 被引用
+- [[MotionWAM]]: 以 SONIC 作为统一全身运动 token 的低层控制器，实现任务驱动足部交互
+
 ### 方法相关
 
 - [[有限标量量化]]: 核心量化方法，避免 VQ-VAE codebook collapse

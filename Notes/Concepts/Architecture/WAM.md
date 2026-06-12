@@ -23,6 +23,9 @@ $$
 - [[WAM-Survey]]: 首篇系统性 WAM 综述
 - [[GigaWorld]]: Joint WAM 代表
 - [[UniPi]]: Cascaded WAM 早期基础工作
+- [[Flash-WAM]]: 通过模态感知一致性蒸馏实现 WAM 单步推理（23× 加速），首个系统解决 WAM 推理延迟问题的工作
+- [[MotionWAM]]: 双 DiT 耦合架构，固定流时间步提取 Video DiT 中间特征驱动 Motion DiT，4.9 Hz 实时全身人形机器人控制，+32% vs GR00T-N1.7
+- [[WorldPilot]]: 将 WAM 输出（场景演化潜在 + 预期轨迹）通过双路径注入 VLA，在 LIBERO-Plus 达到 84.7% SOTA
 
 ## 相关概念
 - [[VLA]]: WAM 的前驱，标准 VLA 不建模世界动态
