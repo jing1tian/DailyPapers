@@ -11,6 +11,7 @@ generated_by: dailypaper-skills
 ## 当前目录笔记
 
 - [[Notes/Concepts/Models/CLIP|CLIP]]
+- [[Notes/Concepts/Models/Cosmos-Predict-2.5|Cosmos-Predict-2.5]]
 - [[Notes/Concepts/Models/Cosmos-Predict|Cosmos-Predict]]
 - [[Notes/Concepts/Models/Cosmos-Predict2|Cosmos-Predict2]]
 - [[Notes/Concepts/Models/DINOv2|DINOv2]]

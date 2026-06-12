@@ -33,6 +33,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/VLA-Hijack|VLA-Hijack]]
 - [[Notes/Robotics/VLA/VLA-Pruner|VLA-Pruner]]
 - [[Notes/Robotics/VLA/VLA-REPLICA|VLA-REPLICA]]
+- [[Notes/Robotics/VLA/WorldPilot|WorldPilot]]
 - [[Notes/Robotics/VLA/WorldVLN|WorldVLN]]
 - [[Notes/Robotics/VLA/X-DiffVLA|X-DiffVLA]]
 - [[Notes/Robotics/VLA/vla.cpp|vla.cpp]]
