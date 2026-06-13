@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [world-action-model, visual-tokenization, latent-action, robot-manipulation, flow-matching, diffusion-transformer]
 zotero_collection: Robotics/World Model
-image_source: online
+image_source: local
 arxiv_html: https://arxiv.org/html/2606.13674
 created: 2026-06-13
 ---
@@ -61,7 +61,7 @@ created: 2026-06-13
 
 ### 模型架构
 
-![Figure 1: RepWAM 系统概览](https://arxiv.org/html/2606.13674/2606.13674v1/x1.png)
+![[RepWAM_fig1_overview.png]]
 
 RepWAM 采用三阶段 **表示中心** 架构：
 
@@ -207,37 +207,37 @@ $$
 
 ### Figure 1: 系统概览 — RepViTok 与 Latent Action Tokenizer
 
-![Figure 1: Overview of representation visual-action tokenizer](https://arxiv.org/html/2606.13674/2606.13674v1/x1.png)
+![[RepWAM_fig1_overview.png]]
 
-**说明**: RepWAM 的表示视觉-动作分词器概览。左侧：RepViTok 将视觉帧编码为对齐基础模型的语义 token；右侧：潜在动作 tokenizer 通过 [[逆动力学模型|IDM]] 和 [[前向动力学模型|FDM]] 在语义空间中捕获帧间变换，生成动作 token $\ell_t$。
+**说明**: RepWAM 的表示视觉-动作分词器概览。对比三种方案：(a) Video VAE（像素重建）、(b) Latent Action Models（视觉动作分离）、(c) RepWAM 的 Representation Visual-Action Tokenizer。RepViTok 将视觉帧对齐至冻结基础模型；[[逆动力学模型|IDM]] 和 [[前向动力学模型|FDM]] 在同一语义空间中捕获帧间变换 $\ell_t$。
 
 ### Figure 2: 真实机器人任务成功率对比
 
-![Figure 2: Real-world success rate comparison](https://arxiv.org/html/2606.13674/2606.13674v1/x2.png)
+![[RepWAM_fig2_success_rate.png]]
 
 **说明**: 三项真实 Franka 双臂操控任务（Pick Fruit / Push Drawer / Insert Tube）上的成功率对比（各 10 次）。RepWAM-5B 在 Push Drawer 和 Insert Tube 任务上显著超越 [[pi0.5]] 和 [[Lingbot-VA]]，长时域任务提升尤为明显。
 
 ### Figure 3: 真实机器人执行可视化
 
-![Figure 3: Successful real-robot executions](https://arxiv.org/html/2606.13674/2606.13674v1/x3.png)
+![[RepWAM_fig3_robot_execution.png]]
 
 **说明**: 三项任务的代表性成功执行帧序列。从左到右分别为：Pick Fruit（抓取水果）、Push Drawer（推抽屉）、Insert Tube（插管），展示模型在精细操控和长时域任务中的稳定性。
 
 ### Figure 4: 潜在动作可视化与 IDM 适配损失
 
-![Figure 4: Latent action comparison and IDM transfer](https://arxiv.org/html/2606.13674/2606.13674v1/x4.png)
+![[RepWAM_fig4_latent_actions.png]]
 
 **说明**: 左图对比 [[LAPA]] 与 RepViTok 的潜在动作可视化——RepViTok 的动作在语义空间中呈现更结构化的聚类。右图展示以冻结动作 latent 进行 IDM 适配时的损失曲线，验证两阶段迁移策略的有效性。
 
 ### Figure 5: 视频 CFG 尺度对成功率的影响
 
-![Figure 5: Effect of video CFG scale on RoboTwin 2.0](https://arxiv.org/html/2606.13674/2606.13674v1/x5.png)
+![[RepWAM_fig5_cfg.png]]
 
 **说明**: 在 RoboTwin 2.0 Easy/Hard 两个难度下，不同视频[[分类器自由引导|CFG]] 尺度（1.0 / 1.25 / 2.0）的影响对比。RepWAM 在 CFG=1.0（无额外 CFG 外推）时表现最佳，证明语义潜空间已内在包含语言对齐信息，无需 CFG 增强。
 
 ### Figure 6: ImageNet 和 UCF101 上的重建质量对比
 
-![Figure 6: Qualitative reconstruction examples](https://arxiv.org/html/2606.13674/2606.13674v1/x6.png)
+![[RepWAM_fig6_reconstruction.png]]
 
 **说明**: RepViTok 在 ImageNet（图像）和 UCF101（视频）上的定性重建示例。保留语义细节的同时维持时序一致性，优于纯重建基线。
 

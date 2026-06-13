@@ -49,6 +49,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/WAM-Survey|WAM-Survey]]
 - [[Notes/Robotics/World Model/WAMSurvey|WAMSurvey]]
 - [[Notes/Robotics/World Model/WBench|WBench]]
+- [[Notes/Robotics/World Model/WEAVER|WEAVER]]
 - [[Notes/Robotics/World Model/WMRobotSurvey|WMRobotSurvey]]
 - [[Notes/Robotics/World Model/WorldOlympiad|WorldOlympiad]]
 - [[Notes/Robotics/World Model/minWM|minWM]]
