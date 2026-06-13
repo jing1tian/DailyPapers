@@ -1,20 +1,5 @@
 [
   {
-    "id": "2605.10903",
-    "date": "2026-05-13",
-    "title": "CapVector: Learning Transferable Capability Vectors in Parametric Space for Vision-Language-Action Models"
-  },
-  {
-    "id": "2605.10921",
-    "date": "2026-05-13",
-    "title": "RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark"
-  },
-  {
-    "id": "2509.18154",
-    "date": "2026-05-13",
-    "title": "MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe"
-  },
-  {
     "id": "2605.12090",
     "date": "2026-05-14",
     "title": "World Action Models: The Next Frontier in Embodied AI"
@@ -1728,5 +1713,90 @@
     "id": "2606.11628",
     "date": "2026-06-12",
     "title": "LUCID: Learning Embodiment-Agnostic Intent Models from Unstructured Human Video"
+  },
+  {
+    "id": "2606.13494",
+    "date": "2026-06-13",
+    "title": "NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation"
+  },
+  {
+    "id": "2606.13674",
+    "date": "2026-06-13",
+    "title": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers"
+  },
+  {
+    "id": "2606.13672",
+    "date": "2026-06-13",
+    "title": "WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation"
+  },
+  {
+    "id": "2606.12690",
+    "date": "2026-06-13",
+    "title": "EWAM: An Enhanced World Action Model for Closed-Loop Online Adaptation"
+  },
+  {
+    "id": "2606.13578",
+    "date": "2026-06-13",
+    "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories"
+  },
+  {
+    "id": "2606.13515",
+    "date": "2026-06-13",
+    "title": "MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models"
+  },
+  {
+    "id": "2606.12497",
+    "date": "2026-06-13",
+    "title": "μVLA: On Recurrent Memory for Partially Observable Manipulation in VLA Models"
+  },
+  {
+    "id": "2606.13053",
+    "date": "2026-06-13",
+    "title": "EA-WM: Event-Aware World Models with Task-Specification Grounding"
+  },
+  {
+    "id": "2606.13435",
+    "date": "2026-06-13",
+    "title": "GIVE: Grounding Human Gestures in Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.12978",
+    "date": "2026-06-13",
+    "title": "Trajectory-Level Redirection Attacks on Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.12859",
+    "date": "2026-06-13",
+    "title": "AIR-VLA+: Decoupling Movement and Manipulation via Cascaded Dual-Action Decoders"
+  },
+  {
+    "id": "2606.12475",
+    "date": "2026-06-13",
+    "title": "Learning to Assist: Collaborative VLAs for Implicit Human-Robot Collaboration"
+  },
+  {
+    "id": "2602.04208",
+    "date": "2026-06-13",
+    "title": "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for VLA"
+  },
+  {
+    "id": "2604.08958",
+    "date": "2026-06-13",
+    "title": "WOMBET: World Model-Based Experience Transfer for Robust and Sample-efficient RL"
+  },
+  {
+    "id": "2606.12956",
+    "date": "2026-06-13",
+    "title": "SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation"
+  },
+  {
+    "id": "2606.12706",
+    "date": "2026-06-13",
+    "title": "VLADriveBench: Evaluating CoT-Action Relationship in VLA for Autonomous Driving"
+  },
+  {
+    "id": "2606.12640",
+    "date": "2026-06-13",
+    "title": "Individual Control Barrier Functions-Guided Diffusion Model for Safe Offline Multi-Agent RL"
   }
 ]
