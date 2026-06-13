@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [navigation-world-model, goal-conditioned-navigation, diffusion-policy, visual-foresight, world-model, robot-navigation, action-chunking]
 zotero_collection: Robotics/World Model
-image_source: online
+image_source: mixed
 arxiv_html: https://arxiv.org/html/2606.13494
 created: 2026-06-13
 ---
@@ -201,43 +201,43 @@ $$
 
 ### Figure 1: NavWAM 与先前方法的对比
 
-![Figure 1](https://arxiv.org/html/2606.13494/2606.13494v1/x1.png)
+![[NavWAM_teaser.png]]
 
 **说明**: 先前的[[导航世界模型]]（如 NWM）预测候选动作的未来视图并依赖外部规划器（CEM）选择动作。NavWAM 则在一个策略表示中同时预测未来自中心视图、目标进展值和可执行动作块，将视觉预见性转化为闭环导航策略。
 
 ### Figure 2: NavWAM 整体架构
 
-![Figure 2](https://arxiv.org/html/2606.13494/2606.13494v1/x2.png)
+![[NavWAM_architecture.png]]
 
 **说明**: 展示[[潜在画布]]的 9 帧结构——帧 0-3 为观测输入（因果VAE填充、机器人状态、目标图像、当前观测），帧 4-8 为[[扩散模型]]生成目标（动作块、未来状态、未来观测×2、目标进展值）。[[DiT（扩散变换器）|DiT]] 主干对整个画布去噪，支持三种条件模式切换。
 
 ### Figure 3: 视觉一致性对比
 
-![Figure 3](https://arxiv.org/html/2606.13494/2606.13494v1/x3.png)
+*（视觉一致性对比图，见论文 Figure 3）*
 
 **说明**: NavWAM（zero-shot）的主体一致性（Subject Consistency）得分为 0.668，优于 NWM（0.524），微调后为 0.635。说明 NavWAM 生成的未来视图在内容连续性上更优。
 
 ### Figure 4: GO Stanford 上的未来视图预测定性结果
 
-![Figure 4](https://arxiv.org/html/2606.13494/2606.13494v1/x4.png)
+*（GO Stanford 定性预测结果，见论文 Figure 4）*
 
 **说明**: 在 GO Stanford 测试集上的定性预测结果，展示 NavWAM 在不同场景下的视觉预见性质量，预测的未来帧与真实帧的一致性较高。
 
 ### Figure 5: 真实机器人闭环部署
 
-![Figure 5](https://arxiv.org/html/2606.13494/2606.13494v1/x5.png)
+![[NavWAM_qualitative_realworld.png]]
 
 **说明**: Diablo 轮式机器人在 4 种真实场景（办公室、储藏室、会议室、走廊）中执行目标条件导航任务的轨迹图，NavWAM 成功率 79.2%（19/24 episodes）。
 
 ### Figure 6: 真实机器人闭环执行中的未来视图预测
 
-![Figure 6](https://arxiv.org/html/2606.13494/2606.13494v1/x6.png)
+![[NavWAM_realworld_foresight.png]]
 
 **说明**: 展示 NavWAM 在真实闭环执行时实时生成的未来视图预测，验证了策略在执行动作的同时保留了可解释的视觉预见性。
 
 ### Figure S1: 机器人平台（补充材料）
 
-![Figure S1](https://arxiv.org/html/2606.13494/2606.13494v1/x7.png)
+![[NavWAM_robot_platform.png]]
 
 **说明**: Direct Drive Tech Diablo 轮式机器人平台，搭载 Intel RealSense D455 RGB-D 相机和 NVIDIA Jetson AGX Orin 计算单元，3D 打印机架承载传感器。
 
