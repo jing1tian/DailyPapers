@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [world-action-model, visual-navigation, diffusion-policy, goal-conditioned, action-chunking, robot-navigation]
 zotero_collection: Robotics/World Model
-image_source: online
+image_source: local
 arxiv_html: https://arxiv.org/html/2606.13494
 created: 2026-06-13
 ---
@@ -219,43 +219,43 @@ $$
 
 ### Figure 1: 导航方法对比概览
 
-![Figure 1](https://arxiv.org/html/2606.13494/2606.13494v1/x1.png)
+![[NavWAM_fig1_teaser.png]]
 
 **说明**: 三种导航范式对比。(a) 直接策略：$o_t, g \to a_t$，无视觉预见性；(b) 世界模型+规划：预测未来观测，[[Cross-Entropy Method|CEM]] 搜索动作（高计算代价）；(c) NavWAM：统一 Canvas 联合预测，无需外部规划。
 
 ### Figure 2: NavWAM 架构概览（Canvas 布局）
 
-![Figure 2](https://arxiv.org/html/2606.13494/2606.13494v1/x2.png)
+![[NavWAM_fig2_architecture.png]]
 
 **说明**: 展示 9 帧潜在 Canvas 的完整布局。帧 0-3 为已观测（蓝色），帧 4-8 为预测目标（橙色）。[[Diffusion Transformer]] 去噪器统一处理所有帧，策略模式下单次前向传播输出动作块。
 
 ### Figure 3: 视觉一致性指标
 
-![Figure 3](https://arxiv.org/html/2606.13494/2606.13494v1/x3.png)
+![[NavWAM_fig3_consistency.png]]
 
 **说明**: GO Stanford 数据集上各方法的视觉一致性（Subject Consistency）对比。NavWAM 零样本（0.668）显著优于 NWM（0.524），微调后 0.635，验证了联合训练改善了未来观测的视觉质量。
 
 ### Figure 4: 定性未来视图预测
 
-![Figure 4](https://arxiv.org/html/2606.13494/2606.13494v1/x4.png)
+![[NavWAM_fig4_qualitative.png]]
 
 **说明**: NavWAM 在测试集上的未来帧预测示例（h=4 和 h=8）。模型能在不同场景下预测出语义一致的未来观测，h=4 时预测质量明显优于 h=8（时间更短，预测更准确）。
 
 ### Figure 5: 真实机器人导航轨迹
 
-![Figure 5](https://arxiv.org/html/2606.13494/2606.13494v1/x5.png)
+![[NavWAM_fig5_qualitative_realworld.png]]
 
 **说明**: 四个室内场景（Office、Storage、Meeting Room、Hallway）下 NavWAM、NWM、OmniVLA 的导航轨迹对比。NavWAM 轨迹更平滑，能更可靠地到达目标（绿色星号），NWM 几乎完全失败。
 
 ### Figure 6: 执行过程中的未来视图预测
 
-![Figure 6](https://arxiv.org/html/2606.13494/2606.13494v1/x6.png)
+![[NavWAM_fig6_realworld_foresight.png]]
 
 **说明**: 真实机器人执行过程中，NavWAM 实时预测的未来观测帧与实际观测帧对比。预测图像语义上与实际走廊/房间结构一致，验证了视觉预见性在真实部署中的有效性。
 
 ### Figure S1: 机器人平台（补充材料）
 
-![Figure S1](https://arxiv.org/html/2606.13494/2606.13494v1/x7.png)
+![[NavWAM_figS1_robot_platform.png]]
 
 **说明**: 实验使用的 Direct Drive Tech Diablo 轮式机器人平台，搭载 Intel RealSense D455 RGB-D 相机和 NVIDIA Jetson AGX Orin 计算单元，3D 打印机架承载传感器。
 
