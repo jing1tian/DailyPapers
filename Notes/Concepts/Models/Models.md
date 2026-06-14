@@ -28,6 +28,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Models/InternVL3|InternVL3]]
 - [[Notes/Concepts/Models/Inverse Dynamics Model|Inverse Dynamics Model]]
 - [[Notes/Concepts/Models/Matrix-Game|Matrix-Game]]
+- [[Notes/Concepts/Models/Mini-Gemini|Mini-Gemini]]
 - [[Notes/Concepts/Models/NWM|NWM]]
 - [[Notes/Concepts/Models/OmniGen2|OmniGen2]]
 - [[Notes/Concepts/Models/OpenVLA|OpenVLA]]
