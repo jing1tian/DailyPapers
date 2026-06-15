@@ -18,6 +18,7 @@ aliases: [A Low-cost Open-source Hardware System for Bimanual Teleoperation]
 - ALOHA (2023): Learning Fine-Grained Bimanual Manipulation
 - Mobile ALOHA (2024)
 - ACT (2023)
+- [[vla.cpp]]: 在 ALOHA 双臂平台上测试 GR00T-N1.6，vla.cpp 推理延迟（470ms）vs PyTorch（620ms），Task 1 成功率从 15% 提升至 90%
 
 ## 相关概念
 - [[ACT]]

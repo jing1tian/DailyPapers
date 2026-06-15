@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [DiT, 扩散变换器]
+aliases: [DiT, 扩散变换器, 扩散Transformer]
 ---
 
 # Diffusion Transformer
