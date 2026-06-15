@@ -1798,5 +1798,10 @@
     "id": "2606.11289",
     "date": "2026-06-14",
     "title": "i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models"
+  },
+  {
+    "id": "2605.12500",
+    "date": "2026-06-15",
+    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
   }
 ]
