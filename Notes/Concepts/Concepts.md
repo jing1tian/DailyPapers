@@ -23,7 +23,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/7-规划与控制/7-规划与控制|7-规划与控制]] · 32 篇笔记 · 0 个子目录
 - [[Notes/Concepts/8-仿真器/8-仿真器|8-仿真器]] · 21 篇笔记 · 0 个子目录
 - [[Notes/Concepts/9-无人机/9-无人机|9-无人机]] · 2 篇笔记 · 0 个子目录
-- [[Notes/Concepts/Architecture/Architecture|Architecture]] · 103 篇笔记 · 0 个子目录
+- [[Notes/Concepts/Architecture/Architecture|Architecture]] · 104 篇笔记 · 0 个子目录
 - [[Notes/Concepts/Data/Data|Data]] · 5 篇笔记 · 0 个子目录
 - [[Notes/Concepts/Datasets/Datasets|Datasets]] · 32 篇笔记 · 0 个子目录
 - [[Notes/Concepts/Models/Models|Models]] · 38 篇笔记 · 0 个子目录
