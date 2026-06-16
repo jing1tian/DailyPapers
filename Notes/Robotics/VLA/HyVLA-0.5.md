@@ -82,7 +82,7 @@ HyVLA-0.5 采用 **[[Mixture-of-Transformers|MoT]]** 架构：
 **设计动机**: 利用 [[因果注意力|Causal Attention]] 跨帧捕捉时序依赖，同时用双向注意力在单帧内建模多视角关系，压缩历史信息。
 
 **具体实现**:
-- 每 4 层插入一个**时序注意力块**，对同一空间位置的 $K$ 帧施加因果掩码注意力（Temporal Pass）：
+- 每 4 层插入一个**时序注意力块**，对同一空间位置的 $K$ 帧施加[[Block Causal Attention|因果掩码注意力]]（Temporal Pass）：
   $$\tilde{\mathbf{V}}_p = \text{CausalAttn}(\mathbf{Q}_p, \mathbf{K}_p, \mathbf{V}_p)$$
 - 再在每帧内对 $n$ 个 patch 施加双向注意力（Spatial Pass）：
   $$\tilde{\mathbf{X}}_k = \mathbf{W}_O \cdot \text{Attn}(\mathbf{Q}_k, \mathbf{K}_k, \tilde{\mathbf{V}}_k)$$
@@ -131,7 +131,7 @@ HyVLA-0.5 采用 **[[Mixture-of-Transformers|MoT]]** 架构：
 
 ## 关键公式
 
-### 公式 1: [[观测-动作定义|多模态观测与动作块]]
+### 公式 1: 多模态观测与动作块定义
 
 $$
 \mathbf{o}_t = (\mathcal{I}_t, \ell, \mathbf{s}_t), \quad \mathcal{I}_t = \{I^v_{t-k}\}_{v=1:n}^{k=0:K-1}, \quad \mathbf{A}_t = (\mathbf{a}_t, \ldots, \mathbf{a}_{t+H-1})

@@ -61,7 +61,7 @@ created: 2026-06-16
 
 ### 模型架构
 
-![Figure 1](https://arxiv.org/html/2606.13769/2606.13769v1/x1.png)
+![Figure 1](https://arxiv.org/html/2606.13769v1/x1.png)
 
 **说明**: μ₀ 的整体流程。TraceExtract 从未标注视频中提取 3D 交互轨迹，μ₀ 预训练后冻结，动作专家通过门控交叉注意力注入轨迹特征，最终输出机器人控制命令。
 
@@ -84,7 +84,7 @@ created: 2026-06-16
 2. **3D 轨迹构建（3D Trace Construction）**: "全局–局部重建"策略——用稀疏锚帧做粗对齐，再在密集局部块内精确追踪，通过重投影到每块的参考相机坐标系得到"屏幕对齐 3D 轨迹"
 3. **事件中心字幕（Event-Centric Captioning）**: 在运动加速度峰值处分段，在加速度谷值处放置块边界，对应操作子目标；使用 [[VLM]] 为每段生成语言标注
 
-![Figure 2](https://arxiv.org/html/2606.13769/2606.13769v1/x2.png)
+![Figure 2](https://arxiv.org/html/2606.13769v1/x2.png)
 
 **说明**: TraceExtract 流水线。左：[[DINOv2]] 实体聚类关键点选择；中：全局对齐 3D 轨迹追踪；右：分层 VLM 事件字幕生成。
 
@@ -184,7 +184,7 @@ $$
 
 ### Figure 3: μ₀ 架构图
 
-![Figure 3](https://arxiv.org/html/2606.13769/2606.13769v1/x3.png)
+![Figure 3](https://arxiv.org/html/2606.13769v1/x3.png)
 
 **说明**: μ₀ 完整架构。左侧：VLM 条件上下文编码（[[SmolVLM2]] + 可训练深度 patch stem）；中间：轨迹专家的样条查询 token 与语义流匹配去噪；右侧：动作专家通过门控交叉注意力注入轨迹特征输出机器人动作。
 
@@ -256,7 +256,7 @@ $$
 
 ### Figure 4: 轨迹预测定性对比
 
-![Figure 4](https://arxiv.org/html/2606.13769/2606.13769v1/x4.png)
+![Figure 4](https://arxiv.org/html/2606.13769v1/x4.png)
 
 **说明**: μ₀ 预测的 3D 轨迹（彩色曲线）与 GT 对比。覆盖物体、手部、工具等不同类型交互点，轨迹平滑且语义准确。
 
@@ -264,7 +264,7 @@ $$
 
 ### Figure 5: UR3 真实机器人实验设置
 
-![Figure 5](https://arxiv.org/html/2606.13769/2606.13769v1/x5.png)
+![Figure 5](https://arxiv.org/html/2606.13769v1/x5.png)
 
 **说明**: UR3 机械臂实验平台，包含 3 个操作任务。μ₀ 平均成功率 91.7%，超越 π₀（71.7%）约 20 个百分点，超越 TraceGen（81.7%）约 10 个百分点。
 
@@ -272,7 +272,7 @@ $$
 
 ### Figure 6: 真实机器人任务成功率对比
 
-![Figure 6](https://arxiv.org/html/2606.13769/2606.13769v1/x6.png)
+![Figure 6](https://arxiv.org/html/2606.13769v1/x6.png)
 
 **说明**: UR3 三项任务成功率柱状图。μ₀ 在所有任务上均领先所有 baseline，包括有动作监督的 [[π₀]]、[[π₀.₅]] 等 VLA 方法。
 
@@ -280,7 +280,7 @@ $$
 
 ### Figure 7: 扩展定性结果
 
-![Figure 7](https://arxiv.org/html/2606.13769/2606.13769v1/x7.png)
+![Figure 7](https://arxiv.org/html/2606.13769v1/x7.png)
 
 **说明**: 跨多种操作任务的 3D 交互轨迹预测可视化，展示 μ₀ 在不同场景、物体和具身体上的泛化能力。
 
@@ -288,7 +288,7 @@ $$
 
 ### Figure 8: 缩放实验
 
-![Figure 8](https://arxiv.org/html/2606.13769/2606.13769v1/x8.png)
+![Figure 8](https://arxiv.org/html/2606.13769v1/x8.png)
 
 **说明**: 模型规模与数据量的缩放曲线。更大的模型和更多数据均单调提升性能，动作头容量受限时收益最大。
 
