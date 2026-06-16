@@ -47,12 +47,14 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/SWEET|SWEET]]
 - [[Notes/Robotics/World Model/WALL-WM|WALL-WM]]
 - [[Notes/Robotics/World Model/WAM-Survey|WAM-Survey]]
+- [[Notes/Robotics/World Model/WAM4D|WAM4D]]
 - [[Notes/Robotics/World Model/WAMSurvey|WAMSurvey]]
 - [[Notes/Robotics/World Model/WBench|WBench]]
 - [[Notes/Robotics/World Model/WEAVER|WEAVER]]
 - [[Notes/Robotics/World Model/WMRobotSurvey|WMRobotSurvey]]
 - [[Notes/Robotics/World Model/WorldOlympiad|WorldOlympiad]]
 - [[Notes/Robotics/World Model/minWM|minWM]]
+- [[Notes/Robotics/World Model/mu0|mu0]]
 - [[Notes/Robotics/World Model/stable-worldmodel|stable-worldmodel]]
 
 ## 说明
