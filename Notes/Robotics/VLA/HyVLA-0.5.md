@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [vla, cross-embodiment, flow-matching, preference-optimization, data-collection, robot-manipulation]
 zotero_collection: Robotics/VLA
-image_source: online
+image_source: mixed
 arxiv_html: https://arxiv.org/html/2606.14409
 created: 2026-06-16
 ---
@@ -62,7 +62,7 @@ created: 2026-06-16
 
 ### 模型架构
 
-![Figure 1: Overview](https://arxiv.org/html/2606.14409/2606.14409v1/x1.png)
+![[HyVLA05_fig1_overview.png]]
 
 HyVLA-0.5 采用 **[[Mixture-of-Transformers|MoT]]** 架构：
 
@@ -77,7 +77,7 @@ HyVLA-0.5 采用 **[[Mixture-of-Transformers|MoT]]** 架构：
 
 #### 模块 1: 紧凑记忆编码器（Compact Memory Encoder）
 
-![Figure 2: Architecture](https://arxiv.org/html/2606.14409/2606.14409v1/x2.png)
+![[HyVLA05_fig2_architecture.png]]
 
 **设计动机**: 利用 [[因果注意力|Causal Attention]] 跨帧捕捉时序依赖，同时用双向注意力在单帧内建模多视角关系，压缩历史信息。
 
@@ -101,9 +101,9 @@ HyVLA-0.5 采用 **[[Mixture-of-Transformers|MoT]]** 架构：
 
 #### 模块 3: FlowPRO 离线 RL 后训练
 
-![Figure 5: FlowPRO Pipeline](https://arxiv.org/html/2606.14409/2606.14409v1/fig/rl/RL_Algorithm2.png)
+![[HyVLA05_fig5_flowpro_pipeline.png]]
 
-![Figure 6: RPRO Optimization](https://arxiv.org/html/2606.14409/2606.14409v1/fig/rl/RL_Data2.png)
+![[HyVLA05_fig6_rpro_opt.png]]
 
 **设计动机**: 利用操作员干预产生的失败-成功对比轨迹作为对比信号，无需奖励模型，直接用 [[DPO|偏好优化]] 范式提升策略。
 
@@ -116,9 +116,9 @@ HyVLA-0.5 采用 **[[Mixture-of-Transformers|MoT]]** 架构：
 
 #### 模块 4: 异步推理 + C¹ Bézier 平滑
 
-![Figure 7: Asynchronous Timeline](https://arxiv.org/html/2606.14409/2606.14409v1/x5.png)
+![[HyVLA05_fig7_async_timeline.png]]
 
-![Figure 8: Trajectory Comparison](https://arxiv.org/html/2606.14409/2606.14409v1/fig/inference/action_comparison_10.png)
+![[HyVLA05_fig8_traj_comparison.png]]
 
 **设计动机**: 解决动作块边界处的 C⁰ 不连续抖动问题，同时让推理与执行并行提升实时性。
 
@@ -267,7 +267,7 @@ $$
 
 ### Figure 1: 系统概览
 
-![Figure 1: Overview](https://arxiv.org/html/2606.14409/2606.14409v1/x1.png)
+![[HyVLA05_fig1_overview.png]]
 
 **说明**: HyVLA-0.5 端到端全栈概览。[[Mixture-of-Transformers|MoT]] 主干配合[[Flow Matching|流匹配]]动作专家，以 [[Delta-Chunk 动作表示]] 预训练于 10K 小时 UMI 语料，再分 Track-A（同本体微调）和 Track-B（跨本体迁移）两路后训练，最后通过 FlowPRO 离线 RL 优化精细操作。
 
@@ -275,7 +275,7 @@ $$
 
 ### Figure 2: 模型架构
 
-![Figure 2: Architecture](https://arxiv.org/html/2606.14409/2606.14409v1/x2.png)
+![[HyVLA05_fig2_architecture.png]]
 
 **说明**: [[Mixture-of-Transformers|MoT]] 框架通过共享联合注意力机制实现跨模态交互。紧凑记忆编码器每 4 层插入时序注意力块，右侧注意力掩码图展示了块状因果注意力策略：多视角内双向、帧间因果。
 
@@ -283,7 +283,7 @@ $$
 
 ### Figure 3: UMI 数据采集硬件
 
-![Figure 3: UMI Workstation](https://arxiv.org/html/2606.14409/2606.14409v1/x3.png)
+![[HyVLA05_fig3_umi_hardware.jpeg]]
 
 **说明**: 自研指尖 UMI 数据采集站。外部光学动捕系统提供亚毫米 6-DoF 精度跟踪，自我中心 RGB-D 相机捕捉场景语义，每手一个 6 维力/力矩传感器夹爪采集触觉信息。
 
@@ -291,7 +291,7 @@ $$
 
 ### Figure 4: UMI 数据集分布
 
-![Figure 4: Dataset Distribution](https://arxiv.org/html/2606.14409/2606.14409v1/x4.png)
+![[HyVLA05_fig4_dataset_dist.png]]
 
 **说明**: Hy-UMI-10K 数据集的多维度分布图。覆盖洗衣房 (28.5%)、厨房 (19.2%)、个护杂务 (13.8%)、精细/工具使用 (10.4%)、收纳 (10.0%)、清洁 (5.7%) 六大场景家族，共 70 个任务，11M+ Episode。
 
@@ -299,7 +299,7 @@ $$
 
 ### Figure 5: FlowPRO 数据流水线
 
-![Figure 5: FlowPRO Pipeline](https://arxiv.org/html/2606.14409/2606.14409v1/fig/rl/RL_Algorithm2.png)
+![[HyVLA05_fig5_flowpro_pipeline.png]]
 
 **说明**: 干预-回滚数据采集流程。操作员触发干预时系统回滚到先前状态，执行段记录为负轨迹，遥操纠正段为正轨迹，Bézier 平滑合成缺失的对应动作，生成逐状态偏好元组 $(s, a^w, a^l)$。
 
@@ -307,7 +307,7 @@ $$
 
 ### Figure 6: RPRO 优化示意
 
-![Figure 6: RPRO Optimization](https://arxiv.org/html/2606.14409/2606.14409v1/fig/rl/RL_Data2.png)
+![[HyVLA05_fig6_rpro_opt.png]]
 
 **说明**: 可学习策略 $\pi_\theta$ 与冻结参考策略 $\pi_{ref}$ 对同一状态预测动作，对比项将 $\pi_\theta$ 拉向胜出动作、推离失败动作，近端正则项（蓝色虚线）防止奖励幅度爆炸。
 
@@ -315,7 +315,7 @@ $$
 
 ### Figure 7: 异步执行时间线
 
-![Figure 7: Async Timeline](https://arxiv.org/html/2606.14409/2606.14409v1/x5.png)
+![[HyVLA05_fig7_async_timeline.png]]
 
 **说明**: 策略推理、Bézier 平滑、缓冲区写入与伺服率动作执行并行重叠，历史动作 $\mathcal{H}$ 用于估计下一块拼接切线。
 
@@ -323,7 +323,7 @@ $$
 
 ### Figure 8: Bézier 平滑效果
 
-![Figure 8: Trajectory Comparison](https://arxiv.org/html/2606.14409/2606.14409v1/fig/inference/action_comparison_10.png)
+![[HyVLA05_fig8_traj_comparison.png]]
 
 **说明**: 原始动作块（橙色）vs. 异步 Bézier 平滑轨迹（蓝色）。平滑后双臂 x/y/z 各维度在块边界处的不连续性显著减少。
 
@@ -331,7 +331,7 @@ $$
 
 ### Figure 9: 真实机器人评估
 
-![Figure 9: Real-robot Evaluation](https://arxiv.org/html/2606.14409/2606.14409v1/fig/evaluation/results.png)
+![[HyVLA05_fig9_realrobot_eval.png]]
 
 **说明**: 六项双臂操作任务的真实机器人评估。左侧为任务执行快照，右侧为每任务成功率（%）。
 
@@ -339,7 +339,7 @@ $$
 
 ### Figure 10: 力觉引导物体区分
 
-![Figure 10: Force-guided Discrimination](https://arxiv.org/html/2606.14409/2606.14409v1/fig/evaluation/unitree_force.png)
+![[HyVLA05_fig10_force_unitree.png]]
 
 **说明**: Unitree G1 上的力觉引导物体区分任务。机器人依次抓取两个质量不同的箱子，将较轻的放入前篮，验证 UMI 工作站能采集可操作的触觉信息。
 
@@ -347,7 +347,7 @@ $$
 
 ### Figure 11: 额外精细任务
 
-![Figure 11: Fine-grained Tasks](https://arxiv.org/html/2606.14409/2606.14409v1/x6.png)
+![[HyVLA05_fig11_finegrained.png]]
 
 **说明**: FlowPRO 后训练中的两项额外精细任务：USB 插入（亚毫米精度）和笔帽组装（空中双臂协同）。
 
@@ -355,7 +355,7 @@ $$
 
 ### Figure 12: FlowPRO 迭代成功率
 
-![Figure 12: Iteration Success Rate](https://arxiv.org/html/2606.14409/2606.14409v1/x7.png)
+![[HyVLA05_fig12_iteration_sr.png]]
 
 **说明**: 四项真实机器人任务的逐迭代成功率。Iteration 0 为共享 SFT checkpoint，Iterations 1-3 为连续后训练轮次。RPRO 在整个迭代过程中始终优于 DAgger 和 $\pi_{0.6}^*$。
 
