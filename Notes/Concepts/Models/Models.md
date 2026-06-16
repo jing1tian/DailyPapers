@@ -43,6 +43,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Models/Seer-Large|Seer-Large]]
 - [[Notes/Concepts/Models/SigLIP|SigLIP]]
 - [[Notes/Concepts/Models/SigLIP2|SigLIP2]]
+- [[Notes/Concepts/Models/SmolVLM2|SmolVLM2]]
 - [[Notes/Concepts/Models/TRELLIS|TRELLIS]]
 - [[Notes/Concepts/Models/V-JEPA2|V-JEPA2]]
 - [[Notes/Concepts/Models/VFM|VFM]]
