@@ -31,6 +31,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/ITC|ITC]]
 - [[Notes/Robotics/World Model/JOPAT|JOPAT]]
 - [[Notes/Robotics/World Model/LeWM|LeWM]]
+- [[Notes/Robotics/World Model/MV-WAM|MV-WAM]]
 - [[Notes/Robotics/World Model/Mirage|Mirage]]
 - [[Notes/Robotics/World Model/MotionWAM|MotionWAM]]
 - [[Notes/Robotics/World Model/NavWAM|NavWAM]]

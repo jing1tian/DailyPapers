@@ -31,6 +31,8 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/RLDX-1|RLDX-1]]
 - [[Notes/Robotics/VLA/RoVLA|RoVLA]]
 - [[Notes/Robotics/VLA/SOMA|SOMA]]
+- [[Notes/Robotics/VLA/SafeDojo|SafeDojo]]
+- [[Notes/Robotics/VLA/UniviewVLA|UniviewVLA]]
 - [[Notes/Robotics/VLA/VLA-Hijack|VLA-Hijack]]
 - [[Notes/Robotics/VLA/VLA-Pruner|VLA-Pruner]]
 - [[Notes/Robotics/VLA/VLA-REPLICA|VLA-REPLICA]]

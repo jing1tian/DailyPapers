@@ -42,6 +42,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Datasets/RoboTwin|RoboTwin]]
 - [[Notes/Concepts/Datasets/RoboTwin2|RoboTwin2]]
 - [[Notes/Concepts/Datasets/Robomimic|Robomimic]]
+- [[Notes/Concepts/Datasets/SafeLIBERO|SafeLIBERO]]
 
 ## 说明
 
