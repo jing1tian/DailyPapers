@@ -19,6 +19,7 @@ aliases: [SpatialVLA, Spatial VLA]
 ## 代表工作
 
 - [[DyGRO-VLA]]: 超越 SpatialVLA（97.1% vs 78.1%），尤其在 Long 任务大幅领先
+- [[G3VLA]]: 将 SpatialVLA 列为"空间感知 VLA"路线的代表，与其依赖显式 3D 输入或修改动作表示的做法相比，G3VLA 仅通过几何旁路注入视觉 token，不改变动作空间
 
 ## 相关概念
 

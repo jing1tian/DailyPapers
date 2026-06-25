@@ -19,6 +19,7 @@ SIMPLER（SimplerEnv）是一个专门用于评测 VLA 模型的视觉机器人�
 ## 代表工作
 
 - Li et al. 2024: SIMPLER/SimplerEnv 原始论文
+- [[SC3-Eval]]: 沿用 SIMPLER 提出的 [[MMRV (Mean Maximum Rank Violation)|MMRV]] 指标衡量视频世界模型评测器对策略排序一致性的还原能力，并与 SIMPLER 等物理仿真路线在真实世界基准上做对比
 
 ## 相关概念
 
@@ -26,3 +27,5 @@ SIMPLER（SimplerEnv）是一个专门用于评测 VLA 模型的视觉机器人�
 - [[SimplerEnv]]
 - [[ManiSkill3]]
 - [[Robosuite]]
+- [[MMRV (Mean Maximum Rank Violation)]]
+- [[Pearson Correlation]]

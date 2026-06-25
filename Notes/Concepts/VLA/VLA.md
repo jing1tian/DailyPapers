@@ -13,6 +13,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/VLA/ACT|ACT]]
 - [[Notes/Concepts/VLA/Action Chunking|Action Chunking]]
 - [[Notes/Concepts/VLA/AnyGrasp|AnyGrasp]]
+- [[Notes/Concepts/VLA/AutoVLA|AutoVLA]]
 - [[Notes/Concepts/VLA/Bimanual Manipulation|Bimanual Manipulation]]
 - [[Notes/Concepts/VLA/BitVLA|BitVLA]]
 - [[Notes/Concepts/VLA/CoT-VLA|CoT-VLA]]

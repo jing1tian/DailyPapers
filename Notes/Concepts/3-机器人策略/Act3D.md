@@ -19,6 +19,7 @@ aliases: [Act3D, Act-3D, 3D-point-based manipulation]
 
 - Act3D 原始论文: 在 RLBench 上取得 53.1% 平均成功率
 - [[GAF]]: 将 Act3D 作为 V-3D-A 范式基线进行对比（GAF 以 +7.3% 成功率超越）
+- [[G3VLA]]: 将 Act3D 列为"结构化 3D 表征"代表性工作，与 G3VLA 仅在视觉 token 层面注入几何信息（不改变动作空间）的轻量方案形成对比
 
 ## 相关概念
 

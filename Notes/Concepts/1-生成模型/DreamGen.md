@@ -18,6 +18,7 @@ aliases: [DreamGen]
 ## 代表工作
 
 - [[RoboDream]]: 对比基线，RoboDream 通过渲染机器人条件化避免了 embodiment hallucination
+- [[GRA]]: 作为对比基线（DreamGen-style），在与 GRA 相同的真实数据预算下，逆动力学伪动作恢复反而使三任务平均成功率比纯真实数据基线低 12.2 个百分点，被用以说明伪动作类方法的局限性
 
 ## 相关概念
 

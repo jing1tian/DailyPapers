@@ -24,6 +24,8 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/ERVLA|ERVLA]]
 - [[Notes/Robotics/VLA/EXPO-FT|EXPO-FT]]
 - [[Notes/Robotics/VLA/FineVLA|FineVLA]]
+- [[Notes/Robotics/VLA/G3VLA|G3VLA]]
+- [[Notes/Robotics/VLA/GRA|GRA]]
 - [[Notes/Robotics/VLA/HyVLA-0.5|HyVLA-0.5]]
 - [[Notes/Robotics/VLA/MolmoAct2|MolmoAct2]]
 - [[Notes/Robotics/VLA/Omega-QVLA|Omega-QVLA]]

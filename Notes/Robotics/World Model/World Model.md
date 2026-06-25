@@ -44,6 +44,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/RepWAM|RepWAM]]
 - [[Notes/Robotics/World Model/RoboDream|RoboDream]]
 - [[Notes/Robotics/World Model/SANTS|SANTS]]
+- [[Notes/Robotics/World Model/SC3-Eval|SC3-Eval]]
 - [[Notes/Robotics/World Model/SKIP|SKIP]]
 - [[Notes/Robotics/World Model/SWEET|SWEET]]
 - [[Notes/Robotics/World Model/WALL-WM|WALL-WM]]

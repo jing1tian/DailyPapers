@@ -39,6 +39,7 @@ $$
 - [[RLDX-1]]: 在 action 与 physics 双流上都用 FM。
 - [[MolmoAct2]] (2026): Action Expert 用 FM，预训练 K=4、微调 K=8 的多样本损失。
 - [[GEM-4D]] (2026): 双流流匹配框架，视频 DiT 与几何 DiT 各自用 FM 训练，几何蒸馏损失通过中间特征梯度回传到视频主干。
+- [[SC3-Eval]] (2026): 在 [[Cosmos3]] backbone 上沿用 [[Rectified Flow|rectified-flow]] 形式化的 FM 目标，正向动力学、跨视角补全、逆向动力学三种训练模式共享同一套 FM 损失，仅通过哪些 token 加噪来区分模式。
 
 ## 相关概念
 
