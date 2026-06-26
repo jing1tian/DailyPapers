@@ -22,6 +22,7 @@ $$\hat{f}_t = \text{model}(\hat{f}_{t-1}, \ldots), \quad \hat{f}_{t-1} = \text{s
 
 ## 代表工作
 - [[LongLive-2.0]]：用 Self-Forcing 将预训练双向 DiT 微调为稳定的长视频 AR 生成模型
+- [[Causal-rCM]]：用 Teacher-Forcing 一致性模型（TF-CM）初始化 Self-Forcing + DMD（SF-DMD）精调阶段，系统对比 6 种初始化策略后证明 TF-CM 综合表现最稳健
 
 ## 相关概念
 - [[DiT]]

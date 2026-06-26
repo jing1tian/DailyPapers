@@ -20,7 +20,7 @@ created: 2026-06-26
 | 机构 | 清华大学（朱军组）、NVIDIA |
 | 日期 | June 2026 |
 | 项目主页 | 无独立项目主页，代码基于 [[rCM]] 仓库扩展 |
-| 对比基线 | [[Self-Forcing]]、[[Causal Forcing]]、LongLive、AnyFlow |
+| 对比基线 | [[Self-Forcing]]、[[因果蒸馏|Causal Forcing]]、LongLive、AnyFlow |
 | 链接 | [arXiv](https://arxiv.org/abs/2606.25473) / [HTML](https://arxiv.org/html/2606.25473) / [Code (rCM repo)](https://github.com/NVlabs/rcm) |
 
 ---
@@ -565,7 +565,7 @@ $$
 
 ### 对比
 
-- [[Causal Forcing]] (Causal Forcing): 直接基线，用 ODE 初始化桥接架构差异后做蒸馏
+- [[因果蒸馏|Causal Forcing]] (Zhu et al., 2026): 直接基线，用 ODE 初始化桥接架构差异后做蒸馏
 - LongLive / AnyFlow: chunk-wise 流式视频生成基线，Table 4 中的对比对象
 - [[Cosmos3|Cosmos 3]]: 本文方法的实际应用载体，验证了跨架构（MoT）迁移的可行性
 

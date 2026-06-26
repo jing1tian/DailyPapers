@@ -23,6 +23,7 @@ $$
 - [[RoVLA]]: OC 损失中对干净预测施加 stop-gradient，防止一致性约束导致的平凡解
 - SimSiam: 纯依赖 stop-gradient 实现自监督，无需负样本
 - BYOL: stop-gradient + EMA 目标网络
+- [[Causal-rCM]]: 自回归 rollout 去噪链中除最后一步外全部施加 stop-gradient，仅保留最终一步可微，控制 Self-Forcing 训练的计算图规模与梯度路径
 
 ## 相关概念
 - [[对比学习]]

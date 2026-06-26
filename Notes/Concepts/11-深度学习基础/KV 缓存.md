@@ -30,6 +30,7 @@ $$
 
 - [[WEAVER]]: 在多步流匹配推理中，对稀疏记忆和短期历史 token 跨去噪步缓存 KV，配合 [[SPRINT]] 实现最高 5-10× 速度提升
 - GPT 系列模型：标准语言模型推理中的 KV 缓存
+- [[Causal-rCM]]: 设计后-all-to-all 布局的 KV 缓存与 Ulysses 上下文并行兼容方案，使自回归视频生成 rollout 时缓存的 K/V 可直接在 CP-local 布局下复用，避免重复转换
 
 ## 相关概念
 

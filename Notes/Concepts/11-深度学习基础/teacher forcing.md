@@ -17,6 +17,7 @@ aliases: [Teacher Forcing, teacher forcing, 教师强制]
 ## 代表工作
 - Williams & Zipser（1989）：Teacher Forcing 概念提出
 - [[OrbiSim]]: 采用两阶段训练策略——先 teacher forcing 再自回归 rollout，以余弦退火调整比例
+- [[Causal-rCM]]: 提出"打包因果前向"（拼接干净上下文+含噪目标，配合 TF 专用掩码）把 Teacher Forcing 用于因果一致性蒸馏（TF-CM），作为 Self-Forcing DMD 精调前的初始化阶段
 
 ## 相关概念
 - [[余弦退火]]

@@ -34,6 +34,7 @@ $$
 
 - [[WEAVER]]: 在机器人操作世界模型中应用 Diffusion Forcing，显著改善 150 步（10s）长时序视频预测的 FID 指标
 - Diffusion Forcing (Chen et al., 2024): 原始提出论文，在视频生成和决策任务上验证
+- [[Causal-rCM]]: 将 Diffusion Forcing 作为 Self-Forcing 初始化策略消融对比的基线之一，发现其综合表现不如 Teacher-Forcing 一致性模型（TF-CM）初始化
 
 ## 相关概念
 

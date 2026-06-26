@@ -27,6 +27,7 @@ $$
 ## 代表工作
 
 - [[HYWorld2]]: WorldStereo 2.0 使用 DMD 蒸馏为 4 步推理模型
+- [[Causal-rCM]]: 在自回归视频扩散场景中，作为 Self-Forcing 阶段（SF-DMD）的核心在线蒸馏目标，用 Teacher-Forcing 一致性模型初始化以缓解 DMD 对初始化敏感、易 mode collapse 的问题
 
 ## 相关概念
 
