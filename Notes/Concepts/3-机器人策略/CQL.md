@@ -20,6 +20,7 @@ $$\min_Q \alpha \left(\mathbb{E}_{s\sim\mathcal{D},a\sim\pi}[Q(s,a)] - \mathbb{E
 
 ## 代表工作
 - [[RankQ]]：指出 CQL 在 offline-to-online 转换时的不稳定性，提出 ranking 替代方案
+- [[FORCE]]：将 CQL 作为纯 offline RL baseline 对比，在 PullCubeTool、PlaceSphere 等任务上成功率为 0，凸显纯保守 Q 学习在 online 转换上的局限
 
 ## 相关概念
 - [[SAC]]

@@ -13,6 +13,9 @@ aliases: []
 2. 与 [[RT-X]] 同属跨本体数据训练路线，但更强调下游微调的易用性
 3. 常作为操作策略的开源 baseline 出现在对比实验中
 
+## 代表工作
+- [[FORCE]]: 以 Octo 作为 VLA backbone 之一，验证三阶段 RL 微调框架在不同 backbone 上的有效性（BC 基线仅 3.58% 提升至 FORCE 微调后 82.3%）
+
 ## 相关概念
 - [[RT-X]]
 - [[OpenVLA]]

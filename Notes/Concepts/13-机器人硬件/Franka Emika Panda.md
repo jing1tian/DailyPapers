@@ -19,6 +19,7 @@ Franka Emika Panda 是德国 Franka Emika 公司生产的 7 自由度研究用�
 ## 代表工作
 
 - [[GeoSem-WAM]]: 使用 Franka Panda 进行真实世界操作验证（8 类任务，400 次实验）
+- [[FORCE]]: 单臂 Franka Panda + 双 [[Intel RealSense|RealSense D435]]（腕部+侧视角），验证 6 个真实任务的 RL 微调效果
 
 ## 相关概念
 

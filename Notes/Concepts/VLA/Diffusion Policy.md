@@ -18,6 +18,7 @@ aliases: [Diffusion Policy, DP]
 - 3D Diffusion Policy / DP3
 - 各类 [[VLA]] 工作把扩散头作为 action expert
 - [[SVP-IL]]: 在 DP 的 U-Net 噪声预测器前融合空间视觉提示特征，提升语言条件下多物体消歧能力
+- [[FORCE]]: Policy 网络采用扩散式/一致性策略结构，配合 [[VGPD]] 进行价值引导的在线自蒸馏微调
 
 ## 相关概念
 - [[Diffusion Model]]
