@@ -17,6 +17,7 @@ aliases: [Diffusion Policy, DP]
 - Diffusion Policy (Chi 2023)
 - 3D Diffusion Policy / DP3
 - 各类 [[VLA]] 工作把扩散头作为 action expert
+- [[SVP-IL]]: 在 DP 的 U-Net 噪声预测器前融合空间视觉提示特征，提升语言条件下多物体消歧能力
 
 ## 相关概念
 - [[Diffusion Model]]

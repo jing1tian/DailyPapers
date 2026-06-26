@@ -13,7 +13,8 @@ DeepMind 的多模态机器人操作模型，用提示模板（图像+文本）�
 2. 详见代表工作
 
 ## 代表工作
-- 待补充
+- [[SVP-IL]]: Related Work 中将 VIMA 的多模态提示方式列为空间视觉提示路线的代表性早期工作之一
 
 ## 相关概念
-- 待补充
+- [[SAM3|SAM 3]]
+- [[Vision-Language-Action Model|VLA]]
