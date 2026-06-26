@@ -28,6 +28,7 @@ $$\mathcal{L}_\text{RF} = \mathbb{E}_{t,z_0,\epsilon} \left\| v_\theta(z_t, t, c
 
 - [[OSCAR]]: 将 Rectified Flow 作为动作条件视频世界模型的训练目标
 - [[Cosmos-Predict2.5]]: 使用 Rectified Flow 训练的大规模视频扩散模型
+- [[Causal-rCM]]: 使用 RF 原生形式（而非 TrigFlow 包装）实现 Teacher-Forcing 连续时间一致性模型，发现 RF 原生形式在因果设定下生成质量更优、输出更平滑
 
 ## 相关概念
 

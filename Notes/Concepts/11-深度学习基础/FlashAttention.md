@@ -25,6 +25,7 @@ $$m_i = \max_j(q_i k_j^T / \sqrt{d}), \quad \ell_i = \sum_j e^{q_i k_j^T/\sqrt{d
 ## 代表工作
 - [[FlashAttention]]: Dao et al., 2022 — 原始版本
 - [[FlashAttention3]]: Hopper GPU 专项优化版本
+- [[Causal-rCM]]: 自研 custom-mask FlashAttention-2 JVP 内核，使前向模式自动微分（[[JVP]]）在自定义因果掩码下高效计算，支撑 Teacher-Forcing 连续时间一致性模型训练
 
 ## 相关概念
 - [[DiT]]
