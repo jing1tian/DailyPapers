@@ -25,6 +25,7 @@ HIL-SERL（Human-in-the-Loop Sample Efficient Robotic Reinforcement Learning）�
 ## 代表工作
 
 - [[EXPO-FT]]: 与 HIL-SERL 对比，展示 VLA RL 微调的优越性
+- [[FORCE]]: 旨在去除人类在环干预依赖，用分布式 Warm-up + VGPD 实现全自动化 RL 微调
 
 ## 相关概念
 

@@ -30,6 +30,7 @@ $$
 
 - [[DyGRO-VLA]]: 在 VLA 多任务 RL 场景中使用 Cal-QL 平滑离线到在线过渡
 - Nakamoto et al. (2023): Cal-QL 原始论文
+- [[FORCE]]: Stage 1 离线预训练直接采用 Cal-QL 校准 Critic 损失，并在 Stage 2 引入分布式 Warm-up 进一步解决"初始遗忘"问题
 
 ## 相关概念
 

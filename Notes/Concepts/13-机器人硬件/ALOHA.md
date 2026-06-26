@@ -19,6 +19,7 @@ aliases: [A Low-cost Open-source Hardware System for Bimanual Teleoperation]
 - Mobile ALOHA (2024)
 - ACT (2023)
 - [[vla.cpp]]: 在 ALOHA 双臂平台上测试 GR00T-N1.6，vla.cpp 推理延迟（470ms）vs PyTorch（620ms），Task 1 成功率从 15% 提升至 90%
+- [[SVP-IL]]: 在 Aloha-AgileX 平台上做真实世界双臂评测（摆桌、桌面清理、双臂分拣），平均成功率 60.0%，超过 π₀ 和 DP
 
 ## 相关概念
 - [[ACT]]

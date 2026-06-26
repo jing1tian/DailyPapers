@@ -16,6 +16,7 @@ aliases: [ManiSkill 3, SAPIEN ManiSkill]
 
 ## 代表工作
 - [[RoboFlow4D]]: 在 ManiSkill3 上评估 3D flow WM
+- [[FORCE]]: 在 ManiSkill3 六个操作任务（StackCube、PullCube、PushCube、PullCubeTool、PlaceSphere、PickCube）上验证 RL 微调框架
 
 ## 相关概念
 - [[MuJoCo]]

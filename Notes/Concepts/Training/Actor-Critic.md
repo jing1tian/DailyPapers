@@ -35,6 +35,7 @@ $$
 - [[DyGRO-VLA]]: 使用集成 Critic（K=4）+ h 步 Bellman 回归的 Actor-Critic 框架进行在线 VLA-RL
 - SAC (Soft Actor-Critic): 加熵正则化的 Actor-Critic
 - TD3: 双 Critic 减少高估
+- [[FORCE]]: 双 Critic 集成 + 2 层 MLP 结构，配合 [[VGPD]] 实现价值引导的策略自蒸馏
 
 ## 相关概念
 

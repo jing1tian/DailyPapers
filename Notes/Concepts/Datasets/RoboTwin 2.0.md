@@ -19,6 +19,7 @@ aliases: [RoboTwin 2.0, RoboTwin]
 ## 代表工作
 
 - [[CapVector]]: 在 RoboTwin 2.0 上验证 capability vector 的跨环境 OOD 迁移能力；随机化背景数据集比单一背景提取的向量性能显著更高
+- [[SVP-IL]]: 在 RoboTwin 2.0 的 Clean/Randomized 两种协议上评测，验证显式空间提示对视觉分布偏移的鲁棒性优于纯数据增强
 
 ## 相关概念
 

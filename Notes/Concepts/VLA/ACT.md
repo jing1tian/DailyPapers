@@ -23,6 +23,7 @@ $$
 ## 代表工作
 - [[ACT]]: "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware"
 - [[Diffusion Policy]]: 类似的 action chunking + 扩散生成策略
+- [[SVP-IL]]: 作为基线之一，在语言条件多物体歧义任务上成功率大幅崩溃（2.8%），凸显纯端到端 action chunking 方法缺乏显式语义定位的弱点
 
 ## 相关概念
 - [[Diffusion Policy]]

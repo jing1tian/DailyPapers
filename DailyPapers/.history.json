@@ -1,105 +1,5 @@
 [
   {
-    "id": "2605.22896",
-    "date": "2026-05-26",
-    "title": "Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models"
-  },
-  {
-    "id": "2601.00969",
-    "date": "2026-05-26",
-    "title": "V-VLAPS: Value-Guided Planning for Vision-Language-Action Models"
-  },
-  {
-    "id": "2605.23345",
-    "date": "2026-05-26",
-    "title": "SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models"
-  },
-  {
-    "id": "2605.23128",
-    "date": "2026-05-26",
-    "title": "$\\pi_0$-EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control"
-  },
-  {
-    "id": "2506.14135",
-    "date": "2026-05-26",
-    "title": "GAF: Gaussian Action Field as a 4D Representation for Dynamic World Modeling in Robotic Manipulation"
-  },
-  {
-    "id": "2605.23856",
-    "date": "2026-05-26",
-    "title": "Point Tracking Improves World Action Models"
-  },
-  {
-    "id": "2605.22882",
-    "date": "2026-05-26",
-    "title": "GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation"
-  },
-  {
-    "id": "2605.23270",
-    "date": "2026-05-26",
-    "title": "ChainFlow-VLA: Causal Flow Planning with Vision-Language Models"
-  },
-  {
-    "id": "2605.23602",
-    "date": "2026-05-26",
-    "title": "GlowGS: Generative Semantic Feature Learning for 3D Gaussian Splatting in Nighttime Glow Scenes"
-  },
-  {
-    "id": "2602.07399",
-    "date": "2026-05-26",
-    "title": "VGAS: Value-Guided Action-Chunk Selection for Few-Shot Vision-Language-Action Adaptation"
-  },
-  {
-    "id": "2605.22967",
-    "date": "2026-05-26",
-    "title": "Learned Relay Representations for Forward-Thinking Discrete Diffusion Models"
-  },
-  {
-    "id": "2605.23568",
-    "date": "2026-05-26",
-    "title": "TactileReflex: Noise-Statistics-Driven Vision-Tactile Reflex Control for Force-Sensitive Manipulation"
-  },
-  {
-    "id": "2605.04568",
-    "date": "2026-05-26",
-    "title": "Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination"
-  },
-  {
-    "id": "2605.23523",
-    "date": "2026-05-26",
-    "title": "ComPose: When to Trust Hands for Object Pose Tracking"
-  },
-  {
-    "id": "2605.23089",
-    "date": "2026-05-26",
-    "title": "Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics"
-  },
-  {
-    "id": "2511.02239",
-    "date": "2026-05-26",
-    "title": "LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation"
-  },
-  {
-    "id": "2605.23025",
-    "date": "2026-05-26",
-    "title": "World Machine: Towards Generative World Modeling for Time-Series"
-  },
-  {
-    "id": "2605.23275",
-    "date": "2026-05-26",
-    "title": "Diffusion Domain Expansion: Learning to Coordinate Pre-trained Diffusion Models"
-  },
-  {
-    "id": "2605.23403",
-    "date": "2026-05-26",
-    "title": "Hybrid Quantum-Classical Corrective Diffusion Modeling for Meteorological Downscaling"
-  },
-  {
-    "id": "2605.22986",
-    "date": "2026-05-26",
-    "title": "Robots That Know What to Ask: Recovering Misaligned Rewards through Targeted Explanations"
-  },
-  {
     "id": "2605.25044",
     "date": "2026-05-27",
     "title": "X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models"
@@ -1883,5 +1783,110 @@
     "id": "2606.24338",
     "date": "2026-06-25",
     "title": "RoBoSR: Structured Scene Representations for Embodied Robotic Reasoning"
+  },
+  {
+    "id": "2606.26006",
+    "date": "2026-06-26",
+    "title": "FORCE: 强化学习训练效率与零人工干预"
+  },
+  {
+    "id": "2606.25360",
+    "date": "2026-06-26",
+    "title": "SVP-IL: 语义与几何解耦的空间视觉提示"
+  },
+  {
+    "id": "2606.25591",
+    "date": "2026-06-26",
+    "title": "WOLF-VLA"
+  },
+  {
+    "id": "2606.25800",
+    "date": "2026-06-26",
+    "title": "ROAD-VLA"
+  },
+  {
+    "id": "2606.25985",
+    "date": "2026-06-26",
+    "title": "ACNet (Action ControlNet)"
+  },
+  {
+    "id": "2606.25215",
+    "date": "2026-06-26",
+    "title": "Reflective VLA"
+  },
+  {
+    "id": "2606.26025",
+    "date": "2026-06-26",
+    "title": "ICWM (In-Context World Modeling)"
+  },
+  {
+    "id": "2606.26095",
+    "date": "2026-06-26",
+    "title": "ActionPrior: 跨本体机器人操作动作先验"
+  },
+  {
+    "id": "2601.14945",
+    "date": "2026-06-26",
+    "title": "TIDAL"
+  },
+  {
+    "id": "2606.25473",
+    "date": "2026-06-26",
+    "title": "Causal-rCM: 因果蒸馏一致性模型"
+  },
+  {
+    "id": "2606.24945",
+    "date": "2026-06-26",
+    "title": "CertHorizon: 守恒律能在学习到的表示中存活吗"
+  },
+  {
+    "id": "2606.24946",
+    "date": "2026-06-26",
+    "title": "OrbitTrust: 等变世界模型的共形轨道信任域"
+  },
+  {
+    "id": "2606.24888",
+    "date": "2026-06-26",
+    "title": "DiffusionBench: 扩散模型整体评测"
+  },
+  {
+    "id": "2606.25331",
+    "date": "2026-06-26",
+    "title": "iLLaDA: 改进的大型语言扩散模型"
+  },
+  {
+    "id": "2602.11575",
+    "date": "2026-06-26",
+    "title": "ReaDy-Go: 零样本Sim-to-Real视觉导航"
+  },
+  {
+    "id": "2606.25295",
+    "date": "2026-06-26",
+    "title": "DynaMOMA: 多机器人协同建图"
+  },
+  {
+    "id": "2606.25119",
+    "date": "2026-06-26",
+    "title": "SurveilNav"
+  },
+  {
+    "id": "2512.17796",
+    "date": "2026-06-26",
+    "title": "CustomX"
+  },
+  {
+    "id": "2606.24815",
+    "date": "2026-06-26",
+    "title": "MANGO"
+  },
+  {
+    "id": "2507.09052",
+    "date": "2026-06-26",
+    "title": "CCUA: 长尾扩散模型的对比条件-非条件对齐"
+  },
+  {
+    "id": "2312.00206",
+    "date": "2026-06-26",
+    "title": "SparseGS"
   }
 ]
