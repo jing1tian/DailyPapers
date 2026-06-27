@@ -20,7 +20,7 @@ created: 2026-06-27
 | 机构 | UC San Diego |
 | 日期 | June 2026 |
 | 项目主页 | https://nicklashansen.com/mmbench2 |
-| 对比基线 | [[Dreamer-v4\|Dreamer 4]], SD-VAE-MSE, Wan 2.1 VAE |
+| 对比基线 | [[Dreamer-v4]] (Dreamer 4), SD-VAE-MSE, Wan 2.1 VAE |
 | 链接 | [arXiv](https://arxiv.org/abs/2606.27326) / Code: 项目主页发布数据集+代码+权重 |
 
 ---
@@ -45,7 +45,7 @@ created: 2026-06-27
 
 ### 要解决的问题
 
-现代生成式[[世界模型]]（如基于 [[Diffusion Transformer (DiT)\|diffusion]] / [[Flow Matching\|flow matching]] 的视频世界模型）能够渲染出越来越逼真、可由动作控制的未来画面，但它们经常**幻觉（hallucinate）**：rollout 视觉上保持流畅、表面上合理，却悄悄偏离了真实的物理动态。这一现象借用自语言模型文献中的"幻觉"概念，但在世界模型场景下后果更严重——幻觉轨迹会被直接喂给下游的规划器和策略（如 [[MPC]]），导致控制阶段的决策悄无声息地出错。
+现代生成式[[世界模型]]（如基于 [[Diffusion Transformer (DiT)]] / [[Flow Matching]] 的视频世界模型）能够渲染出越来越逼真、可由动作控制的未来画面，但它们经常**幻觉（hallucinate）**：rollout 视觉上保持流畅、表面上合理，却悄悄偏离了真实的物理动态。这一现象借用自语言模型文献中的"幻觉"概念，但在世界模型场景下后果更严重——幻觉轨迹会被直接喂给下游的规划器和策略（如 [[MPC]]），导致控制阶段的决策悄无声息地出错。
 
 ### 现有方法的局限
 
@@ -65,7 +65,7 @@ created: 2026-06-27
 
 - **输入**: 语言任务指令（通过 [[CLIP]]-ViT/B 编码）+ $224\times224$ RGB 观测 $o_t$ + 动作 $a_t$
 - **Stage 1 — Tokenizer**: 对称编码器-解码器 Transformer，通过[[VideoMAE|masked autoencoding]] 训练
-- **Stage 2 — Dynamics Model**: 250M 参数的 [[Block Causal Attention\|block-causal]] Transformer，在冻结 tokenizer 产生的空间潜变量 token 上，通过 [[Shortcut Flow-Matching]] 训练
+- **Stage 2 — Dynamics Model**: 250M 参数的 [[Block Causal Attention]] block-causal Transformer，在冻结 tokenizer 产生的空间潜变量 token 上，通过 [[Shortcut Flow-Matching]] 训练
 - **输出**: 下一帧的潜在表示 $\hat{z}$，解码后得到预测帧
 - **总参数**: 350M（编码器 50M + 解码器 50M + 动态模型 250M）
 
@@ -81,7 +81,7 @@ created: 2026-06-27
 - 编码器以 stride 14 将 $224\times224$ 帧"patchify"为 256 个 patch token
 - 前置 64 个可学习的 latent query，将潜在流投影到 64 维瓶颈，并用 $\tanh$ 激活约束到 $z \in [-1, 1]^{64\times64}$
 - 解码器仅基于潜在编码重建图像
-- 训练目标为 [[VideoMAE|masked reconstruction]]：每帧按 $\mathcal{U}(0, 0.9)$ 采样的比例随机遮盖 patch，用可学习 mask token 替换，损失（[[PSNR\|pixel MSE]] + [[LPIPS]]）只在被遮盖位置计算
+- 训练目标为 [[VideoMAE|masked reconstruction]]：每帧按 $\mathcal{U}(0, 0.9)$ 采样的比例随机遮盖 patch，用可学习 mask token 替换，损失（[[PSNR]] pixel MSE + [[LPIPS]]）只在被遮盖位置计算
 - 各损失项按自身的 running RMS 归一化，降低对超参数的敏感度
 - 编码器和解码器各 50M 参数
 
@@ -91,7 +91,7 @@ created: 2026-06-27
 
 **具体实现**:
 - 每个时间步的输入 token 序列包含：1 个动作 token（16 维 padded 动作经 2 层 MLP 编码）、1 个 shortcut 条件 token（编码噪声水平 $\sigma$ 和步长 $d$）、32 个打包的空间潜在 token、4 个 [[Vision Transformer]] register token，以及用于 reward head 和 [[BC]] policy 读出的可选 agent token
-- 注意力同时包含帧内的空间自注意力和跨帧的[[Block Causal Attention\|因果时间自注意力]]，并使用 [[3D RoPE\|RoPE]]、[[QK Normalization]]、[[RMSNorm]] pre-norm
+- 注意力同时包含帧内的空间自注意力和跨帧的 [[Block Causal Attention]] 因果时间自注意力，并使用 [[3D RoPE]] RoPE、[[QK Normalization]]、[[RMSNorm]] pre-norm
 - 用 [[Shortcut Flow-Matching]] 目标训练，使推理时仅需 4~8 个 Euler 子步即可完成下一帧采样（相比传统扩散的几十至上百步大幅降低延迟）
 - reward head 与 BC policy 均以每任务的 [[CLIP]] 语言指令嵌入为条件
 
