@@ -15,6 +15,7 @@ aliases: [Open VLA, OpenVLA-OFT]
 
 ## 代表工作
 - [[OpenVLA]]: Kim et al., 2024, "OpenVLA: An Open-Source Vision-Language-Action Model"
+- [[PhysReflect-VLA]]: 以 OpenVLA 作为基础策略骨干（Phys-OVLA 变体），叠加物理可行性筛选和反思机制后真实机器人平均成功率从 74.2% 提升至 79.6%
 
 ## 相关概念
 - [[VLA]]

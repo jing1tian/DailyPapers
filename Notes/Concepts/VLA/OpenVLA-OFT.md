@@ -21,6 +21,7 @@ OpenVLA 的优化微调版本，引入并行动作解码、动作分块（action
 - [[CapVector]]: 以 OpenVLA-OFT 为基础模型，验证 capability vector 的有效性
 - [[PAPO-VLA]]: 以 OpenVLA-OFT 为骨干，在 GRPO 优势估计中加入规划动作因果重要度加权
 - [[GRA]]: 以 OpenVLA-OFT 为策略骨干，在其视觉骨干上加入2D几何辅助头，实现几何引导的两阶段合成数据训练框架
+- [[PhysReflect-VLA]]: 以 OpenVLA-OFT 为基础策略骨干（Phys-OFT 变体，效果最佳），叠加双向物理一致性筛选和反思引导重采样后真实机器人平均成功率从 82.0% 提升至 85.0%
 
 ## 相关概念
 
