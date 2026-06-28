@@ -1,45 +1,5 @@
 [
   {
-    "id": "2605.27284",
-    "date": "2026-05-28",
-    "title": "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies"
-  },
-  {
-    "id": "2605.26820",
-    "date": "2026-05-28",
-    "title": "Can VLA Models Learn from Real-World Data Continually without Forgetting?"
-  },
-  {
-    "id": "2603.04639",
-    "date": "2026-05-28",
-    "title": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies"
-  },
-  {
-    "id": "2605.00412",
-    "date": "2026-05-28",
-    "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling"
-  },
-  {
-    "id": "2605.26379",
-    "date": "2026-05-28",
-    "title": "When Does LeJEPA Learn a World Model?"
-  },
-  {
-    "id": "2605.26576",
-    "date": "2026-05-28",
-    "title": "TrackRef3D: Multi-View Consistent Track-then-Label for Open-World Referring Segmentation in 3D Gaussian Splatting"
-  },
-  {
-    "id": "2605.27314",
-    "date": "2026-05-28",
-    "title": "Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior"
-  },
-  {
-    "id": "2603.25415",
-    "date": "2026-05-28",
-    "title": "Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation"
-  },
-  {
     "id": "2605.28803",
     "date": "2026-05-29",
     "title": "{\\Omega}-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling"
