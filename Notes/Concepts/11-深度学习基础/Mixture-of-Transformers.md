@@ -22,6 +22,7 @@ Mixture-of-Transformers 是一种多专家 Transformer 架构，不同专家分�
 - [[GeoSem-WAM]]: 在 Fast-WAM MoT 架构上增加几何语义辅助监督
 - [[Cosmos3]]: NVIDIA 在 Cosmos 3 中将 MoT 扩展为双流架构（AR 推理子序列 + DM 生成子序列），通过 joint attention 实现跨模态物理推理与生成的统一
 - [[AffordanceVLA]]: 使用含理解、可供性生成、动作三专家的 MoT 架构，通过 UAA 单向注意力机制协调，在机器人操作 VLA 中实现感知-动作解耦
+- [[Kairos]]: World Prediction 模块用 MoT 耦合 Video DiT（世界生成分支）与 Action DiT（动作分支），通过共享注意力实现未来观测与动作的联合分布建模，主干进一步替换为 Hybrid Linear Temporal Attention 以支持长时程线性复杂度推理
 
 ## 相关概念
 
