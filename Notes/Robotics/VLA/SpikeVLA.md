@@ -6,7 +6,7 @@ year: 2026
 venue: ICML 2026
 tags: [vla, spiking-neural-network, energy-efficient, vision-language-navigation, robot-control]
 zotero_collection: Robotics/VLA
-image_source: online
+image_source: local
 arxiv_html: https://arxiv.org/html/2606.27807
 created: 2026-06-30
 ---
