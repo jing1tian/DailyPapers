@@ -1748,5 +1748,155 @@
     "id": "2606.26408",
     "date": "2026-06-27",
     "title": "Exploring the Intrinsic Geometry of Diffusion Models with Constrained Inverse Kinematics"
+  },
+  {
+    "id": "2606.27807",
+    "date": "2026-06-30",
+    "title": "SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks"
+  },
+  {
+    "id": "2606.27872",
+    "date": "2026-06-30",
+    "title": "S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation"
+  },
+  {
+    "id": "2606.24597",
+    "date": "2026-06-30",
+    "title": "Qwen-AgentWorld: Language World Models for General Agents"
+  },
+  {
+    "id": "2606.27755",
+    "date": "2026-06-30",
+    "title": "Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?"
+  },
+  {
+    "id": "2606.27504",
+    "date": "2026-06-30",
+    "title": "ReWorld: Learning Better Representations for World Action Models"
+  },
+  {
+    "id": "2606.27677",
+    "date": "2026-06-30",
+    "title": "DIM-WAM: World-Action Modeling with Diverse Historical Event Memory"
+  },
+  {
+    "id": "2603.09241",
+    "date": "2026-06-30",
+    "title": "RAE-NWM: Navigation World Model in Dense Visual Representation Space"
+  },
+  {
+    "id": "2606.27575",
+    "date": "2026-06-30",
+    "title": "Perceptual 3D Simulation With Physical World Modeling"
+  },
+  {
+    "id": "2606.27483",
+    "date": "2026-06-30",
+    "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning"
+  },
+  {
+    "id": "2602.15763",
+    "date": "2026-06-30",
+    "title": "GLM-5: from Vibe Coding to Agentic Engineering"
+  },
+  {
+    "id": "2512.08309",
+    "date": "2026-06-30",
+    "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise in Infinite, Real-Time Terrain Generation"
+  },
+  {
+    "id": "2606.27663",
+    "date": "2026-06-30",
+    "title": "Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization"
+  },
+  {
+    "id": "2606.27644",
+    "date": "2026-06-30",
+    "title": "CascadeOcc: Rethinking 3D Occupancy World Models with Cascaded VQ Representations"
+  },
+  {
+    "id": "2606.27780",
+    "date": "2026-06-30",
+    "title": "Understanding Rollout Error in Graph World Models"
+  },
+  {
+    "id": "2606.27806",
+    "date": "2026-06-30",
+    "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents"
+  },
+  {
+    "id": "2606.27681",
+    "date": "2026-06-30",
+    "title": "Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation"
+  },
+  {
+    "id": "2503.12964",
+    "date": "2026-06-30",
+    "title": "Training Video Foundation Models with NVIDIA NeMo"
+  },
+  {
+    "id": "2606.27929",
+    "date": "2026-06-30",
+    "title": "When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence"
+  },
+  {
+    "id": "2606.28133",
+    "date": "2026-06-30",
+    "title": "Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots"
+  },
+  {
+    "id": "2606.28237",
+    "date": "2026-06-30",
+    "title": "Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors"
+  },
+  {
+    "id": "2606.28128",
+    "date": "2026-06-30",
+    "title": "PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation"
+  },
+  {
+    "id": "2606.27537",
+    "date": "2026-06-30",
+    "title": "MemoBench: Benchmarking World Modeling in Dynamically Changing Environments"
+  },
+  {
+    "id": "2606.27741",
+    "date": "2026-06-30",
+    "title": "SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models"
+  },
+  {
+    "id": "2606.28016",
+    "date": "2026-06-30",
+    "title": "TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL"
+  },
+  {
+    "id": "2606.28092",
+    "date": "2026-06-30",
+    "title": "Diffusion Model Attribution via Spectral Coupling of Denoiser Responses"
+  },
+  {
+    "id": "2606.28321",
+    "date": "2026-06-30",
+    "title": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views"
+  },
+  {
+    "id": "2606.27696",
+    "date": "2026-06-30",
+    "title": "Class-frequency Guided Noise Schedule for Diffusion Models"
+  },
+  {
+    "id": "2605.05092",
+    "date": "2026-06-30",
+    "title": "Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout"
+  },
+  {
+    "id": "2606.26964",
+    "date": "2026-06-30",
+    "title": "Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds"
+  },
+  {
+    "id": "2606.27406",
+    "date": "2026-06-30",
+    "title": "Towards Evaluation of Implicit Software World Models in Coding LLMs"
   }
 ]
