@@ -18,6 +18,7 @@ Real-Time Chunking（RTC）是一种用于 [[Action Chunking|动作分块]] 策�
 ## 代表工作
 
 - [[ABC]]: 研究不同动作前缀长度对策略性能的影响（消融实验），验证 RTC 风格的前缀条件化在实际部署中的效果
+- [[Qwen-RobotManip]] (2026): 推理时采用 RTC + $K_{\text{repeat}}=8$ 步 Flow Matching 采样，实现无缝闭环控制
 
 ## 相关概念
 
