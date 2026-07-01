@@ -11,6 +11,7 @@ generated_by: dailypaper-skills
 ## 当前目录笔记
 
 - [[Notes/Concepts/Architecture/3D Gaussian Splatting|3D Gaussian Splatting]]
+- [[Notes/Concepts/Architecture/Action Conditioning|Action Conditioning]]
 - [[Notes/Concepts/Architecture/Action Expert|Action Expert]]
 - [[Notes/Concepts/Architecture/Action-Conditioned World Model|Action-Conditioned World Model]]
 - [[Notes/Concepts/Architecture/AdaLN|AdaLN]]
@@ -18,6 +19,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/AdaWorld|AdaWorld]]
 - [[Notes/Concepts/Architecture/Adaptive Depth Reasoning|Adaptive Depth Reasoning]]
 - [[Notes/Concepts/Architecture/Adaptive Layer Normalization|Adaptive Layer Normalization]]
+- [[Notes/Concepts/Architecture/Autoregressive Generation|Autoregressive Generation]]
 - [[Notes/Concepts/Architecture/Autoregressive Transformer|Autoregressive Transformer]]
 - [[Notes/Concepts/Architecture/BAGEL|BAGEL]]
 - [[Notes/Concepts/Architecture/BSA|BSA]]
@@ -31,6 +33,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/Cognition Token|Cognition Token]]
 - [[Notes/Concepts/Architecture/Cross-Attention|Cross-Attention]]
 - [[Notes/Concepts/Architecture/Cross-Entropy Method|Cross-Entropy Method]]
+- [[Notes/Concepts/Architecture/Cross-view Attention|Cross-view Attention]]
 - [[Notes/Concepts/Architecture/DDPM|DDPM]]
 - [[Notes/Concepts/Architecture/DINO-WM|DINO-WM]]
 - [[Notes/Concepts/Architecture/DINO|DINO]]
@@ -78,6 +81,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/Physics Stream|Physics Stream]]
 - [[Notes/Concepts/Architecture/PixelDiT|PixelDiT]]
 - [[Notes/Concepts/Architecture/PixelFlow|PixelFlow]]
+- [[Notes/Concepts/Architecture/Pose-guided History Sampling|Pose-guided History Sampling]]
 - [[Notes/Concepts/Architecture/PrediMem|PrediMem]]
 - [[Notes/Concepts/Architecture/RDT|RDT]]
 - [[Notes/Concepts/Architecture/RMT|RMT]]

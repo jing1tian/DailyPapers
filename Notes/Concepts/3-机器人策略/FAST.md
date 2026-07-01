@@ -22,6 +22,7 @@ $$\tilde{a} = \text{DCT}(a_{1:T}), \quad \text{token} = Q(\tilde{a}[:K])$$
 - [[π₀.₅]] / Pi0-FAST: FAST 的主要使用场景
 - [[LabVLA]]: 使用 FAST tokenizer 处理科学实验室操作序列
 - [[AIR-VLA+]]: 在空中操作系统中使用 FAST
+- [[SA-VLA]]: 以 FAST 为基线，提出状态感知 tokenizer 将 RoboTwin 成功率从 0.17 提升至 0.56
 
 ## 相关概念
 - [[ACT]]

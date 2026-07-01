@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [stop-gradient, sg, 梯度截断, detach]
+aliases: [stop-gradient, sg, 梯度截断, detach, 停止梯度]
 ---
 
 # Stop-Gradient
@@ -20,6 +20,7 @@ $$
 3. 与 EMA（指数移动平均）目标网络配合使用效果更好
 
 ## 代表工作
+- [[SA-VLA]]: VQ-VAE 损失中对 codebook 条目和编码器特征分别施加 stop-gradient，解耦两者的训练
 - [[RoVLA]]: OC 损失中对干净预测施加 stop-gradient，防止一致性约束导致的平凡解
 - SimSiam: 纯依赖 stop-gradient 实现自监督，无需负样本
 - BYOL: stop-gradient + EMA 目标网络

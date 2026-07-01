@@ -14,6 +14,7 @@ generated_by: dailypaper-skills
 
 ## 当前目录笔记
 
+- [[Notes/Robotics/World Model/A2World|A2World]]
 - [[Notes/Robotics/World Model/AGRA|AGRA]]
 - [[Notes/Robotics/World Model/AdaWAM|AdaWAM]]
 - [[Notes/Robotics/World Model/Causal-rCM|Causal-rCM]]

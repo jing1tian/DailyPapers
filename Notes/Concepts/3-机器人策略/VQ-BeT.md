@@ -19,6 +19,7 @@ $$a_t = \text{Decode}(z_t), \quad z_t \sim \text{VQ-Codebook}$$
 
 ## 代表工作
 - [[VQ-BeT 原论文]]：Lee et al., 2024，提出方法
+- [[SA-VLA]]: 以 VQ-BET 为基线，提出状态感知版本，RoboTwin 成功率从 0.29 提升至 0.56
 
 ## 相关概念
 - [[Diffusion Policy]]

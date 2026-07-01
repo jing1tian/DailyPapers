@@ -36,6 +36,7 @@ $$
 
 - [[ITC]]: 在 Atari 100K 实验中使用 VQ-VAE tokenizer（Codebook 大小 4096）
 - [[IRIS]]: 最早将 VQ-VAE 用于 Transformer 世界模型的工作
+- [[SA-VLA]]: 将 VQ-VAE 扩展为状态感知动作 tokenizer，通过 MLP Adapter 预测状态条件缩放因子
 
 ## 相关概念
 
