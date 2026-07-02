@@ -39,6 +39,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/RoVLA|RoVLA]]
 - [[Notes/Robotics/VLA/S2-VLA|S2-VLA]]
 - [[Notes/Robotics/VLA/SA-VLA|SA-VLA]]
+- [[Notes/Robotics/VLA/SARL|SARL]]
 - [[Notes/Robotics/VLA/SOMA|SOMA]]
 - [[Notes/Robotics/VLA/SVP-IL|SVP-IL]]
 - [[Notes/Robotics/VLA/SafeDojo|SafeDojo]]
