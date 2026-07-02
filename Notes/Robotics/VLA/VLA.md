@@ -22,6 +22,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/COAST|COAST]]
 - [[Notes/Robotics/VLA/CapVector|CapVector]]
 - [[Notes/Robotics/VLA/DyGRO-VLA|DyGRO-VLA]]
+- [[Notes/Robotics/VLA/E-VLA|E-VLA]]
 - [[Notes/Robotics/VLA/ERVLA|ERVLA]]
 - [[Notes/Robotics/VLA/EXPO-FT|EXPO-FT]]
 - [[Notes/Robotics/VLA/EventVLA|EventVLA]]
@@ -51,6 +52,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/WorldPilot|WorldPilot]]
 - [[Notes/Robotics/VLA/WorldVLN|WorldVLN]]
 - [[Notes/Robotics/VLA/X-DiffVLA|X-DiffVLA]]
+- [[Notes/Robotics/VLA/Z-1|Z-1]]
 - [[Notes/Robotics/VLA/vla.cpp|vla.cpp]]
 
 ## 说明
