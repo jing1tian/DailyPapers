@@ -25,6 +25,7 @@ $$
 - [[PRISM]]: 在 GRPO 前插入 on-policy distillation 预对齐步骤
 - [[DAPO]]: GRPO 的改进版，动态调整采样
 - [[PAPO-VLA]]: 将规划动作因果重要度融入 GRPO 优势估计，提升 VLA 策略可靠性
+- [[Z-1]]: 为 flow-based VLA 模型设计的 GRPO 后训练框架，引入共享前缀 rollout 构建、树状分支、成功感知奖励衰减
 
 ## 相关概念
 - [[DAPO]]
