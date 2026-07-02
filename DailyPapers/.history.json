@@ -1983,5 +1983,155 @@
     "id": "2606.30613",
     "date": "2026-07-01",
     "title": "Sequential Planning via Anchored Robotic Keypoints"
+  },
+  {
+    "id": "2604.04834",
+    "date": "2026-07-02",
+    "title": "E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes"
+  },
+  {
+    "id": "2602.23721",
+    "date": "2026-07-02",
+    "title": "StemVLA:An Open-Source Vision-Language-Action Model with Future 3D Spatial Geometry Knowledge and 4D Historical Representation"
+  },
+  {
+    "id": "2606.31382",
+    "date": "2026-07-02",
+    "title": "Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation"
+  },
+  {
+    "id": "2606.30686",
+    "date": "2026-07-02",
+    "title": "Position: Vision-Language-Action Models Cannot Be Verified to Perform Physical Reasoning"
+  },
+  {
+    "id": "2606.31144",
+    "date": "2026-07-02",
+    "title": "A Modular Vision-Language-Action Robotics Framework for Indoor Environments"
+  },
+  {
+    "id": "2606.31723",
+    "date": "2026-07-02",
+    "title": "UniTacVLA: Unified Tactile Understanding and Prediction in Vision Language Action Models"
+  },
+  {
+    "id": "2606.31846",
+    "date": "2026-07-02",
+    "title": "Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models"
+  },
+  {
+    "id": "2603.25399",
+    "date": "2026-07-02",
+    "title": "LaMP: Learning Vision-Language-Action Policy with 3D Scene Flow as Latent Motion Prior"
+  },
+  {
+    "id": "2606.31167",
+    "date": "2026-07-02",
+    "title": "MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents"
+  },
+  {
+    "id": "2606.32028",
+    "date": "2026-07-02",
+    "title": "DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation"
+  },
+  {
+    "id": "2606.31315",
+    "date": "2026-07-02",
+    "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding"
+  },
+  {
+    "id": "2408.15998",
+    "date": "2026-07-02",
+    "title": "Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of\n  Encoders"
+  },
+  {
+    "id": "2606.31329",
+    "date": "2026-07-02",
+    "title": "3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance"
+  },
+  {
+    "id": "2606.32009",
+    "date": "2026-07-02",
+    "title": "Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments"
+  },
+  {
+    "id": "2606.30809",
+    "date": "2026-07-02",
+    "title": "GaussLite: Online Task-Conditioned 3D Gaussian Splatting for Real-Time Robotic Mapping"
+  },
+  {
+    "id": "2603.15620",
+    "date": "2026-07-02",
+    "title": "Towards Generalizable Robotic Manipulation in Dynamic Environments"
+  },
+  {
+    "id": "2606.31160",
+    "date": "2026-07-02",
+    "title": "Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving"
+  },
+  {
+    "id": "2606.31699",
+    "date": "2026-07-02",
+    "title": "Look But Don't Touch with Sparse Autoencoders for Unlearning in Diffusion Models"
+  },
+  {
+    "id": "2606.31232",
+    "date": "2026-07-02",
+    "title": "Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding"
+  },
+  {
+    "id": "2606.32026",
+    "date": "2026-07-02",
+    "title": "AdaJEPA: An Adaptive Latent World Model"
+  },
+  {
+    "id": "2606.31101",
+    "date": "2026-07-02",
+    "title": "Efficient Sim-to-Real Transfer of World-Action Models from Synthetic Priors"
+  },
+  {
+    "id": "2606.31132",
+    "date": "2026-07-02",
+    "title": "ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies"
+  },
+  {
+    "id": "2606.31958",
+    "date": "2026-07-02",
+    "title": "Adapting Generalist Robot Policies with Semantic Reinforcement Learning"
+  },
+  {
+    "id": "2604.09100",
+    "date": "2026-07-02",
+    "title": "Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch"
+  },
+  {
+    "id": "2606.31318",
+    "date": "2026-07-02",
+    "title": "Wavelet-Optimized Pseudo-3D Accelerated Diffusion Model for Truncated Computed Laminography"
+  },
+  {
+    "id": "2606.31603",
+    "date": "2026-07-02",
+    "title": "Preserve the Hard, Regenerate the Rest: Uncertainty-Guided Synthetic Training Data Augmentation with Diffusion Models"
+  },
+  {
+    "id": "2606.31672",
+    "date": "2026-07-02",
+    "title": "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models"
+  },
+  {
+    "id": "2606.31734",
+    "date": "2026-07-02",
+    "title": "MemLearner: Learning to Query Context memory for Video World Models"
+  },
+  {
+    "id": "2606.31026",
+    "date": "2026-07-02",
+    "title": "OTCache: Optimal Transport for Geometry-Aware Caching in Diffusion Models"
+  },
+  {
+    "id": "2507.11061",
+    "date": "2026-07-02",
+    "title": "Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling"
   }
 ]
