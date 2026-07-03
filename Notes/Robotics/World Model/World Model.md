@@ -15,6 +15,7 @@ generated_by: dailypaper-skills
 ## 当前目录笔记
 
 - [[Notes/Robotics/World Model/A2World|A2World]]
+- [[Notes/Robotics/World Model/ABot-M0.5|ABot-M0.5]]
 - [[Notes/Robotics/World Model/AGRA|AGRA]]
 - [[Notes/Robotics/World Model/AdaWAM|AdaWAM]]
 - [[Notes/Robotics/World Model/Causal-rCM|Causal-rCM]]
@@ -59,6 +60,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/WAM-Survey|WAM-Survey]]
 - [[Notes/Robotics/World Model/WAM4D|WAM4D]]
 - [[Notes/Robotics/World Model/WAMSurvey|WAMSurvey]]
+- [[Notes/Robotics/World Model/WAMTutorial|WAMTutorial]]
 - [[Notes/Robotics/World Model/WBench|WBench]]
 - [[Notes/Robotics/World Model/WEAVER|WEAVER]]
 - [[Notes/Robotics/World Model/WMRobotSurvey|WMRobotSurvey]]

@@ -39,6 +39,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/VLA/Pi0-FAST|Pi0-FAST]]
 - [[Notes/Concepts/VLA/Pi0.5|Pi0.5]]
 - [[Notes/Concepts/VLA/Prismatic-7B|Prismatic-7B]]
+- [[Notes/Concepts/VLA/Progress-Enhanced VLA|Progress-Enhanced VLA]]
 - [[Notes/Concepts/VLA/RIPT-VLA|RIPT-VLA]]
 - [[Notes/Concepts/VLA/RT-2|RT-2]]
 - [[Notes/Concepts/VLA/ResVLA|ResVLA]]
