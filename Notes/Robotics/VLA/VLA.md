@@ -28,6 +28,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/EventVLA|EventVLA]]
 - [[Notes/Robotics/VLA/FORCE|FORCE]]
 - [[Notes/Robotics/VLA/FineVLA|FineVLA]]
+- [[Notes/Robotics/VLA/FurnitureVLA|FurnitureVLA]]
 - [[Notes/Robotics/VLA/G3VLA|G3VLA]]
 - [[Notes/Robotics/VLA/GRA|GRA]]
 - [[Notes/Robotics/VLA/HyVLA-0.5|HyVLA-0.5]]
