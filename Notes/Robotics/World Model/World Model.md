@@ -56,6 +56,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/SKIP|SKIP]]
 - [[Notes/Robotics/World Model/SWEET|SWEET]]
 - [[Notes/Robotics/World Model/Tactile-WAM|Tactile-WAM]]
+- [[Notes/Robotics/World Model/VT-WAM|VT-WAM]]
 - [[Notes/Robotics/World Model/WALL-WM|WALL-WM]]
 - [[Notes/Robotics/World Model/WAM-Survey|WAM-Survey]]
 - [[Notes/Robotics/World Model/WAM4D|WAM4D]]
