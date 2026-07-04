@@ -47,6 +47,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/SafeDojo|SafeDojo]]
 - [[Notes/Robotics/VLA/SpikeVLA|SpikeVLA]]
 - [[Notes/Robotics/VLA/UniviewVLA|UniviewVLA]]
+- [[Notes/Robotics/VLA/VLA-Arena|VLA-Arena]]
 - [[Notes/Robotics/VLA/VLA-Hijack|VLA-Hijack]]
 - [[Notes/Robotics/VLA/VLA-Pruner|VLA-Pruner]]
 - [[Notes/Robotics/VLA/VLA-REPLICA|VLA-REPLICA]]

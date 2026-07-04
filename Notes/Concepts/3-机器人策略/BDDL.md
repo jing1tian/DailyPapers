@@ -21,7 +21,9 @@ $$\text{Goal} = \bigwedge_i P_i(o_1, o_2, \ldots)$$
 ## 代表工作
 - [[EA-WM]] (2606.13053): 用 BDDL 提供谓词级任务进度监督
 - BEHAVIOR-1K 基准: BDDL 的主要使用场景
+- [[VLA-Arena]] (2512.22539): 在 BDDL 基础上扩展为 [[CBDDL]]，增加安全谓词和动态实体支持
 
 ## 相关概念
 - [[SERF]]
 - [[OmniGibson]]
+- [[CBDDL]]: BDDL 的扩展，支持形式化安全约束
