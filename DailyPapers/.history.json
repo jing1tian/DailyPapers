@@ -1,105 +1,5 @@
 [
   {
-    "id": "2506.06006",
-    "date": "2026-06-05",
-    "title": "Can VLMs Predict Future States? Bootstrapping World Models from Inverse Dynamics"
-  },
-  {
-    "id": "2603.02697",
-    "date": "2026-06-05",
-    "title": "ShareVerse: Multi-Agent Consistent Video Generation for Shared World Modeling"
-  },
-  {
-    "id": "2603.03482",
-    "date": "2026-06-05",
-    "title": "Beyond Pixel Histories: World Models with Persistent 3D State"
-  },
-  {
-    "id": "2606.02800",
-    "date": "2026-06-05",
-    "title": "Cosmos 3: Omnimodal World Models for Physical AI"
-  },
-  {
-    "id": "2606.03890",
-    "date": "2026-06-05",
-    "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs"
-  },
-  {
-    "id": "2606.04046",
-    "date": "2026-06-05",
-    "title": "Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making via Focus Plan Generation"
-  },
-  {
-    "id": "2606.04130",
-    "date": "2026-06-05",
-    "title": "CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization"
-  },
-  {
-    "id": "2606.04172",
-    "date": "2026-06-05",
-    "title": "Affordance2Action: Task-Conditioned Scene-level Affordance Grounding for Real-Time Manipulation"
-  },
-  {
-    "id": "2606.04206",
-    "date": "2026-06-05",
-    "title": "DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics"
-  },
-  {
-    "id": "2606.04233",
-    "date": "2026-06-05",
-    "title": "What Are We Actually Benchmarking in Robot Manipulation?"
-  },
-  {
-    "id": "2606.04436",
-    "date": "2026-06-05",
-    "title": "3DThinkVLA: Endowing Vision-Language-Action Models with Latent 3D Priors via 3D-Thinking-Guided Co-training"
-  },
-  {
-    "id": "2606.04463",
-    "date": "2026-06-05",
-    "title": "OSCAR: Omni-Embodiment Skeleton-Conditioned World Action Model for Robotics"
-  },
-  {
-    "id": "2606.04534",
-    "date": "2026-06-05",
-    "title": "MAD: Mapping-Aware World Models for Agile Quadrotor Flight"
-  },
-  {
-    "id": "2606.04708",
-    "date": "2026-06-05",
-    "title": "VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training"
-  },
-  {
-    "id": "2606.04718",
-    "date": "2026-06-05",
-    "title": "CoRe-MoE: Contrastive Reweighted Mixture of Experts for Multi-Terrain Humanoid Locomotion with Gait Adaptation"
-  },
-  {
-    "id": "2606.04825",
-    "date": "2026-06-05",
-    "title": "HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning"
-  },
-  {
-    "id": "2606.04907",
-    "date": "2026-06-05",
-    "title": "WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation"
-  },
-  {
-    "id": "2606.04968",
-    "date": "2026-06-05",
-    "title": "Potential-Guided Flow Matching for Vision-Language-Action Policy Improvement"
-  },
-  {
-    "id": "2606.05015",
-    "date": "2026-06-05",
-    "title": "Generalization of World Models under Environmental Variability for Vision-based Quadrotor Navigation"
-  },
-  {
-    "id": "2606.05160",
-    "date": "2026-06-05",
-    "title": "GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors"
-  },
-  {
     "id": "2605.08215",
     "date": "2026-06-06",
     "title": "Test-Time Training for Visual Foresight Vision-Language-Action Models"
@@ -2168,5 +2068,10 @@
     "id": "2606.13092",
     "date": "2026-07-04",
     "title": "Certified World Models: Predictability Across Configuration, Horizon, and Resolution"
+  },
+  {
+    "id": "2503.18470",
+    "date": "2026-07-06",
+    "title": "MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse"
   }
 ]
