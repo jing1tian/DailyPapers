@@ -114,6 +114,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/对象中心表示|对象中心表示]]
 - [[Notes/Concepts/Architecture/层次化事件适配器|层次化事件适配器]]
 - [[Notes/Concepts/Architecture/旋转位置编码|旋转位置编码]]
+- [[Notes/Concepts/Architecture/时序 RoPE 对齐|时序 RoPE 对齐]]
 - [[Notes/Concepts/Architecture/注意力机制|注意力机制]]
 - [[Notes/Concepts/Architecture/混合专家|混合专家]]
 - [[Notes/Concepts/Architecture/生成世界模型|生成世界模型]]
