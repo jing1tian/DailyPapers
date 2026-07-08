@@ -15,6 +15,7 @@ aliases: [世界模型, WM]
 4. 对 embodied AI / 机器人是核心组件。
 
 ## 代表工作
+- [[TACO]]: 视触觉世界模型，以 [[Wan2.2]]-TI2V-5B 为基础联合生成视频与力矩信号，驱动 VLA 自纠错后训练
 - [[LeWM]]：端到端 JEPA 世界模型，仅 2 项 loss
 - [[DINO-WM]]：foundation feature + 规划器
 - [[PLDM]]：端到端但 7 项 loss
