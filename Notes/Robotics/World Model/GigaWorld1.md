@@ -273,55 +273,55 @@ $$
 
 ### Figure 1: 整体研究概览
 
-![Figure 1](https://arxiv.org/html/2607.02642/2607.02642v1/x1.png)
+![Figure 1](https://arxiv.org/html/2607.02642v1/x1.png)
 
 **说明**：论文分析了 32.4 万条世界模型仿真 rollout、7 个视频世界模型、4 种动作表示范式，提炼出 10 项关键设计发现，指导 GigaWorld-1 的构建。
 
 ### Figure 2: 世界模型作为策略评估器的框架
 
-![Figure 2](https://arxiv.org/html/2607.02642/2607.02642v1/x2.png)
+![Figure 2](https://arxiv.org/html/2607.02642v1/x2.png)
 
 **说明**：世界模型迭代接收策略动作并预测未来观测，通过比较仿真 rollout 质量（WMES）评估策略优劣，替代代价高昂的真实环境测试。
 
 ### Figure 3: WMBench 评估流水线
 
-![Figure 3](https://arxiv.org/html/2607.02642/2607.02642v1/x3.png)
+![Figure 3](https://arxiv.org/html/2607.02642v1/x3.png)
 
 **说明**：四步协议——(1) 收集真实策略 rollout，(2) 用严格数据划分训练世界模型，(3) 闭环 rollout 生成，(4) 指标评估。确保评估的可重复性和公平性。
 
 ### Figure 4: 指标组与 WMES 的相关性
 
-![Figure 4](https://arxiv.org/html/2607.02642/2607.02642v1/x4.png)
+![Figure 4](https://arxiv.org/html/2607.02642v1/x4.png)
 
 **说明**：视觉保真度（ρ=0.78）和几何（ρ=0.71）主导评估器质量；语义对齐（ρ=0.11）单独相关性弱；背景一致性（ρ=−0.45）为负相关的"欺骗性指标"。
 
 ### Figure 5: 所有指标的 Pearson 相关矩阵
 
-![Figure 5](https://arxiv.org/html/2607.02642/2607.02642v1/x5.png)
+![Figure 5](https://arxiv.org/html/2607.02642v1/x5.png)
 
 **说明**：Subject Consistency（ρ=0.88）和 Perspectivity（ρ=0.86）是最强的 WMES 预测指标；Instruction Following（ρ=0.84）紧随其后。完整热力图揭示指标间的相互依赖关系。
 
 ### Figure 6: VLM 辅助 Rollout 评估器
 
-![Figure 6](https://arxiv.org/html/2607.02642/2607.02642v1/x6.png)
+![Figure 6](https://open-gigaai.github.io/giga-world-1/images/vlm/vlm.png)
 
 **说明**：给定三视角 rollout 视频和任务特定评估提示，[[LoRA]] 微调的 Qwen3-VL 评估器预测 WMES 分数。Token 类型感知的损失权重（总分 token 权重 8.0，格式 token 1.0，证据 token 最低 0.05）防止标准语言建模目标低估结果预测。
 
 ### Figure 7: 数据构建流水线
 
-![Figure 7](https://arxiv.org/html/2607.02642/2607.02642v1/x7.png)
+![Figure 7](https://arxiv.org/html/2607.02642v1/x7.png)
 
 **说明**：多源数据经过质量过滤、运动过滤、分布均衡和自动标注（语义掩码、深度图、快慢双粒度描述）后纳入训练语料，总计约 12,980 小时。
 
 ### Figure 8: GigaWorld-1 整体架构
 
-![Figure 8](https://arxiv.org/html/2607.02642/2607.02642v1/x8.png)
+![Figure 8](https://arxiv.org/html/2607.02642v1/x8.png)
 
 **说明**：自回归扩散变换器架构，以 [[LoRA]] 参数高效适配。左侧为分层历史记忆注入，右侧为统一控制注入（EE 位姿图 + Ray 图通道拼接），中间为带 [[相对旋转位置编码|Relative RoPE]] 的 DiT 骨干。
 
 ### Figure 9: 球面线性插值提示过渡
 
-![Figure 9](https://arxiv.org/html/2607.02642/2607.02642v1/x9.png)
+![Figure 9](https://arxiv.org/html/2607.02642v1/x9.png)
 
 **说明**：[[SLERP]] 在文本 embedding 空间中平滑插值，使世界模型在长视频生成中渐进过渡语义状态，避免直接切换导致的外观突变。
 

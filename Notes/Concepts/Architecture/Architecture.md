@@ -107,6 +107,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/WorldNav|WorldNav]]
 - [[Notes/Concepts/Architecture/WorldStereo 2.0|WorldStereo 2.0]]
 - [[Notes/Concepts/Architecture/世界模型 (World Model)|世界模型 (World Model)]]
+- [[Notes/Concepts/Architecture/分层历史注意力|分层历史注意力]]
 - [[Notes/Concepts/Architecture/反馈世界模型|反馈世界模型]]
 - [[Notes/Concepts/Architecture/可微分仿真|可微分仿真]]
 - [[Notes/Concepts/Architecture/可微分策略优化|可微分策略优化]]
