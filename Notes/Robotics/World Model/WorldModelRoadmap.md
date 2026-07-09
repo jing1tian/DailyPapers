@@ -233,7 +233,7 @@ $$
 - $\mathbf{x}_{t+1:t+K}$: 未来 $K$ 帧（视频帧/感知数据）
 - $\mathbf{c}$: 可选条件（语言、任务描述等）
 
-### 公式11: [[Masked Autoencoding|Next-Token Prediction 损失]]
+### 公式11: [[Next-Token Prediction|NTP 自回归损失]]
 
 $$
 \mathcal{L}_{NTP} = -\sum_{t=1}^{T} \log p_{\theta}(u_{t} \mid u_{<t}, \mathbf{a}_{\leq t}, \mathbf{c})
