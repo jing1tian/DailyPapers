@@ -41,6 +41,7 @@ $$
 - [[GEM-4D]] (2026): 双流流匹配框架，视频 DiT 与几何 DiT 各自用 FM 训练，几何蒸馏损失通过中间特征梯度回传到视频主干。
 - [[SC3-Eval]] (2026): 在 [[Cosmos3]] backbone 上沿用 [[Rectified Flow|rectified-flow]] 形式化的 FM 目标，正向动力学、跨视角补全、逆向动力学三种训练模式共享同一套 FM 损失，仅通过哪些 token 加噪来区分模式。
 - [[Qwen-RobotManip]] (2026): 在 Flow-Matching DiT 动作专家中使用带逐维掩码的 FM 损失，支持跨 15 种机器人平台的异构动作空间联合训练。
+- [[InternVLA-A1.5]] (2025): 以 Beta(1.5,1.0) 采样插值时间步的流匹配损失预测连续动作速度场，推理时用 Euler 积分去噪。
 
 ## 相关概念
 
