@@ -2115,8 +2115,148 @@
     "title": "Spline Policy: A Structured Representation for Robot Policies"
   },
   {
-    "id": "2606.02373",
-    "date": "2026-06-08",
-    "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses"
+    "id": "2607.06403",
+    "date": "2026-07-09",
+    "title": "From Foundation to Application: Improving VLA Models in Practice"
+  },
+  {
+    "id": "2602.19710",
+    "date": "2026-07-09",
+    "title": "PoseVLA: Universal Pose Pretraining for Generalizable Vision-Language-Action Policies"
+  },
+  {
+    "id": "2607.05468",
+    "date": "2026-07-09",
+    "title": "Learning 4D Geometric Priors for Inference-Efficient World Action Models"
+  },
+  {
+    "id": "2607.06256",
+    "date": "2026-07-09",
+    "title": "Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition"
+  },
+  {
+    "id": "2607.06370",
+    "date": "2026-07-09",
+    "title": "Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement"
+  },
+  {
+    "id": "2607.06564",
+    "date": "2026-07-09",
+    "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation"
+  },
+  {
+    "id": "2607.06442",
+    "date": "2026-07-09",
+    "title": "SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models"
+  },
+  {
+    "id": "2607.06559",
+    "date": "2026-07-09",
+    "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation"
+  },
+  {
+    "id": "2607.06401",
+    "date": "2026-07-09",
+    "title": "A Definition and Roadmap for World Models"
+  },
+  {
+    "id": "2510.22200",
+    "date": "2026-07-09",
+    "title": "LongCat-Video Technical Report"
+  },
+  {
+    "id": "2607.02963",
+    "date": "2026-07-09",
+    "title": "Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning"
+  },
+  {
+    "id": "2607.06558",
+    "date": "2026-07-09",
+    "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation"
+  },
+  {
+    "id": "2607.06216",
+    "date": "2026-07-09",
+    "title": "MoWorld: A Flash World Model"
+  },
+  {
+    "id": "2607.05711",
+    "date": "2026-07-09",
+    "title": "FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models"
+  },
+  {
+    "id": "2607.06501",
+    "date": "2026-07-09",
+    "title": "Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning"
+  },
+  {
+    "id": "2606.28757",
+    "date": "2026-07-09",
+    "title": "A Physics-Grounded Benchmark for Multi-Agent Dynamics in World Models"
+  },
+  {
+    "id": "2607.05522",
+    "date": "2026-07-09",
+    "title": "Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Contr"
+  },
+  {
+    "id": "2607.05702",
+    "date": "2026-07-09",
+    "title": "Robust Face Super-Resolution and Recognition Through Multi-Feature Aggregation in Diffusion Models"
+  },
+  {
+    "id": "2607.06136",
+    "date": "2026-07-09",
+    "title": "Tuning-Free Latent Diffusion Models for Ultrahigh-Resolution Image Editing"
+  },
+  {
+    "id": "2607.05598",
+    "date": "2026-07-09",
+    "title": "SSA-3DGS: Unsupervised Removal of Screen-Space Artifacts for 3D Gaussian Splatting"
+  },
+  {
+    "id": "2606.20416",
+    "date": "2026-07-09",
+    "title": "On the Redundancy of Timestep Embeddings in Diffusion Models"
+  },
+  {
+    "id": "2607.05577",
+    "date": "2026-07-09",
+    "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction"
+  },
+  {
+    "id": "2408.00001",
+    "date": "2026-07-09",
+    "title": "Replication in Visual Diffusion Models: A Survey and Outlook"
+  },
+  {
+    "id": "2607.02998",
+    "date": "2026-07-09",
+    "title": "CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training"
+  },
+  {
+    "id": "2602.11059",
+    "date": "2026-07-09",
+    "title": "A Gibbs posterior sampler for inverse problem based on prior diffusion model"
+  },
+  {
+    "id": "2602.11711",
+    "date": "2026-07-09",
+    "title": "Estimation of instrument and noise parameters for inverse problem based on prior diffusion model"
+  },
+  {
+    "id": "2607.05544",
+    "date": "2026-07-09",
+    "title": "Dynamic Evaluation of Classical and Control-Aware Optimal Trajectory Planning in Robot Manipulators"
+  },
+  {
+    "id": "2607.05883",
+    "date": "2026-07-09",
+    "title": "DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Co"
+  },
+  {
+    "id": "2607.06018",
+    "date": "2026-07-09",
+    "title": "RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures"
   }
 ]
