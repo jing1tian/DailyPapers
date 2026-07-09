@@ -37,6 +37,7 @@ WAM 两大范式的分解：
 ## 代表工作
 
 - [[WAMSurvey]]: 首篇系统性综述，提出正式定义与分类法
+- [[WorldModelRoadmap]]: 将 WAM 定位为世界模型向具身决策演化的关键桥接，纳入世界模型统一架构趋势
 - **Cascaded WAM**: UniPi, VLP, AVDC, VPP, LAPA, S-VAM
 - **Joint WAM (Auto-regressive)**: GR-1, GR-2, CoT-VLA, WorldVLA, VLA-JEPA
 - **Joint WAM (Diffusion)**: PAD, UWM, DreamZero, Cosmos Policy, FLARE, Motus, [[JOPAT]]

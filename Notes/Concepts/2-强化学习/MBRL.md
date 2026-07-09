@@ -27,3 +27,4 @@ $$\hat{s}_{t+1} = f_\theta(s_t, a_t), \quad \pi^* = \arg\max_\pi \mathbb{E}_{\ha
 ## 相关概念
 - [[WAM]]（World Action Model：在 MBRL 基础上联合建模动作）
 - [[WM-Roadmap]]（世界模型定义文档）
+- [[WorldModelRoadmap]]：系统梳理 MBRL 在世界模型训练中的地位，指出复合误差、目标错配等核心挑战
