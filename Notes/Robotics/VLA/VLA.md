@@ -32,6 +32,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/FurnitureVLA|FurnitureVLA]]
 - [[Notes/Robotics/VLA/G3VLA|G3VLA]]
 - [[Notes/Robotics/VLA/GRA|GRA]]
+- [[Notes/Robotics/VLA/HiMoE-VLA|HiMoE-VLA]]
 - [[Notes/Robotics/VLA/HyVLA-0.5|HyVLA-0.5]]
 - [[Notes/Robotics/VLA/InternVLA-A1.5|InternVLA-A1.5]]
 - [[Notes/Robotics/VLA/MolmoAct2|MolmoAct2]]
