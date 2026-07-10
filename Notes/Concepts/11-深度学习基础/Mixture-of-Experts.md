@@ -27,6 +27,7 @@ $$
 ## 代表工作
 
 - [[Mixture-of-Transformers]]: MoT 将 MoE 思想扩展到多分支 Transformer 架构
+- [[HiMoE-VLA]]: 层级 MoE 用于 VLA 多具身协训练，AS-MoE 处理动作空间异构性、HB-MoE 处理残余具身差异
 
 ## 相关概念
 
