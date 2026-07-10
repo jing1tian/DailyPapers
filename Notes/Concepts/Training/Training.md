@@ -46,6 +46,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Training/SFT|SFT]]
 - [[Notes/Concepts/Training/SIGReg|SIGReg]]
 - [[Notes/Concepts/Training/Self-Forcing|Self-Forcing]]
+- [[Notes/Concepts/Training/Sequence-Wise Auxiliary Loss|Sequence-Wise Auxiliary Loss]]
 - [[Notes/Concepts/Training/Shortcut Flow-Matching|Shortcut Flow-Matching]]
 - [[Notes/Concepts/Training/VICReg|VICReg]]
 - [[Notes/Concepts/Training/VLM Critic|VLM Critic]]

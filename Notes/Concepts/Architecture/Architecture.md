@@ -14,6 +14,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/Action Conditioning|Action Conditioning]]
 - [[Notes/Concepts/Architecture/Action Expert|Action Expert]]
 - [[Notes/Concepts/Architecture/Action-Conditioned World Model|Action-Conditioned World Model]]
+- [[Notes/Concepts/Architecture/AdaLN-Single|AdaLN-Single]]
 - [[Notes/Concepts/Architecture/AdaLN|AdaLN]]
 - [[Notes/Concepts/Architecture/AdaRMS|AdaRMS]]
 - [[Notes/Concepts/Architecture/AdaWorld|AdaWorld]]
