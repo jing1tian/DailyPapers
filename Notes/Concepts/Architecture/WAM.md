@@ -28,6 +28,7 @@ $$
 - [[WorldPilot]]: 将 WAM 输出（场景演化潜在 + 预期轨迹）通过双路径注入 VLA，在 LIBERO-Plus 达到 84.7% SOTA
 - [[Kairos]]: Joint WAM 代表，用 Mixture-of-Transformers（Video DiT + Action DiT）联合建模未来观测与动作，并以 Hybrid Linear Temporal Attention 替换标准全注意力实现线性复杂度长时程推理
 - [[ABot-M0.5]]: 通过中间潜在动作（ALAM）+ 双层 MoT + Dream Forcing 解决 WAM 在移动操纵中的三大结构失配，RoboCasa365 SOTA 46.6%
+- [[EgoWAM]]: 系统比较三种世界表征（Pixel/DINO/3D Flow）在野外第一视角人类数据 co-training 中的迁移效果，DINO OOD +4×，3D Flow 域内 +20-30%
 
 ## 相关概念
 - [[VLA]]: WAM 的前驱，标准 VLA 不建模世界动态
