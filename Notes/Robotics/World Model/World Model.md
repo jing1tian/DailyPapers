@@ -46,6 +46,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/MV-WAM|MV-WAM]]
 - [[Notes/Robotics/World Model/Mirage|Mirage]]
 - [[Notes/Robotics/World Model/MotionWAM|MotionWAM]]
+- [[Notes/Robotics/World Model/MultiWM|MultiWM]]
 - [[Notes/Robotics/World Model/NavWAM|NavWAM]]
 - [[Notes/Robotics/World Model/NextForcing|NextForcing]]
 - [[Notes/Robotics/World Model/OSCAR|OSCAR]]
