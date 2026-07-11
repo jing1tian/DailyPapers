@@ -20,7 +20,7 @@ $$z = \text{GumbelSoftmax}(e; \tau), \quad \nabla_{z} \mathcal{L}_{lang} \perp \
 4. 与 Frozen Bottleneck 的区别：frozen 完全冻结，write-protected 只阻断语言方向的梯度
 
 ## 代表工作
-- [[GumbelBottleneck]]: Write-Protected Discrete Bottlenecks for Language-Grounded World Models（2607.08312）
+- [[WP-WM]]: Write-Protected Discrete Bottlenecks for Language-Grounded World Models（2607.08312）——实证证明 Gumbel-Softmax 在语言梯度下面临结构性坍缩困境，提出写保护三层修复方案
 
 ## 相关概念
 - [[V-JEPA]]
