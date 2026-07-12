@@ -35,6 +35,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/HiMoE-VLA|HiMoE-VLA]]
 - [[Notes/Robotics/VLA/HyVLA-0.5|HyVLA-0.5]]
 - [[Notes/Robotics/VLA/InternVLA-A1.5|InternVLA-A1.5]]
+- [[Notes/Robotics/VLA/LingBot-VLA-2.0|LingBot-VLA-2.0]]
 - [[Notes/Robotics/VLA/MolmoAct2|MolmoAct2]]
 - [[Notes/Robotics/VLA/Omega-QVLA|Omega-QVLA]]
 - [[Notes/Robotics/VLA/PAPO-VLA|PAPO-VLA]]
