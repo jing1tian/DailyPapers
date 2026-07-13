@@ -1,105 +1,5 @@
 [
   {
-    "id": "2604.13733",
-    "date": "2026-06-12",
-    "title": "Vision-Language-Action Jump-Starting for Reinforcement Learning Robotic Agents"
-  },
-  {
-    "id": "2606.11221",
-    "date": "2026-06-12",
-    "title": "LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein"
-  },
-  {
-    "id": "2606.11324",
-    "date": "2026-06-12",
-    "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models"
-  },
-  {
-    "id": "2606.11396",
-    "date": "2026-06-12",
-    "title": "PLUME: Probabilistic Latent Unified World Modeling and Parameter Estimation for Multi-Finger Manipulation"
-  },
-  {
-    "id": "2606.11408",
-    "date": "2026-06-12",
-    "title": "Dynamic Execution Horizon Prediction for Chunk-based Robot Policies"
-  },
-  {
-    "id": "2606.11489",
-    "date": "2026-06-12",
-    "title": "Steering Multirobot Behavior via Closed-Loop Affine Activation Editing"
-  },
-  {
-    "id": "2606.11628",
-    "date": "2026-06-12",
-    "title": "LUCID: Learning Embodiment-Agnostic Intent Models from Unstructured Human Video"
-  },
-  {
-    "id": "2606.11743",
-    "date": "2026-06-12",
-    "title": "TacCoRL: Integrating Tactile Feedback into VLA via Simulation"
-  },
-  {
-    "id": "2606.11894",
-    "date": "2026-06-12",
-    "title": "Wild3R: Feed-Forward 3D Gaussian Splatting from Unconstrained Sparse Photos"
-  },
-  {
-    "id": "2606.11901",
-    "date": "2026-06-12",
-    "title": "DuoBench: A Reproducible Benchmark for Bimanual Manipulation in Simulation"
-  },
-  {
-    "id": "2606.12072",
-    "date": "2026-06-12",
-    "title": "World Model Self-Distillation: Training World Models to Solve General Tasks"
-  },
-  {
-    "id": "2606.12105",
-    "date": "2026-06-12",
-    "title": "DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model"
-  },
-  {
-    "id": "2606.12109",
-    "date": "2026-06-12",
-    "title": "Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning"
-  },
-  {
-    "id": "2606.12217",
-    "date": "2026-06-12",
-    "title": "Making Foresight Actionable: Repurposing Representation Alignment in World Action Models"
-  },
-  {
-    "id": "2606.12299",
-    "date": "2026-06-12",
-    "title": "Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering"
-  },
-  {
-    "id": "2606.12316",
-    "date": "2026-06-12",
-    "title": "Slots, Transitions, Loops: Learning Composable World Models for ARC"
-  },
-  {
-    "id": "2606.12352",
-    "date": "2026-06-12",
-    "title": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy"
-  },
-  {
-    "id": "2606.12366",
-    "date": "2026-06-12",
-    "title": "APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies"
-  },
-  {
-    "id": "2606.12402",
-    "date": "2026-06-12",
-    "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Reasoning"
-  },
-  {
-    "id": "2606.12403",
-    "date": "2026-06-12",
-    "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors"
-  },
-  {
     "id": "2602.04208",
     "date": "2026-06-13",
     "title": "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for VLA"
@@ -2113,5 +2013,10 @@
     "id": "2607.07995",
     "date": "2026-07-11",
     "title": "D-CLIPSE: Distributed Consensus-based Localization with Passive Listening on Shared State Exchange"
+  },
+  {
+    "id": "2501.12202",
+    "date": "2026-07-13",
+    "title": "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D   Assets Generation"
   }
 ]
