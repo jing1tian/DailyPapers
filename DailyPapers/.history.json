@@ -1,90 +1,5 @@
 [
   {
-    "id": "2602.04208",
-    "date": "2026-06-13",
-    "title": "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for VLA"
-  },
-  {
-    "id": "2604.08958",
-    "date": "2026-06-13",
-    "title": "WOMBET: World Model-Based Experience Transfer for Robust and Sample-efficient RL"
-  },
-  {
-    "id": "2606.12475",
-    "date": "2026-06-13",
-    "title": "Learning to Assist: Collaborative VLAs for Implicit Human-Robot Collaboration"
-  },
-  {
-    "id": "2606.12497",
-    "date": "2026-06-13",
-    "title": "μVLA: On Recurrent Memory for Partially Observable Manipulation in VLA Models"
-  },
-  {
-    "id": "2606.12640",
-    "date": "2026-06-13",
-    "title": "Individual Control Barrier Functions-Guided Diffusion Model for Safe Offline Multi-Agent RL"
-  },
-  {
-    "id": "2606.12690",
-    "date": "2026-06-13",
-    "title": "EWAM: An Enhanced World Action Model for Closed-Loop Online Adaptation"
-  },
-  {
-    "id": "2606.12706",
-    "date": "2026-06-13",
-    "title": "VLADriveBench: Evaluating CoT-Action Relationship in VLA for Autonomous Driving"
-  },
-  {
-    "id": "2606.12859",
-    "date": "2026-06-13",
-    "title": "AIR-VLA+: Decoupling Movement and Manipulation via Cascaded Dual-Action Decoders"
-  },
-  {
-    "id": "2606.12956",
-    "date": "2026-06-13",
-    "title": "SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation"
-  },
-  {
-    "id": "2606.12978",
-    "date": "2026-06-13",
-    "title": "Trajectory-Level Redirection Attacks on Vision-Language-Action Models"
-  },
-  {
-    "id": "2606.13053",
-    "date": "2026-06-13",
-    "title": "EA-WM: Event-Aware World Models with Task-Specification Grounding"
-  },
-  {
-    "id": "2606.13435",
-    "date": "2026-06-13",
-    "title": "GIVE: Grounding Human Gestures in Vision-Language-Action Models"
-  },
-  {
-    "id": "2606.13494",
-    "date": "2026-06-13",
-    "title": "NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation"
-  },
-  {
-    "id": "2606.13515",
-    "date": "2026-06-13",
-    "title": "MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models"
-  },
-  {
-    "id": "2606.13578",
-    "date": "2026-06-13",
-    "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories"
-  },
-  {
-    "id": "2606.13672",
-    "date": "2026-06-13",
-    "title": "WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation"
-  },
-  {
-    "id": "2606.13674",
-    "date": "2026-06-13",
-    "title": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers"
-  },
-  {
     "id": "2606.08063",
     "date": "2026-06-14",
     "title": "Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?"
@@ -2018,5 +1933,155 @@
     "id": "2501.12202",
     "date": "2026-07-13",
     "title": "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D   Assets Generation"
+  },
+  {
+    "id": "2607.08974",
+    "date": "2026-07-14",
+    "title": "CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding"
+  },
+  {
+    "id": "2607.09185",
+    "date": "2026-07-14",
+    "title": "Causally Debiased Latent Action Model for Embodied Action Conditioned World Models"
+  },
+  {
+    "id": "2607.08894",
+    "date": "2026-07-14",
+    "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning"
+  },
+  {
+    "id": "2605.12920",
+    "date": "2026-07-14",
+    "title": "Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue"
+  },
+  {
+    "id": "2607.09042",
+    "date": "2026-07-14",
+    "title": "Learning More from Less: Reinforcement Learning from Hindsight"
+  },
+  {
+    "id": "2607.08766",
+    "date": "2026-07-14",
+    "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators"
+  },
+  {
+    "id": "2607.08877",
+    "date": "2026-07-14",
+    "title": "FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space"
+  },
+  {
+    "id": "2607.09590",
+    "date": "2026-07-14",
+    "title": "PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers"
+  },
+  {
+    "id": "2607.09078",
+    "date": "2026-07-14",
+    "title": "Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method"
+  },
+  {
+    "id": "2607.08986",
+    "date": "2026-07-14",
+    "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game"
+  },
+  {
+    "id": "2607.08837",
+    "date": "2026-07-14",
+    "title": "Prompt-Driven Exploration"
+  },
+  {
+    "id": "2607.09108",
+    "date": "2026-07-14",
+    "title": "Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures"
+  },
+  {
+    "id": "2607.08857",
+    "date": "2026-07-14",
+    "title": "AgenticFocus: Object-Preserving Mixed Reality Synthesis from Human FPV Video for Dexterous Humanoid Learning"
+  },
+  {
+    "id": "2607.08948",
+    "date": "2026-07-14",
+    "title": "SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control"
+  },
+  {
+    "id": "2607.09130",
+    "date": "2026-07-14",
+    "title": "Vascular Geometry Characterization for AI-Based Endovascular Navigation"
+  },
+  {
+    "id": "2607.09190",
+    "date": "2026-07-14",
+    "title": "TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation"
+  },
+  {
+    "id": "2607.09191",
+    "date": "2026-07-14",
+    "title": "GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency"
+  },
+  {
+    "id": "2607.09192",
+    "date": "2026-07-14",
+    "title": "Empirical Pedestrian Safety Assessment in a Mobile Robot Using a Predictive Social Force Model"
+  },
+  {
+    "id": "2607.09218",
+    "date": "2026-07-14",
+    "title": "Tactile and Vision Conditioned Contact-Centric Control for Whole-Arm Manipulation"
+  },
+  {
+    "id": "2607.09261",
+    "date": "2026-07-14",
+    "title": "Validating Virtual Reality for Studying Multimodal Human-Robot Interaction in Socially Aware Robot Navigation"
+  },
+  {
+    "id": "2607.09315",
+    "date": "2026-07-14",
+    "title": "Robot Trajectron V3: A Probabilistic Shared Control Framework for SE(3) Manipulation"
+  },
+  {
+    "id": "2607.09319",
+    "date": "2026-07-14",
+    "title": "Differential Analysis of Multispectral Images for Terrain Identification"
+  },
+  {
+    "id": "2607.09323",
+    "date": "2026-07-14",
+    "title": "Effects of Robotic Touch on Older Users During Walking Guidance by a Humanoid Robot"
+  },
+  {
+    "id": "2607.09365",
+    "date": "2026-07-14",
+    "title": "PhysV2A: Reachability-Gated and Semantic-Mask-Constrained Feasibility Completion for Video-to-Robot Manipulation"
+  },
+  {
+    "id": "2607.09515",
+    "date": "2026-07-14",
+    "title": "One-Shot Multimodal Learning from Demonstration with Force-Constrained Elastic Maps"
+  },
+  {
+    "id": "2607.09519",
+    "date": "2026-07-14",
+    "title": "DemoBridge: A Simulation-in-the-Loop Toolkit for Single-View Human Demonstration Retargeting"
+  },
+  {
+    "id": "2607.09648",
+    "date": "2026-07-14",
+    "title": "B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations"
+  },
+  {
+    "id": "2607.08966",
+    "date": "2026-07-14",
+    "title": "Impedance-Guided Programmable Transmission of Localized Deformation in Modular Soft Metamaterials"
+  },
+  {
+    "id": "2607.09336",
+    "date": "2026-07-14",
+    "title": "Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning"
+  },
+  {
+    "id": "2607.08808",
+    "date": "2026-07-14",
+    "title": "StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference"
   }
 ]
