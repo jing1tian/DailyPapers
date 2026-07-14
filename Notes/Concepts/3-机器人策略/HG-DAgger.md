@@ -25,6 +25,7 @@ $$D_{i+1} = D_i \cup \{(s, \pi^*(s)) : s \in \text{human-gated states}\}$$
 ## 代表工作
 
 - [[EXPO-FT]]: 作为对比基线，EXPO-FT 通过 RL 奖励优化超越了 HG-DAgger 的纯模仿学习上限
+- [[FlowDAgger]]: 在潜噪声空间执行 DAgger 循环的方法，与 HG-DAgger 共享在线干预框架
 
 ## 相关概念
 

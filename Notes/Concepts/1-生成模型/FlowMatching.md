@@ -22,6 +22,7 @@ $$\mathcal{L}_{FM} = \mathbb{E}_{t, p_t(x)} \| v_\theta(x, t) - u_t(x) \|^2$$
 ## 代表工作
 - [[Lipman2022]]: Flow Matching for Generative Modeling（原始论文）
 - [[FabriVLA]]: flow-matching action head for manipulation
+- [[FlowDAgger]]: 利用流匹配 ODE 可逆性进行潜噪声空间 DAgger 适应
 
 ## 相关概念
 - [[DiT]]
