@@ -42,6 +42,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/LeWM|LeWM]]
 - [[Notes/Robotics/World Model/LingBot-Video|LingBot-Video]]
 - [[Notes/Robotics/World Model/LingBot-World-Infinity|LingBot-World-Infinity]]
+- [[Notes/Robotics/World Model/Lumo-2|Lumo-2]]
 - [[Notes/Robotics/World Model/MECo-WAM|MECo-WAM]]
 - [[Notes/Robotics/World Model/MMBench2|MMBench2]]
 - [[Notes/Robotics/World Model/MV-WAM|MV-WAM]]
