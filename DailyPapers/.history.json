@@ -1,10 +1,5 @@
 [
   {
-    "id": "2605.12500",
-    "date": "2026-06-15",
-    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
-  },
-  {
     "id": "2512.21201",
     "date": "2026-06-16",
     "title": "Schr\\\"odinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation"
@@ -2213,5 +2208,120 @@
     "id": "2606.11324",
     "date": "2026-07-15",
     "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models"
+  },
+  {
+    "id": "2607.13017",
+    "date": "2026-07-16",
+    "title": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models"
+  },
+  {
+    "id": "2607.12571",
+    "date": "2026-07-16",
+    "title": "TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Model Backdoors"
+  },
+  {
+    "id": "2607.12287",
+    "date": "2026-07-16",
+    "title": "Reducing Temporal Redundancy for Efficient Vision-Language-Action Inference"
+  },
+  {
+    "id": "2607.12356",
+    "date": "2026-07-16",
+    "title": "VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation"
+  },
+  {
+    "id": "2607.12931",
+    "date": "2026-07-16",
+    "title": "ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-Tuning"
+  },
+  {
+    "id": "2603.08862",
+    "date": "2026-07-16",
+    "title": "APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model"
+  },
+  {
+    "id": "2606.30534",
+    "date": "2026-07-16",
+    "title": "Orca: The World is in Your Mind"
+  },
+  {
+    "id": "2510.18315",
+    "date": "2026-07-16",
+    "title": "Higher Embedding Dimension Creates a Stronger World Model for a Simple Sorting Task"
+  },
+  {
+    "id": "2607.12423",
+    "date": "2026-07-16",
+    "title": "Model-Based Diffusion Optimal Control for Multi-Robot Motion Planning"
+  },
+  {
+    "id": "2607.12659",
+    "date": "2026-07-16",
+    "title": "Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference"
+  },
+  {
+    "id": "2607.12892",
+    "date": "2026-07-16",
+    "title": "UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies"
+  },
+  {
+    "id": "2607.12992",
+    "date": "2026-07-16",
+    "title": "ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning"
+  },
+  {
+    "id": "2607.13031",
+    "date": "2026-07-16",
+    "title": "The Seriality Gap in Video Diffusion Models"
+  },
+  {
+    "id": "2607.12050",
+    "date": "2026-07-16",
+    "title": "EFLUX: Elastic Multi-Robot Formation Navigation and Adaptation with Agentic LLMs"
+  },
+  {
+    "id": "2607.12065",
+    "date": "2026-07-16",
+    "title": "Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation"
+  },
+  {
+    "id": "2607.12105",
+    "date": "2026-07-16",
+    "title": "Robust In-Hand Manipulation via Priors in Reinforcement Learning and Mechanical Design"
+  },
+  {
+    "id": "2607.12130",
+    "date": "2026-07-16",
+    "title": "More than a Manipulator: Planning Propellant-Free Attitude Maneuvers for Free-Floating Space Robots"
+  },
+  {
+    "id": "2607.12370",
+    "date": "2026-07-16",
+    "title": "StratMamba: Strategic and Reactive Stream Partitioning for Path-Efficient LiDAR-Based Robot Navigation"
+  },
+  {
+    "id": "2607.12466",
+    "date": "2026-07-16",
+    "title": "Deployable Human Preference Alignment in Robotics: Learning Representative Reward Models"
+  },
+  {
+    "id": "2607.12702",
+    "date": "2026-07-16",
+    "title": "Vision-Based Dribbling for Humanoid Soccer via Privileged Representation Learning"
+  },
+  {
+    "id": "2607.12732",
+    "date": "2026-07-16",
+    "title": "Globalized Constrained Stein Variational Inference for Diverse Feasible Robot Motion Planning"
+  },
+  {
+    "id": "2607.12784",
+    "date": "2026-07-16",
+    "title": "Directional Constraints for Efficient Exploration in Safe Reinforcement Learning"
+  },
+  {
+    "id": "2607.12811",
+    "date": "2026-07-16",
+    "title": "PixelLoop: Shortcut Topological Navigation with Pixel-Level Loops"
   }
 ]
