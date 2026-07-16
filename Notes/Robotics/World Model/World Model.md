@@ -54,6 +54,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/NextForcing|NextForcing]]
 - [[Notes/Robotics/World Model/OSCAR|OSCAR]]
 - [[Notes/Robotics/World Model/OrbiSim|OrbiSim]]
+- [[Notes/Robotics/World Model/Orca|Orca]]
 - [[Notes/Robotics/World Model/PERSIST|PERSIST]]
 - [[Notes/Robotics/World Model/PVWM|PVWM]]
 - [[Notes/Robotics/World Model/PiL-World|PiL-World]]
