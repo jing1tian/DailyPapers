@@ -47,6 +47,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/Dreamer|Dreamer]]
 - [[Notes/Concepts/Architecture/DreamerV3|DreamerV3]]
 - [[Notes/Concepts/Architecture/Dual-System Architecture|Dual-System Architecture]]
+- [[Notes/Concepts/Architecture/DynaDreamer|DynaDreamer]]
 - [[Notes/Concepts/Architecture/FVD|FVD]]
 - [[Notes/Concepts/Architecture/GAIA-1|GAIA-1]]
 - [[Notes/Concepts/Architecture/Gaussian Splatting|Gaussian Splatting]]
