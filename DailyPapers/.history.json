@@ -1,145 +1,5 @@
 [
   {
-    "id": "2502.19544",
-    "date": "2026-06-17",
-    "title": "Efficient Reinforcement Learning by Guiding World Models with Non-Curated Data"
-  },
-  {
-    "id": "2509.18428",
-    "date": "2026-06-17",
-    "title": "Latent Action Pretraining Through World Modeling"
-  },
-  {
-    "id": "2511.18960",
-    "date": "2026-06-17",
-    "title": "AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention"
-  },
-  {
-    "id": "2601.04061",
-    "date": "2026-06-17",
-    "title": "CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos"
-  },
-  {
-    "id": "2606.14752",
-    "date": "2026-06-17",
-    "title": "X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Pretraining"
-  },
-  {
-    "id": "2606.15021",
-    "date": "2026-06-17",
-    "title": "Steering Autoregressive Vision-Language-Action Policies via Action Token Intervention"
-  },
-  {
-    "id": "2606.15099",
-    "date": "2026-06-17",
-    "title": "Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models"
-  },
-  {
-    "id": "2606.15142",
-    "date": "2026-06-17",
-    "title": "MotionVLA: Vision-Language-Action Model for Humanoid Motion"
-  },
-  {
-    "id": "2606.15165",
-    "date": "2026-06-17",
-    "title": "VLALeaks: Membership Inference Attacks against Vision-Language-Action Models"
-  },
-  {
-    "id": "2606.15285",
-    "date": "2026-06-17",
-    "title": "Acting While Understanding: Asynchronous Semantic-Action Decoupling for Real-Time Vision-Language-Action Models"
-  },
-  {
-    "id": "2606.15341",
-    "date": "2026-06-17",
-    "title": "CausalDrive: Real-time Causal World Models for Autonomous Driving"
-  },
-  {
-    "id": "2606.15568",
-    "date": "2026-06-17",
-    "title": "SAPS: Shared Autonomy for Policy Steering by Blending Teleoperation with a Pretrained VLA"
-  },
-  {
-    "id": "2606.15594",
-    "date": "2026-06-17",
-    "title": "Pixels to Proofs: Probabilistically-Safe Latent World Model Control via Parallel Conformal Robust MPC"
-  },
-  {
-    "id": "2606.15714",
-    "date": "2026-06-17",
-    "title": "Beyond English: Uncovering the Multilingual Gap in Vision-Language-Action Models"
-  },
-  {
-    "id": "2606.15768",
-    "date": "2026-06-17",
-    "title": "LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies"
-  },
-  {
-    "id": "2606.15869",
-    "date": "2026-06-17",
-    "title": "Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation"
-  },
-  {
-    "id": "2606.15898",
-    "date": "2026-06-17",
-    "title": "VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI"
-  },
-  {
-    "id": "2606.16178",
-    "date": "2026-06-17",
-    "title": "Scaling Short-Term Memory of Visuomotor Policies for Long-Horizon Tasks"
-  },
-  {
-    "id": "2606.16253",
-    "date": "2026-06-17",
-    "title": "Learned Image Compression for Vision-Language-Action Models"
-  },
-  {
-    "id": "2606.16286",
-    "date": "2026-06-17",
-    "title": "FlowMPC: Improving Flow Matching policies with World Models"
-  },
-  {
-    "id": "2606.16504",
-    "date": "2026-06-17",
-    "title": "APEX: Adaptive Policy Execution for Precise Manipulation"
-  },
-  {
-    "id": "2606.16605",
-    "date": "2026-06-17",
-    "title": "ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control"
-  },
-  {
-    "id": "2606.16993",
-    "date": "2026-06-17",
-    "title": "DreamX-World 1.0: A General-Purpose Interactive World Model"
-  },
-  {
-    "id": "2606.17011",
-    "date": "2026-06-17",
-    "title": "ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning"
-  },
-  {
-    "id": "2606.17030",
-    "date": "2026-06-17",
-    "title": "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation"
-  },
-  {
-    "id": "2606.17043",
-    "date": "2026-06-17",
-    "title": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes"
-  },
-  {
-    "id": "2606.17046",
-    "date": "2026-06-17",
-    "title": "Geometric Action Model for Robot Policy Learning"
-  },
-  {
-    "id": "2606.17055",
-    "date": "2026-06-17",
-    "title": "T-Rex: Tactile-Reactive Dexterous Manipulation"
-  },
-  {
     "id": "2606.16533",
     "date": "2026-06-24",
     "title": "Kairos: A Native World Model Stack for Physical AI"
@@ -2273,5 +2133,20 @@
     "id": "2607.13067",
     "date": "2026-07-17",
     "title": "A 3DGS-Driven Dynamic Viewpoint and Vibrotactile Framework for Subsea Teleoperation Validated via fNIRS"
+  },
+  {
+    "id": "2506.01844",
+    "date": "2026-07-19",
+    "title": "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics"
+  },
+  {
+    "id": "2607.15207",
+    "date": "2026-07-19",
+    "title": "BadWAM: When World-Action Models Dream Right but Act Wrong"
+  },
+  {
+    "id": "2605.12500",
+    "date": "2026-07-19",
+    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
   }
 ]
