@@ -19,6 +19,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/AGRA|AGRA]]
 - [[Notes/Robotics/World Model/AdaWAM|AdaWAM]]
 - [[Notes/Robotics/World Model/AlayaWorld|AlayaWorld]]
+- [[Notes/Robotics/World Model/BadWAM|BadWAM]]
 - [[Notes/Robotics/World Model/Causal-rCM|Causal-rCM]]
 - [[Notes/Robotics/World Model/CoME|CoME]]
 - [[Notes/Robotics/World Model/Cosmos3|Cosmos3]]
