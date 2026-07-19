@@ -53,6 +53,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/SOMA|SOMA]]
 - [[Notes/Robotics/VLA/SVP-IL|SVP-IL]]
 - [[Notes/Robotics/VLA/SafeDojo|SafeDojo]]
+- [[Notes/Robotics/VLA/SmolVLA|SmolVLA]]
 - [[Notes/Robotics/VLA/SpikeVLA|SpikeVLA]]
 - [[Notes/Robotics/VLA/TACO|TACO]]
 - [[Notes/Robotics/VLA/TS-MaskVLA|TS-MaskVLA]]

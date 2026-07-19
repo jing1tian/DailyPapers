@@ -29,9 +29,11 @@ $$
 - [[Kairos]]: Joint WAM 代表，用 Mixture-of-Transformers（Video DiT + Action DiT）联合建模未来观测与动作，并以 Hybrid Linear Temporal Attention 替换标准全注意力实现线性复杂度长时程推理
 - [[ABot-M0.5]]: 通过中间潜在动作（ALAM）+ 双层 MoT + Dream Forcing 解决 WAM 在移动操纵中的三大结构失配，RoboCasa365 SOTA 46.6%
 - [[EgoWAM]]: 系统比较三种世界表征（Pixel/DINO/3D Flow）在野外第一视角人类数据 co-training 中的迁移效果，DINO OOD +4×，3D Flow 域内 +20-30%
+- [[BadWAM]]: 首次揭示 WAM 特有的 [[World-Action Drift]] 漏洞，黑盒查询攻击可将 LIBERO 成功率从 96.5% 降至 43.1%
 
 ## 相关概念
 - [[VLA]]: WAM 的前驱，标准 VLA 不建模世界动态
 - [[World Model]]: WAM 的另一基础
 - [[Cascaded WAM]]: WAM 的一种架构范式
 - [[JEPA]]: 预测潜表示方法，影响 VLA-JEPA 等 WAM 工作
+- [[World-Action Drift]]: WAM 特有的对抗攻击漏洞——动作输出可在想象未来保持合理时被单独劫持
