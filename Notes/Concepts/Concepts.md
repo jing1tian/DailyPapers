@@ -27,7 +27,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/Architecture|Architecture]] · 119 篇笔记 · 0 个子目录
 - [[Notes/Concepts/Data/Data|Data]] · 5 篇笔记 · 0 个子目录
 - [[Notes/Concepts/Datasets/Datasets|Datasets]] · 33 篇笔记 · 0 个子目录
-- [[Notes/Concepts/Models/Models|Models]] · 40 篇笔记 · 0 个子目录
+- [[Notes/Concepts/Models/Models|Models]] · 41 篇笔记 · 0 个子目录
 - [[Notes/Concepts/Training/Training|Training]] · 66 篇笔记 · 0 个子目录
 - [[Notes/Concepts/VLA/VLA|VLA]] · 56 篇笔记 · 0 个子目录
 
