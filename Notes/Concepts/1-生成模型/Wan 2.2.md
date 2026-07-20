@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [Wan2.2, Wan 2.2 TI2V]
+aliases: [Wan2.2, Wan 2.2 TI2V, Wan 2.2 A14B]
 ---
 
 # Wan 2.2
