@@ -2148,5 +2148,145 @@
     "id": "2605.12500",
     "date": "2026-07-19",
     "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
+  },
+  {
+    "id": "2607.15330",
+    "date": "2026-07-21",
+    "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories"
+  },
+  {
+    "id": "2607.15714",
+    "date": "2026-07-21",
+    "title": "AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning"
+  },
+  {
+    "id": "2607.16074",
+    "date": "2026-07-21",
+    "title": "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models"
+  },
+  {
+    "id": "2606.07383",
+    "date": "2026-07-21",
+    "title": "RhinoVLA Technical Report"
+  },
+  {
+    "id": "2607.14777",
+    "date": "2026-07-21",
+    "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning"
+  },
+  {
+    "id": "2512.13636",
+    "date": "2026-07-21",
+    "title": "MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning"
+  },
+  {
+    "id": "2607.12625",
+    "date": "2026-07-21",
+    "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill"
+  },
+  {
+    "id": "2607.08964",
+    "date": "2026-07-21",
+    "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading"
+  },
+  {
+    "id": "2607.08168",
+    "date": "2026-07-21",
+    "title": "MuScriptor: An Open Model for Multi-Instrument Music Transcription"
+  },
+  {
+    "id": "2607.15621",
+    "date": "2026-07-21",
+    "title": "Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving"
+  },
+  {
+    "id": "2607.15536",
+    "date": "2026-07-21",
+    "title": "E3DGS: Unified Geometric-Photometric Equivariance for 3D Gaussian Splatting via Color-as-Geometry Embedding"
+  },
+  {
+    "id": "2607.15901",
+    "date": "2026-07-21",
+    "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents"
+  },
+  {
+    "id": "2607.15641",
+    "date": "2026-07-21",
+    "title": "IMBench: A Benchmark for Intuitive Robotic Manipulation"
+  },
+  {
+    "id": "2607.15898",
+    "date": "2026-07-21",
+    "title": "Orbis 2: A Hierarchical World Model for Driving"
+  },
+  {
+    "id": "2601.00898",
+    "date": "2026-07-21",
+    "title": "Dichotomous Diffusion Policy Optimization"
+  },
+  {
+    "id": "2607.15890",
+    "date": "2026-07-21",
+    "title": "Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting"
+  },
+  {
+    "id": "2607.15693",
+    "date": "2026-07-21",
+    "title": "Toward a mechanistic understanding of inference in visual cortex and diffusion models"
+  },
+  {
+    "id": "2510.22204",
+    "date": "2026-07-21",
+    "title": "Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment"
+  },
+  {
+    "id": "2607.15485",
+    "date": "2026-07-21",
+    "title": "Diffusion models recover accurate mixture weights despite score function insensitivity"
+  },
+  {
+    "id": "2607.15395",
+    "date": "2026-07-21",
+    "title": "NeuroCommitSSM: Decision-Centric Shared Autonomy for Safe Assistive Manipulation via EEG-EMG-ET Commit Readiness"
+  },
+  {
+    "id": "2607.15448",
+    "date": "2026-07-21",
+    "title": "VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation"
+  },
+  {
+    "id": "2607.15483",
+    "date": "2026-07-21",
+    "title": "Risk-Aware Preference Learning for Stochastic Outcomes"
+  },
+  {
+    "id": "2607.15589",
+    "date": "2026-07-21",
+    "title": "MemoGuard: An Adaptive Runtime for Guarding Against Memory Traps in Communication-Limited Robot Navigation"
+  },
+  {
+    "id": "2607.15620",
+    "date": "2026-07-21",
+    "title": "AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots"
+  },
+  {
+    "id": "2607.15642",
+    "date": "2026-07-21",
+    "title": "Difference-Based Relational Learning for Zero-Shot Object-Goal Visual Navigation With Direct Sim-to-Real Transfer"
+  },
+  {
+    "id": "2607.15659",
+    "date": "2026-07-21",
+    "title": "Continuously Stable Structure through Plastic Deformation"
+  },
+  {
+    "id": "2607.15674",
+    "date": "2026-07-21",
+    "title": "A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning"
+  },
+  {
+    "id": "2607.15701",
+    "date": "2026-07-21",
+    "title": "RAVEN: Reinforcement-Adaptive Visibility-Graph Planning for Robust Humanoid Navigation with Collision-Free MPC"
   }
 ]
