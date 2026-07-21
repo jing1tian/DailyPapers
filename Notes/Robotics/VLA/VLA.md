@@ -67,6 +67,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/WorldPilot|WorldPilot]]
 - [[Notes/Robotics/VLA/WorldVLN|WorldVLN]]
 - [[Notes/Robotics/VLA/X-DiffVLA|X-DiffVLA]]
+- [[Notes/Robotics/VLA/Xiaomi-Robotics-1|Xiaomi-Robotics-1]]
 - [[Notes/Robotics/VLA/Z-1|Z-1]]
 - [[Notes/Robotics/VLA/vla.cpp|vla.cpp]]
 

@@ -24,6 +24,7 @@ Mixture-of-Transformers 是一种多专家 Transformer 架构，不同专家分�
 - [[AffordanceVLA]]: 使用含理解、可供性生成、动作三专家的 MoT 架构，通过 UAA 单向注意力机制协调，在机器人操作 VLA 中实现感知-动作解耦
 - [[Kairos]]: World Prediction 模块用 MoT 耦合 Video DiT（世界生成分支）与 Action DiT（动作分支），通过共享注意力实现未来观测与动作的联合分布建模，主干进一步替换为 Hybrid Linear Temporal Attention 以支持长时程线性复杂度推理
 - [[InternVLA-A1.5]]: 以 MoT 统一 VLM 主干（Qwen3.5 2B）与 Unified Expert（460M），共享 Full Attention 层但保留独立线性层，引入 Learnable Foresight Token 实现潜变量物理先验
+- [[Xiaomi-Robotics-1]]: 耦合 Qwen3-VL（VLM 分支）与 DiT（动作分支），DiT 通过交叉注意力消费 VLM KV Cache，在 10 万小时 UMI 数据上预训练，四大 VLA Benchmark 全面 SOTA
 
 ## 相关概念
 

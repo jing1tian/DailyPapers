@@ -34,6 +34,7 @@ $$
 ## 代表工作
 
 - [[ERVLA]]: 首次在具身 CoT VLA 框架中引入 Choice Policy + 知识截断 KV 条件化的组合
+- [[Xiaomi-Robotics-1]]: 将 Choice Policies 集成到 Mixture-of-Transformers 架构中，VLM 预测 K 个候选动作块及其 L1 误差分数，winner-takes-all 范式为 DiT Flow-Matching 提供最优初始化；在 10 万小时 UMI 预训练下验证了该机制的有效性
 
 ## 相关概念
 
