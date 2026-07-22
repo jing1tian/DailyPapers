@@ -34,6 +34,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/GE-Sim2|GE-Sim2]]
 - [[Notes/Robotics/World Model/GEM-4D|GEM-4D]]
 - [[Notes/Robotics/World Model/GaussianDream|GaussianDream]]
+- [[Notes/Robotics/World Model/GeoBoN|GeoBoN]]
 - [[Notes/Robotics/World Model/GeoSem-WAM|GeoSem-WAM]]
 - [[Notes/Robotics/World Model/GigaWorld1|GigaWorld1]]
 - [[Notes/Robotics/World Model/GigaWorldPolicy0.5|GigaWorldPolicy0.5]]
