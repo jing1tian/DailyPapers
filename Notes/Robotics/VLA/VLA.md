@@ -30,6 +30,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/ERVLA|ERVLA]]
 - [[Notes/Robotics/VLA/EXPO-FT|EXPO-FT]]
 - [[Notes/Robotics/VLA/EventVLA|EventVLA]]
+- [[Notes/Robotics/VLA/FM-VLA|FM-VLA]]
 - [[Notes/Robotics/VLA/FORCE|FORCE]]
 - [[Notes/Robotics/VLA/FineVLA|FineVLA]]
 - [[Notes/Robotics/VLA/FlowDAgger|FlowDAgger]]

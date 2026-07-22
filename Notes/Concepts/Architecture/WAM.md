@@ -30,6 +30,7 @@ $$
 - [[ABot-M0.5]]: 通过中间潜在动作（ALAM）+ 双层 MoT + Dream Forcing 解决 WAM 在移动操纵中的三大结构失配，RoboCasa365 SOTA 46.6%
 - [[EgoWAM]]: 系统比较三种世界表征（Pixel/DINO/3D Flow）在野外第一视角人类数据 co-training 中的迁移效果，DINO OOD +4×，3D Flow 域内 +20-30%
 - [[BadWAM]]: 首次揭示 WAM 特有的 [[World-Action Drift]] 漏洞，黑盒查询攻击可将 LIBERO 成功率从 96.5% 降至 43.1%
+- [[GeoBoN]]: 利用冻结 VGGT 的跨视角深度重投影一致性对 WAM 候选 rollout 进行无训练评分与选择，在 5 个 benchmark-WAM 配置中实现测试时成功率提升
 
 ## 相关概念
 - [[VLA]]: WAM 的前驱，标准 VLA 不建模世界动态
