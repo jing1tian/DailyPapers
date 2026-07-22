@@ -2288,5 +2288,105 @@
     "id": "2607.15701",
     "date": "2026-07-21",
     "title": "RAVEN: Reinforcement-Adaptive Visibility-Graph Planning for Robust Humanoid Navigation with Collision-Free MPC"
+  },
+  {
+    "id": "2607.18231",
+    "date": "2026-07-22",
+    "title": "FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation"
+  },
+  {
+    "id": "2607.18016",
+    "date": "2026-07-22",
+    "title": "Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation"
+  },
+  {
+    "id": "2606.06491",
+    "date": "2026-07-22",
+    "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies"
+  },
+  {
+    "id": "2510.00037",
+    "date": "2026-07-22",
+    "title": "RobustVLA: On Robustness of Vision-Language-Action Model against Multi-Modal Perturbations"
+  },
+  {
+    "id": "2606.14409",
+    "date": "2026-07-22",
+    "title": "Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack"
+  },
+  {
+    "id": "2607.16506",
+    "date": "2026-07-22",
+    "title": "Foresight Residual RL for Long-Horizon Robot Manipulation with Vision-Language-Action Models"
+  },
+  {
+    "id": "2607.17786",
+    "date": "2026-07-22",
+    "title": "Reasoning as a Double-Edged Sword: Architecture and Cross-Stage Robustness in Vision-Language-Action Models"
+  },
+  {
+    "id": "2607.16636",
+    "date": "2026-07-22",
+    "title": "PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution"
+  },
+  {
+    "id": "2607.17977",
+    "date": "2026-07-22",
+    "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model"
+  },
+  {
+    "id": "2607.18060",
+    "date": "2026-07-22",
+    "title": "RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning"
+  },
+  {
+    "id": "2607.18236",
+    "date": "2026-07-22",
+    "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations"
+  },
+  {
+    "id": "2607.17454",
+    "date": "2026-07-22",
+    "title": "Test-Time Scaling for World Action Models via Zero-Shot Geometric Evaluation"
+  },
+  {
+    "id": "2607.16602",
+    "date": "2026-07-22",
+    "title": "PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration"
+  },
+  {
+    "id": "2607.16314",
+    "date": "2026-07-22",
+    "title": "Depth-Regularized JEPA World Models Learn More Transferable Representations from Real Outdoor Robot Data"
+  },
+  {
+    "id": "2607.17973",
+    "date": "2026-07-22",
+    "title": "SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning"
+  },
+  {
+    "id": "2509.07996",
+    "date": "2026-07-22",
+    "title": "3D and 4D World Modeling: A Survey"
+  },
+  {
+    "id": "2607.14183",
+    "date": "2026-07-22",
+    "title": "Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning"
+  },
+  {
+    "id": "2607.17965",
+    "date": "2026-07-22",
+    "title": "Exploration Matters for Escaping the Blur Trap in 3D Gaussian Splatting"
+  },
+  {
+    "id": "2607.16838",
+    "date": "2026-07-22",
+    "title": "TopoGS: Planar Reconstruction via Topology-aware 3D Gaussian Splatting"
+  },
+  {
+    "id": "2607.16624",
+    "date": "2026-07-22",
+    "title": "SPARE-GS: Structural Parsimony and Resource Efficiency for 3D Gaussian Splatting"
   }
 ]
