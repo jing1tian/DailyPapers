@@ -43,6 +43,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/MolmoAct2|MolmoAct2]]
 - [[Notes/Robotics/VLA/Omega-QVLA|Omega-QVLA]]
 - [[Notes/Robotics/VLA/PAPO-VLA|PAPO-VLA]]
+- [[Notes/Robotics/VLA/POT-VLA|POT-VLA]]
 - [[Notes/Robotics/VLA/PhysReflect-VLA|PhysReflect-VLA]]
 - [[Notes/Robotics/VLA/Qwen-RobotManip|Qwen-RobotManip]]
 - [[Notes/Robotics/VLA/RLDX-1|RLDX-1]]
