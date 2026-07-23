@@ -23,6 +23,7 @@ $$\hat{s}_{t+1} = f_\theta(s_t, a_t), \quad \mathcal{L} = \|s_{t+1} - \hat{s}_{t
 ## 代表工作
 - [[ContactWorld]]：以 LeWorldModel 作为视觉世界模型 baseline
 - [[μ₀]]：action-free WM 与 Le 系方向有关联
+- [[DWM]]：在 LeWM 骨干上增加辅助 World Head，分解世界效应与动作效应，规划成功率平均提升 13.1 pp
 
 ## 相关概念
 - [[Action-Conditioned World Model]]

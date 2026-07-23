@@ -15,6 +15,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Models/Cosmos-Predict|Cosmos-Predict]]
 - [[Notes/Concepts/Models/Cosmos-Predict2|Cosmos-Predict2]]
 - [[Notes/Concepts/Models/DINOv2|DINOv2]]
+- [[Notes/Concepts/Models/DWM|DWM]]
 - [[Notes/Concepts/Models/F1-VLA|F1-VLA]]
 - [[Notes/Concepts/Models/FLUX-Kontext|FLUX-Kontext]]
 - [[Notes/Concepts/Models/FLUX.2|FLUX.2]]

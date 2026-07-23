@@ -23,7 +23,7 @@ aliases: [Guide Think Act, GTA VLA, 交互式体现推理 VLA]
 4. 在 SimplerEnv 的四维 OOD 扰动上做了系统评测
 
 ## 代表工作
-- Ling et al. 2026: GTA-VLA（Futian Lab + HIT）
+- [[GTA-VLA]]: Ling et al. 2026, Futian Labs + HIT，arXiv 2605.13632
 
 ## 相关概念
 - [[OpenVLA]]（基线对比）
