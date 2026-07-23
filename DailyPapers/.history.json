@@ -2388,5 +2388,155 @@
     "id": "2607.16624",
     "date": "2026-07-22",
     "title": "SPARE-GS: Structural Parsimony and Resource Efficiency for 3D Gaussian Splatting"
+  },
+  {
+    "id": "2607.18367",
+    "date": "2026-07-23",
+    "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report"
+  },
+  {
+    "id": "2607.19343",
+    "date": "2026-07-23",
+    "title": "Masked Visual Actions for Unified World Modeling"
+  },
+  {
+    "id": "2607.18709",
+    "date": "2026-07-23",
+    "title": "RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation"
+  },
+  {
+    "id": "2607.18840",
+    "date": "2026-07-23",
+    "title": "WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory"
+  },
+  {
+    "id": "2605.13632",
+    "date": "2026-07-23",
+    "title": "Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models"
+  },
+  {
+    "id": "2604.17787",
+    "date": "2026-07-23",
+    "title": "AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for Vision-Language-Action Models"
+  },
+  {
+    "id": "2607.19190",
+    "date": "2026-07-23",
+    "title": "Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents"
+  },
+  {
+    "id": "2607.18703",
+    "date": "2026-07-23",
+    "title": "Generative World Renderer at the Speed of Play"
+  },
+  {
+    "id": "2607.18580",
+    "date": "2026-07-23",
+    "title": "STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models"
+  },
+  {
+    "id": "2507.17049",
+    "date": "2026-07-23",
+    "title": "Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots"
+  },
+  {
+    "id": "2607.19038",
+    "date": "2026-07-23",
+    "title": "FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling"
+  },
+  {
+    "id": "2607.18715",
+    "date": "2026-07-23",
+    "title": "DWM: Separating World Effects from Actions in Latent World Models"
+  },
+  {
+    "id": "2604.26182",
+    "date": "2026-07-23",
+    "title": "Lifting Embodied World Models for Planning and Control"
+  },
+  {
+    "id": "2607.18801",
+    "date": "2026-07-23",
+    "title": "ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting"
+  },
+  {
+    "id": "2607.18589",
+    "date": "2026-07-23",
+    "title": "Planning as Emergent Behavior in Reinforcement Learning with Relational Hidden States"
+  },
+  {
+    "id": "2607.18362",
+    "date": "2026-07-23",
+    "title": "FARO: Feasibility-Aware Robot Motion Optimization"
+  },
+  {
+    "id": "2607.18365",
+    "date": "2026-07-23",
+    "title": "Towards Torque-Driven Reinforcement Learning for Quadruped Locomotion"
+  },
+  {
+    "id": "2607.18488",
+    "date": "2026-07-23",
+    "title": "The Open Ant: A Robot Platform for Reinforcement Learning Research"
+  },
+  {
+    "id": "2607.18517",
+    "date": "2026-07-23",
+    "title": "Beyond Fixed Goal Delivery: Online POMDP Planning for Target Interception in Crowds"
+  },
+  {
+    "id": "2607.18527",
+    "date": "2026-07-23",
+    "title": "DASH Robot: Minimalistic Design and Optimal Aerial-Terrestrial Locomotion via Contact-Implicit Control"
+  },
+  {
+    "id": "2607.18604",
+    "date": "2026-07-23",
+    "title": "Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach"
+  },
+  {
+    "id": "2607.18660",
+    "date": "2026-07-23",
+    "title": "MVP-Tac: A Miniaturized Dual-Modal Vision and Photoelastic Tactile Sensor for Robot-Assisted Minimally Invasive Surgery"
+  },
+  {
+    "id": "2607.18760",
+    "date": "2026-07-23",
+    "title": "Koopman DCM: Unstable Eigenfunctions as Data-driven Representations for Legged Balancing"
+  },
+  {
+    "id": "2607.18950",
+    "date": "2026-07-23",
+    "title": "Design and stability analysis of an underactuated hand with passively rotating fingers"
+  },
+  {
+    "id": "2607.19194",
+    "date": "2026-07-23",
+    "title": "Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency"
+  },
+  {
+    "id": "2607.19274",
+    "date": "2026-07-23",
+    "title": "Eversion-based robots can enable safe access,steering and endoscopic imaging within the spinal subarachnoid space"
+  },
+  {
+    "id": "2607.19284",
+    "date": "2026-07-23",
+    "title": "Stochastic Multi-Objective Kinodynamic Planning Against Adversaries"
+  },
+  {
+    "id": "2607.19306",
+    "date": "2026-07-23",
+    "title": "From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs"
+  },
+  {
+    "id": "2607.18565",
+    "date": "2026-07-23",
+    "title": "Integrity-Gated Eco-CACC: Epistemic Admissibility for Cooperative Driving at Signalized Intersections"
+  },
+  {
+    "id": "2607.19196",
+    "date": "2026-07-23",
+    "title": "STL-GCS: A Planner-Controller Framework for Signal Temporal Logic via Graphs of Time-varying Convex Sets"
   }
 ]
