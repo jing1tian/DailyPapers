@@ -18,6 +18,7 @@ DINOv3 是 Meta 提出的自监督视觉基础模型（self-supervised vision fo
 ## 代表工作
 
 - [[ABC]]: 系统比较了 CLIP（AdaLN/Cross-Attention 两种条件方式）与 DINOv3（Cross-Attention 条件）三种 ABC-DiT 架构变体的下游性能，发现视觉编码器选择对策略性能有显著影响
+- [[TurboVLA]]: 用 DINOv3（ViT-B/ViT-L）作为视觉骨干，结合 BERT 文本编码器通过双向跨注意力融合，以 0.2B 参数/32 Hz 在 LIBERO 上实现 97.7% 成功率
 
 ## 相关概念
 
