@@ -1,120 +1,5 @@
 [
   {
-    "id": "2607.02503",
-    "date": "2026-07-04",
-    "title": "VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation"
-  },
-  {
-    "id": "2607.01586",
-    "date": "2026-07-04",
-    "title": "VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment"
-  },
-  {
-    "id": "2607.02501",
-    "date": "2026-07-04",
-    "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots"
-  },
-  {
-    "id": "2512.22539",
-    "date": "2026-07-04",
-    "title": "VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models"
-  },
-  {
-    "id": "2607.01378",
-    "date": "2026-07-04",
-    "title": "Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching"
-  },
-  {
-    "id": "2607.01804",
-    "date": "2026-07-04",
-    "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon"
-  },
-  {
-    "id": "2607.01938",
-    "date": "2026-07-04",
-    "title": "PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation"
-  },
-  {
-    "id": "2607.02092",
-    "date": "2026-07-04",
-    "title": "Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies"
-  },
-  {
-    "id": "2607.02322",
-    "date": "2026-07-04",
-    "title": "The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection"
-  },
-  {
-    "id": "2607.02466",
-    "date": "2026-07-04",
-    "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs"
-  },
-  {
-    "id": "2606.18955",
-    "date": "2026-07-04",
-    "title": "Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos"
-  },
-  {
-    "id": "2603.06001",
-    "date": "2026-07-04",
-    "title": "Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration"
-  },
-  {
-    "id": "2607.02195",
-    "date": "2026-07-04",
-    "title": "Bridge-WA: Predicting Where and How the World Changes for Robotic Action"
-  },
-  {
-    "id": "2607.02403",
-    "date": "2026-07-04",
-    "title": "ACID: Action Consistency via Inverse Dynamics for Planning with World Models"
-  },
-  {
-    "id": "2607.02431",
-    "date": "2026-07-04",
-    "title": "WorldSample: Closed-loop Real-robot RL with World Modelling"
-  },
-  {
-    "id": "2605.00412",
-    "date": "2026-07-04",
-    "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling"
-  },
-  {
-    "id": "2607.01658",
-    "date": "2026-07-04",
-    "title": "Teaching Vision-Language-Action Models What to See and Where to Look"
-  },
-  {
-    "id": "2607.01595",
-    "date": "2026-07-04",
-    "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model"
-  },
-  {
-    "id": "2603.28545",
-    "date": "2026-07-04",
-    "title": "ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation"
-  },
-  {
-    "id": "2607.01531",
-    "date": "2026-07-04",
-    "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration"
-  },
-  {
-    "id": "2607.02222",
-    "date": "2026-07-04",
-    "title": "CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation"
-  },
-  {
-    "id": "2607.02417",
-    "date": "2026-07-04",
-    "title": "LIME: Learning Intent-aware Camera Motion from Egocentric Video"
-  },
-  {
-    "id": "2606.13092",
-    "date": "2026-07-04",
-    "title": "Certified World Models: Predictability Across Configuration, Horizon, and Resolution"
-  },
-  {
     "id": "2503.18470",
     "date": "2026-07-06",
     "title": "MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse"
@@ -1668,5 +1553,105 @@
     "id": "2607.27627",
     "date": "2026-08-01",
     "title": "Arm2Air: Cross-Embodiment Skeleton Transfer for 3D Relay Formation"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29596",
+    "date": "2026-08-04",
+    "title": "FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29613",
+    "date": "2026-08-04",
+    "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29169",
+    "date": "2026-08-04",
+    "title": "ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29569",
+    "date": "2026-08-04",
+    "title": "Safe Vision Language Action Models via Barrier Enhanced Flow Matching"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29172",
+    "date": "2026-08-04",
+    "title": "CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.23909",
+    "date": "2026-08-04",
+    "title": "WorldDiT: A Unified Diffusion Architecture for World and Action Modeling"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29235",
+    "date": "2026-08-04",
+    "title": "FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29302",
+    "date": "2026-08-04",
+    "title": "BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29031",
+    "date": "2026-08-04",
+    "title": "Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29482",
+    "date": "2026-08-04",
+    "title": "Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29622",
+    "date": "2026-08-04",
+    "title": "RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29285",
+    "date": "2026-08-04",
+    "title": "TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28737",
+    "date": "2026-08-04",
+    "title": "Mirror Learning"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29600",
+    "date": "2026-08-04",
+    "title": "HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28952",
+    "date": "2026-08-04",
+    "title": "Advances, challenges, and opportunities for legged robots"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29231",
+    "date": "2026-08-04",
+    "title": "TacPrint: A Wearable Fingertip Tactile Sensor for Human-to-Robot Contact Reproduction"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29567",
+    "date": "2026-08-04",
+    "title": "TransGraspNet: Physically and Geometrically Consistent Manipulation of Transparent Labware"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29374",
+    "date": "2026-08-04",
+    "title": "SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29393",
+    "date": "2026-08-04",
+    "title": "AquaJEPA: Action-Conditioned Multimodal Predictive Representations for Underwater Robot Dynamics"
+  },
+  {
+    "url": "https://arxiv.org/abs/2501.04426",
+    "date": "2026-08-04",
+    "title": "Dual-Force: Enhanced Offline Diversity Maximization under Imitation Constraints"
   }
 ]
