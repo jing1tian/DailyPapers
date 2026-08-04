@@ -17,6 +17,7 @@ Latent World Model 的 JEPA 变体，用可学习的正则化目标替代 JEPA �
 ## 代表工作
 - [[LeWM]]: LeWorldModel，LeJEPA 的具体实现
 - [[QQWorld]]: 改进 LeJEPA 的 EP 正则化目标
+- [[WCM]]: 基于 LeJEPA 构建轻量 VLA-RL critic，联合预测未来潜在状态与价值估计
 
 ## 相关概念
 - [[JEPA]]
