@@ -22,6 +22,7 @@ $$
 
 ## 代表工作
 - [[LeWM]]：首次将 SIGReg 用于端到端 JEPA 世界模型
+- [[WCM]]：将 SIGReg 引入 VLA-RL critic 训练，防止世界预测目标导致的特征塌缩
 
 ## 相关概念
 - [[Representation Collapse]]
