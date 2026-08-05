@@ -18,6 +18,7 @@ Fast-WAM 是一种高效的 World Action Model，以 Wan 2.2-5B Video Diffusion 
 ## 代表工作
 
 - [[GeoSem-WAM]]: 在 Fast-WAM 基础上增加几何和语义辅助监督分支
+- [[SelfWAM]]: 在 Fast-WAM 基础上引入干净动作条件化与机器人自我掩码预测，使视频分支真正感知动作语义
 
 ## 相关概念
 
