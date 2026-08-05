@@ -1653,5 +1653,155 @@
     "url": "https://arxiv.org/abs/2501.04426",
     "date": "2026-08-04",
     "title": "Dual-Force: Enhanced Offline Diversity Maximization under Imitation Constraints"
+  },
+  {
+    "id": "2608.01035",
+    "date": "2026-08-05",
+    "title": "WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA"
+  },
+  {
+    "id": "2608.02365",
+    "date": "2026-08-05",
+    "title": "Faster-WAM: Do World Action Models Need Deep Action Modules?"
+  },
+  {
+    "id": "2608.00725",
+    "date": "2026-08-05",
+    "title": "SelfWAM: A Self-Grounded Unified World Action Model for Fast Robot Control"
+  },
+  {
+    "id": "2608.01028",
+    "date": "2026-08-05",
+    "title": "VLAGuard: A Framework for Evaluating and Mitigating Physical Attention Hijacking in Vision-Language-Action Robots within Wireless Sensor Networks"
+  },
+  {
+    "id": "2608.01397",
+    "date": "2026-08-05",
+    "title": "SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space"
+  },
+  {
+    "id": "2608.01221",
+    "date": "2026-08-05",
+    "title": "EndoWAM: A Grounded World-Action Model for Generalizable Endoscopic Navigation"
+  },
+  {
+    "id": "2608.01381",
+    "date": "2026-08-05",
+    "title": "DreamTrajectory: Trajectory-Guided Action Generation with World Model Alignment for Mobile Manipulation"
+  },
+  {
+    "id": "2608.02326",
+    "date": "2026-08-05",
+    "title": "ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation"
+  },
+  {
+    "id": "2608.01013",
+    "date": "2026-08-05",
+    "title": "RL Bootstrapping of OpenVLA-OFT for a Novel Robot Embodiment"
+  },
+  {
+    "id": "2608.01265",
+    "date": "2026-08-05",
+    "title": "Hermite Curves as Trajectory Priors for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.01573",
+    "date": "2026-08-05",
+    "title": "Uncovering and Mitigating Positional Blind Spots in Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.01826",
+    "date": "2026-08-05",
+    "title": "Multi-View Unified Camera Fields: Geometry-Shaped Action-Facing Representations for RGB-Only Multi-Camera VLA Policies"
+  },
+  {
+    "id": "2608.02197",
+    "date": "2026-08-05",
+    "title": "Look Where It Matters: Adaptive Visual Refinement for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.02257",
+    "date": "2026-08-05",
+    "title": "Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation"
+  },
+  {
+    "id": "2608.02497",
+    "date": "2026-08-05",
+    "title": "Grounded Semantic Re-Binding for Robust Instruction Generalization in Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.00569",
+    "date": "2026-08-05",
+    "title": "Latency-Tolerant Cloud-Edge Collaborative Vision-Language-Action Models via Emergent Representational Specialization"
+  },
+  {
+    "id": "2608.00793",
+    "date": "2026-08-05",
+    "title": "DynamicWAM: Dual-Path Motion Conditioning for World-Action Models in Dynamic Manipulation"
+  },
+  {
+    "id": "2608.01066",
+    "date": "2026-08-05",
+    "title": "OC-VLA++: Monocular Geometry-Guided Cross-View Consistency for Viewpoint-Robust Robotic Manipulation"
+  },
+  {
+    "id": "2608.01402",
+    "date": "2026-08-05",
+    "title": "Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them"
+  },
+  {
+    "id": "2608.01880",
+    "date": "2026-08-05",
+    "title": "World Action Models in Real Time: An Empirical Study of Smooth Execution via Asynchronous Deployment"
+  },
+  {
+    "id": "2608.02578",
+    "date": "2026-08-05",
+    "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs"
+  },
+  {
+    "id": "2508.08831",
+    "date": "2026-08-05",
+    "title": "DiffPhysCam: Differentiable Physics-Based Camera Simulation for Inverse Rendering and Embodied AI"
+  },
+  {
+    "id": "2608.02428",
+    "date": "2026-08-05",
+    "title": "DF$^3$: World Modeling via Decoder-Free Feature Forecasting in Autonomous Navigation"
+  },
+  {
+    "id": "2607.19191",
+    "date": "2026-08-05",
+    "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU"
+  },
+  {
+    "id": "2608.01678",
+    "date": "2026-08-05",
+    "title": "Progressive Agent Skill Generation via Reinforcement Learning"
+  },
+  {
+    "id": "2608.00391",
+    "date": "2026-08-05",
+    "title": "The Gate, Not the Cache: Gate Provenance Bounds the Closed-Loop Reliability of Training-Free VLA Token Skipping"
+  },
+  {
+    "id": "2608.00547",
+    "date": "2026-08-05",
+    "title": "Disentangling Visuo-Tactile Foresight: Oracle-Guided Interface Discovery for World Action Models"
+  },
+  {
+    "id": "2608.01824",
+    "date": "2026-08-05",
+    "title": "ReTouch: Empowering Contact-Rich Dexterous Manipulation with Online-Refined Tactile Prediction"
+  },
+  {
+    "id": "2608.02191",
+    "date": "2026-08-05",
+    "title": "DerainSplat: Feed-Forward Clean 3D Gaussian Splatting from Sparse Rainy Views"
+  },
+  {
+    "id": "2602.10719",
+    "date": "2026-08-05",
+    "title": "From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving"
   }
 ]
