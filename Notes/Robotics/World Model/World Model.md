@@ -72,6 +72,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/SC3-Eval|SC3-Eval]]
 - [[Notes/Robotics/World Model/SKIP|SKIP]]
 - [[Notes/Robotics/World Model/SWEET|SWEET]]
+- [[Notes/Robotics/World Model/SelfWAM|SelfWAM]]
 - [[Notes/Robotics/World Model/Tactile-WAM|Tactile-WAM]]
 - [[Notes/Robotics/World Model/VT-WAM|VT-WAM]]
 - [[Notes/Robotics/World Model/WALL-WM|WALL-WM]]
