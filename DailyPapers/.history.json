@@ -1,10 +1,5 @@
 [
   {
-    "id": "2503.18470",
-    "date": "2026-07-06",
-    "title": "MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse"
-  },
-  {
     "id": "2607.02840",
     "date": "2026-07-08",
     "title": "TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training"
@@ -1803,5 +1798,155 @@
     "id": "2602.10719",
     "date": "2026-08-05",
     "title": "From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving"
+  },
+  {
+    "id": "2607.01586",
+    "date": "2026-08-06",
+    "title": "VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment"
+  },
+  {
+    "id": "2608.02713",
+    "date": "2026-08-06",
+    "title": "Quo Vadis, World Modeling?"
+  },
+  {
+    "id": "2608.02958",
+    "date": "2026-08-06",
+    "title": "ValueFormer: A Causal Transformer Value Function with Stage-Aware Labels for Semi-Autonomous Vision-Language-Action Policies"
+  },
+  {
+    "id": "2608.03231",
+    "date": "2026-08-06",
+    "title": "Structure-Aware Robust Fine-Tuning: Defending Vision-Language-Action Robots Against Physical Attention Hijacking"
+  },
+  {
+    "id": "2607.26657",
+    "date": "2026-08-06",
+    "title": "Enfold: Folding World Model Imagination into Predictive Representations for Ultra-Efficient Embodied Control"
+  },
+  {
+    "id": "2608.03244",
+    "date": "2026-08-06",
+    "title": "UniNav: A Unified World-Action Diffusion Model for Visual Navigation"
+  },
+  {
+    "id": "2608.03052",
+    "date": "2026-08-06",
+    "title": "How Should Vision-Language-Action Models Use Proprioceptive State?"
+  },
+  {
+    "id": "2608.03563",
+    "date": "2026-08-06",
+    "title": "Unified Visuomotor Targets: Supervising VLAs Beyond Physical Actions"
+  },
+  {
+    "id": "2608.03701",
+    "date": "2026-08-06",
+    "title": "LiLa-WAM: Lightweight Latent Reasoning World-Action Model for Robotic Manipulation"
+  },
+  {
+    "id": "2608.03727",
+    "date": "2026-08-06",
+    "title": "Track4Action: Distilling World-Centric 3D Tracker into Vision-Language-Action Policies"
+  },
+  {
+    "id": "2608.03682",
+    "date": "2026-08-06",
+    "title": "PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud"
+  },
+  {
+    "id": "2605.22882",
+    "date": "2026-08-06",
+    "title": "GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation"
+  },
+  {
+    "id": "2608.03207",
+    "date": "2026-08-06",
+    "title": "DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack"
+  },
+  {
+    "id": "2607.15065",
+    "date": "2026-08-06",
+    "title": "DriftWorld: Fast World Modeling through Drifting"
+  },
+  {
+    "id": "2608.02437",
+    "date": "2026-08-06",
+    "title": "InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis"
+  },
+  {
+    "id": "2608.02602",
+    "date": "2026-08-06",
+    "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling"
+  },
+  {
+    "id": "2608.02990",
+    "date": "2026-08-06",
+    "title": "EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation"
+  },
+  {
+    "id": "2608.03483",
+    "date": "2026-08-06",
+    "title": "Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution"
+  },
+  {
+    "id": "2512.00883",
+    "date": "2026-08-06",
+    "title": "Audio-Visual World Models: Learning Physically Grounded Multisensory Dynamics"
+  },
+  {
+    "id": "2605.24011",
+    "date": "2026-08-06",
+    "title": "ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.03103",
+    "date": "2026-08-06",
+    "title": "A Hierarchical Approach to Imitation Learning for Manipulation Tasks Requiring Time Varying Forces"
+  },
+  {
+    "id": "2608.03159",
+    "date": "2026-08-06",
+    "title": "Accelerating Human-Aware Robot Trajectory Generation via Diffusion and Consistency Distillation"
+  },
+  {
+    "id": "2608.03211",
+    "date": "2026-08-06",
+    "title": "CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction"
+  },
+  {
+    "id": "2608.02953",
+    "date": "2026-08-06",
+    "title": "RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models"
+  },
+  {
+    "id": "2608.03057",
+    "date": "2026-08-06",
+    "title": "TASQ: Temporal-Adaptive Bit Sparsification Quantization for Diffusion Models"
+  },
+  {
+    "id": "2608.03279",
+    "date": "2026-08-06",
+    "title": "3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment"
+  },
+  {
+    "id": "2608.03335",
+    "date": "2026-08-06",
+    "title": "SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference"
+  },
+  {
+    "id": "2406.14429",
+    "date": "2026-08-06",
+    "title": "CollaFuse: Collaborative Diffusion Models"
+  },
+  {
+    "id": "2608.03117",
+    "date": "2026-08-06",
+    "title": "Simulation-free and finite-time diffusion model"
+  },
+  {
+    "id": "2608.03566",
+    "date": "2026-08-06",
+    "title": "Divide-and-Conquer: Towards Generalizable Amortized Bayesian Inference for the Drift Diffusion Model"
   }
 ]
