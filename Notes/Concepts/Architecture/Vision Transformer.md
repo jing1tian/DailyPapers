@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [ViT, Vision Transformer]
+aliases: [ViT, Vision Transformer, 视觉Transformer, 视觉变换器]
 ---
 
 # Vision Transformer (ViT)

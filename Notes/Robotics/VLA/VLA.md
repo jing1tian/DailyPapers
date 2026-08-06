@@ -62,6 +62,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/TACO|TACO]]
 - [[Notes/Robotics/VLA/TS-MaskVLA|TS-MaskVLA]]
 - [[Notes/Robotics/VLA/TurboVLA|TurboVLA]]
+- [[Notes/Robotics/VLA/UVT|UVT]]
 - [[Notes/Robotics/VLA/UniviewVLA|UniviewVLA]]
 - [[Notes/Robotics/VLA/V-VLAPS|V-VLAPS]]
 - [[Notes/Robotics/VLA/VLA-Arena|VLA-Arena]]
