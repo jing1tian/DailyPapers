@@ -28,6 +28,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/Delta-JEPA|Delta-JEPA]]
 - [[Notes/Robotics/World Model/Dream-Tac|Dream-Tac]]
 - [[Notes/Robotics/World Model/EgoWAM|EgoWAM]]
+- [[Notes/Robotics/World Model/Enfold|Enfold]]
 - [[Notes/Robotics/World Model/FBFM|FBFM]]
 - [[Notes/Robotics/World Model/Faster-WAM|Faster-WAM]]
 - [[Notes/Robotics/World Model/FeedbackWM|FeedbackWM]]

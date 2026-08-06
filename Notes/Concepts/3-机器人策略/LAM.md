@@ -16,9 +16,11 @@ Latent Action Model，从无动作视频中学习结构化潜动作表征的模�
 
 ## 代表工作
 - [[CLAW]]: 基于 LAM 框架，引入对抗潜变量正则化
+- [[UVT]]: 使用冻结 LAM 提取视觉动态码 $z_t$，与动作块融合为统一视觉运动目标监督 VLA 微调
 
 ## 相关概念
 - [[LAPO]]
 - [[LAPA]]
 - [[CLAW]]
+- [[UVT]]
 - [[action-conditioned world model]]

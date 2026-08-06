@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [stop-gradient, sg, 梯度截断, detach, 停止梯度]
+aliases: [stop-gradient, sg, 梯度截断, detach, 停止梯度, 梯度隔离]
 ---
 
 # Stop-Gradient
