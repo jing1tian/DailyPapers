@@ -1550,102 +1550,102 @@
     "title": "Arm2Air: Cross-Embodiment Skeleton Transfer for 3D Relay Formation"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29596",
+    "id": "2607.29596",
     "date": "2026-08-04",
     "title": "FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29613",
+    "id": "2607.29613",
     "date": "2026-08-04",
     "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29169",
+    "id": "2607.29169",
     "date": "2026-08-04",
     "title": "ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29569",
+    "id": "2607.29569",
     "date": "2026-08-04",
     "title": "Safe Vision Language Action Models via Barrier Enhanced Flow Matching"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29172",
+    "id": "2607.29172",
     "date": "2026-08-04",
     "title": "CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning"
   },
   {
-    "url": "https://arxiv.org/abs/2607.23909",
+    "id": "2607.23909",
     "date": "2026-08-04",
     "title": "WorldDiT: A Unified Diffusion Architecture for World and Action Modeling"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29235",
+    "id": "2607.29235",
     "date": "2026-08-04",
     "title": "FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29302",
+    "id": "2607.29302",
     "date": "2026-08-04",
     "title": "BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29031",
+    "id": "2607.29031",
     "date": "2026-08-04",
     "title": "Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29482",
+    "id": "2607.29482",
     "date": "2026-08-04",
     "title": "Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29622",
+    "id": "2607.29622",
     "date": "2026-08-04",
     "title": "RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29285",
+    "id": "2607.29285",
     "date": "2026-08-04",
     "title": "TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation"
   },
   {
-    "url": "https://arxiv.org/abs/2607.28737",
+    "id": "2607.28737",
     "date": "2026-08-04",
     "title": "Mirror Learning"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29600",
+    "id": "2607.29600",
     "date": "2026-08-04",
     "title": "HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation"
   },
   {
-    "url": "https://arxiv.org/abs/2607.28952",
+    "id": "2607.28952",
     "date": "2026-08-04",
     "title": "Advances, challenges, and opportunities for legged robots"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29231",
+    "id": "2607.29231",
     "date": "2026-08-04",
     "title": "TacPrint: A Wearable Fingertip Tactile Sensor for Human-to-Robot Contact Reproduction"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29567",
+    "id": "2607.29567",
     "date": "2026-08-04",
     "title": "TransGraspNet: Physically and Geometrically Consistent Manipulation of Transparent Labware"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29374",
+    "id": "2607.29374",
     "date": "2026-08-04",
     "title": "SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning"
   },
   {
-    "url": "https://arxiv.org/abs/2607.29393",
+    "id": "2607.29393",
     "date": "2026-08-04",
     "title": "AquaJEPA: Action-Conditioned Multimodal Predictive Representations for Underwater Robot Dynamics"
   },
   {
-    "url": "https://arxiv.org/abs/2501.04426",
+    "id": "2501.04426",
     "date": "2026-08-04",
     "title": "Dual-Force: Enhanced Offline Diversity Maximization under Imitation Constraints"
   },
@@ -1948,5 +1948,155 @@
     "id": "2608.03566",
     "date": "2026-08-06",
     "title": "Divide-and-Conquer: Towards Generalizable Amortized Bayesian Inference for the Drift Diffusion Model"
+  },
+  {
+    "id": "2608.04633",
+    "date": "2026-08-07",
+    "title": "Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.04996",
+    "date": "2026-08-07",
+    "title": "DreamWAM: Beyond RGB Future Prediction for World Action Models"
+  },
+  {
+    "id": "2608.05042",
+    "date": "2026-08-07",
+    "title": "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation"
+  },
+  {
+    "id": "2608.04396",
+    "date": "2026-08-07",
+    "title": "CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention"
+  },
+  {
+    "id": "2608.04404",
+    "date": "2026-08-07",
+    "title": "Faster-WAM: Efficient Inference-Time Future Conditioning for Robust World Action Models"
+  },
+  {
+    "id": "2608.04657",
+    "date": "2026-08-07",
+    "title": "MobileWAM: Bridging World Action Models to Mobile Manipulation with Chain-of-Foresight"
+  },
+  {
+    "id": "2511.15669",
+    "date": "2026-08-07",
+    "title": "DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.04428",
+    "date": "2026-08-07",
+    "title": "Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference"
+  },
+  {
+    "id": "2608.04765",
+    "date": "2026-08-07",
+    "title": "Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.04692",
+    "date": "2026-08-07",
+    "title": "Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies"
+  },
+  {
+    "id": "2608.04964",
+    "date": "2026-08-07",
+    "title": "WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models"
+  },
+  {
+    "id": "2608.04246",
+    "date": "2026-08-07",
+    "title": "SAFECAST: Robust Failure Detection for VLA Policies with Contrast-Set Training and Calibration"
+  },
+  {
+    "id": "2608.04510",
+    "date": "2026-08-07",
+    "title": "GUARD: Grounding Uncertainty and Ablation-Based Risk Detection for Diffusion-Based VLAs"
+  },
+  {
+    "id": "2608.04653",
+    "date": "2026-08-07",
+    "title": "Overcoming Statistical Bias in Action-Controllable World Models"
+  },
+  {
+    "id": "2608.04701",
+    "date": "2026-08-07",
+    "title": "UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models"
+  },
+  {
+    "id": "2503.14833",
+    "date": "2026-08-07",
+    "title": "Curiosity-Diffuser: Curiosity Guide Diffusion Models for Reliability"
+  },
+  {
+    "id": "2510.17640",
+    "date": "2026-08-07",
+    "title": "RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation"
+  },
+  {
+    "id": "2608.04042",
+    "date": "2026-08-07",
+    "title": "Kitchen Robotic Manipulation utilizing Foundation Models"
+  },
+  {
+    "id": "2608.04196",
+    "date": "2026-08-07",
+    "title": "SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation"
+  },
+  {
+    "id": "2608.04527",
+    "date": "2026-08-07",
+    "title": "Retrieve in Time, Correct in Frequency"
+  },
+  {
+    "id": "2608.04842",
+    "date": "2026-08-07",
+    "title": "RORA: Realistic Object Reconstruction with Articulation"
+  },
+  {
+    "id": "2608.04820",
+    "date": "2026-08-07",
+    "title": "When Diffusion Models Forget Who You Are: Identity Preservation in Face Inpainting under Large Occlusions"
+  },
+  {
+    "id": "2608.04840",
+    "date": "2026-08-07",
+    "title": "Towards a satellite image manipulation and deepfake localization benchmark dataset"
+  },
+  {
+    "id": "2608.05070",
+    "date": "2026-08-07",
+    "title": "HelloWorld: Enabling Socially Interactive Characters in Video World Models"
+  },
+  {
+    "id": "2608.04378",
+    "date": "2026-08-07",
+    "title": "Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation"
+  },
+  {
+    "id": "2510.26081",
+    "date": "2026-08-07",
+    "title": "Group-Equivariant Diffusion Models for Lattice Field Theory"
+  },
+  {
+    "id": "2608.04309",
+    "date": "2026-08-07",
+    "title": "Structured LLM Reasoning for Zero-Shot Human--Robot Coordination Under Hidden Goals"
+  },
+  {
+    "id": "2608.04398",
+    "date": "2026-08-07",
+    "title": "Approximate Multi-Objective Search Under Rulebooks"
+  },
+  {
+    "id": "2608.04420",
+    "date": "2026-08-07",
+    "title": "SCOPE: Field-of-View-Aware Path Planning in Unknown 3D Environments via Safety-Volume Certification"
+  },
+  {
+    "id": "2608.04612",
+    "date": "2026-08-07",
+    "title": "GASP: GPU-Accelerated Safe Planner for Real-Time Collision-Aware Motion Generation with Latent Trajectory Sampling"
   }
 ]
