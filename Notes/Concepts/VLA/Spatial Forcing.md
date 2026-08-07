@@ -18,6 +18,7 @@ aliases: [Spatial Forcing, 空间强制对齐]
 ## 代表工作
 
 - [[CapVector]]: 将 Spatial Forcing 的 capability vector 提取并迁移，以 <0.002% 额外开销复现其性能
+- [[Mind-VLA]]: 将场景级 VGGT 对齐（Spatial Forcing 范式）扩展为指令感知的目标物体三视图对齐，解决指令无关问题
 
 ## 相关概念
 
