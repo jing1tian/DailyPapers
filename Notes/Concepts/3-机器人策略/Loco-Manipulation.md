@@ -28,6 +28,7 @@ Loco-Manipulation 是将**移动运动（Locomotion）**与**物体操作（Mani
 - [[POT-VLA]]: 通过持久化 3D 物体 Token 解决 Loco-Manipulation 中的感知-动作状态分叉
 - [[Being-H0.7]]: Being-0 系统，模块化 Loco-Manipulation 方法
 - [[人形机器人]]: 人形平台（如 Unitree G1）是主要研究载体
+- [[Omega0]]: ω-0，通过潜在预测世界-动作模型实现并发人形运动-操作，11 任务平均 SR 81.8%（无分解式架构）
 
 ## 相关概念
 
