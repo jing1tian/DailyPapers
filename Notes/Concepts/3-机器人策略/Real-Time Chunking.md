@@ -19,6 +19,7 @@ Real-Time Chunking（RTC）是一种用于 [[Action Chunking|动作分块]] 策�
 
 - [[ABC]]: 研究不同动作前缀长度对策略性能的影响（消融实验），验证 RTC 风格的前缀条件化在实际部署中的效果
 - [[Qwen-RobotManip]] (2026): 推理时采用 RTC + $K_{\text{repeat}}=8$ 步 Flow Matching 采样，实现无缝闭环控制
+- [[Omega0]]: ω-0 在 Stage 3 训练阶段引入 RTC 损失（$\mathcal{L}_{RTC}$），将前 $M$ 步设为干净前缀，仅对噪声后缀 $(M+1:H)$ 监督，减少组块边界跳变（贡献 +7.3% SR）
 
 ## 相关概念
 

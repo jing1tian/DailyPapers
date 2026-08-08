@@ -73,6 +73,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/VLA-Hijack|VLA-Hijack]]
 - [[Notes/Robotics/VLA/VLA-Pruner|VLA-Pruner]]
 - [[Notes/Robotics/VLA/VLA-REPLICA|VLA-REPLICA]]
+- [[Notes/Robotics/VLA/VLA-Talker|VLA-Talker]]
 - [[Notes/Robotics/VLA/VLAFlow|VLAFlow]]
 - [[Notes/Robotics/VLA/WCM|WCM]]
 - [[Notes/Robotics/VLA/WorldPilot|WorldPilot]]

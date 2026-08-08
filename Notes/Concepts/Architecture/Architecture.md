@@ -67,6 +67,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/LDM|LDM]]
 - [[Notes/Concepts/Architecture/LPIPS|LPIPS]]
 - [[Notes/Concepts/Architecture/Language-Conditioned World Model|Language-Conditioned World Model]]
+- [[Notes/Concepts/Architecture/Latent Predictive World Model|Latent Predictive World Model]]
 - [[Notes/Concepts/Architecture/LingBot-VA|LingBot-VA]]
 - [[Notes/Concepts/Architecture/MAGVIT|MAGVIT]]
 - [[Notes/Concepts/Architecture/MM-DiT|MM-DiT]]
