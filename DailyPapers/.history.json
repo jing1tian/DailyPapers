@@ -1,105 +1,5 @@
 [
   {
-    "id": "2512.05693",
-    "date": "2026-07-10",
-    "title": "HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies"
-  },
-  {
-    "id": "2607.06988",
-    "date": "2026-07-10",
-    "title": "WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time"
-  },
-  {
-    "id": "2607.07608",
-    "date": "2026-07-10",
-    "title": "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation"
-  },
-  {
-    "id": "2507.05116",
-    "date": "2026-07-10",
-    "title": "VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting"
-  },
-  {
-    "id": "2607.07534",
-    "date": "2026-07-10",
-    "title": "Infinite Worlds with Versatile Interactions"
-  },
-  {
-    "id": "2607.07675",
-    "date": "2026-07-10",
-    "title": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
-  },
-  {
-    "id": "2607.06655",
-    "date": "2026-07-10",
-    "title": "Pelican-VLA 0.5: Attending Before Acting Benefits Generalization"
-  },
-  {
-    "id": "2607.07459",
-    "date": "2026-07-10",
-    "title": "EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI"
-  },
-  {
-    "id": "2607.04434",
-    "date": "2026-07-10",
-    "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies"
-  },
-  {
-    "id": "2607.06291",
-    "date": "2026-07-10",
-    "title": "AlayaWorld: Long-Horizon and Playable Video World Generation"
-  },
-  {
-    "id": "2607.06678",
-    "date": "2026-07-10",
-    "title": "NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation"
-  },
-  {
-    "id": "2607.07491",
-    "date": "2026-07-10",
-    "title": "Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting"
-  },
-  {
-    "id": "2607.06701",
-    "date": "2026-07-10",
-    "title": "SPEAR: A Simulator for Photorealistic Embodied AI Research"
-  },
-  {
-    "id": "2604.07392",
-    "date": "2026-07-10",
-    "title": "Event-Centric World Modeling with Memory-Augmented Retrieval for Embodied Decision-Making"
-  },
-  {
-    "id": "2607.07287",
-    "date": "2026-07-10",
-    "title": "TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation"
-  },
-  {
-    "id": "2607.06640",
-    "date": "2026-07-10",
-    "title": "The Rank-One Corner: How Much Value Equivalence Does a Task Need from a World Model?"
-  },
-  {
-    "id": "2607.06699",
-    "date": "2026-07-10",
-    "title": "RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation"
-  },
-  {
-    "id": "2607.06724",
-    "date": "2026-07-10",
-    "title": "EvoPlan: Evolutionary Neuro-Symbolic Robot Planning with Spatio-Temporal Guarantees"
-  },
-  {
-    "id": "2607.07076",
-    "date": "2026-07-10",
-    "title": "PriGo: Test-Time Primitive Guidance to Diffusion and Flow Policies for Adaptive Robotic Manipulation"
-  },
-  {
-    "id": "2607.07101",
-    "date": "2026-07-10",
-    "title": "GeoProp: Grounding Robot State in Vision for Generalist Manipulation"
-  },
-  {
     "id": "2607.08436",
     "date": "2026-07-11",
     "title": "EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data"
@@ -1913,5 +1813,10 @@
     "id": "2607.02642",
     "date": "2026-08-09",
     "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation"
+  },
+  {
+    "id": "2510.22200",
+    "date": "2026-08-10",
+    "title": "LongCat-Video Technical Report"
   }
 ]
