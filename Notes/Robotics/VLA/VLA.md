@@ -20,6 +20,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/AffordanceVLA|AffordanceVLA]]
 - [[Notes/Robotics/VLA/Agentic-VLA|Agentic-VLA]]
 - [[Notes/Robotics/VLA/AnchorAlign|AnchorAlign]]
+- [[Notes/Robotics/VLA/AtlasVLA|AtlasVLA]]
 - [[Notes/Robotics/VLA/BridgeVLA++|BridgeVLA++]]
 - [[Notes/Robotics/VLA/CAG|CAG]]
 - [[Notes/Robotics/VLA/CLAP|CLAP]]
