@@ -1,105 +1,5 @@
 [
   {
-    "id": "2607.08436",
-    "date": "2026-07-11",
-    "title": "EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data"
-  },
-  {
-    "id": "2601.00969",
-    "date": "2026-07-11",
-    "title": "V-VLAPS: Value-Guided Planning for Vision-Language-Action Models"
-  },
-  {
-    "id": "2607.08575",
-    "date": "2026-07-11",
-    "title": "FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation"
-  },
-  {
-    "id": "2607.08182",
-    "date": "2026-07-11",
-    "title": "LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action"
-  },
-  {
-    "id": "2607.08375",
-    "date": "2026-07-11",
-    "title": "WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving"
-  },
-  {
-    "id": "2506.07900",
-    "date": "2026-07-11",
-    "title": "MiniCPM4: Ultra-Efficient LLMs on End Devices"
-  },
-  {
-    "id": "2607.07880",
-    "date": "2026-07-11",
-    "title": "GIRAF: Towards Generalizable Human Interactions with Articulated Objects"
-  },
-  {
-    "id": "2607.08312",
-    "date": "2026-07-11",
-    "title": "Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix"
-  },
-  {
-    "id": "2607.08283",
-    "date": "2026-07-11",
-    "title": "TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning"
-  },
-  {
-    "id": "2607.08751",
-    "date": "2026-07-11",
-    "title": "DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation"
-  },
-  {
-    "id": "2607.08127",
-    "date": "2026-07-11",
-    "title": "Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio"
-  },
-  {
-    "id": "2607.08770",
-    "date": "2026-07-11",
-    "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models"
-  },
-  {
-    "id": "2607.08056",
-    "date": "2026-07-11",
-    "title": "Reinforcing the Generation Order of Multimodal Masked Diffusion Models"
-  },
-  {
-    "id": "2607.08041",
-    "date": "2026-07-11",
-    "title": "An exact information theory of generalization phase transitions in Bayesian diffusion models"
-  },
-  {
-    "id": "2607.07830",
-    "date": "2026-07-11",
-    "title": "Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme Sloped Terrains"
-  },
-  {
-    "id": "2607.07873",
-    "date": "2026-07-11",
-    "title": "STEMbot: A Compliant Robot for Under-Canopy Plant Navigation"
-  },
-  {
-    "id": "2607.07958",
-    "date": "2026-07-11",
-    "title": "Towards Soft Robotic Exogloves for Musculoskeletal Manipulation to Reduce Pain and Spasticity"
-  },
-  {
-    "id": "2607.07968",
-    "date": "2026-07-11",
-    "title": "Soft Robotic Exogloves for Dexterous Mobility -- Towards Personalized Rehabilitation"
-  },
-  {
-    "id": "2607.07972",
-    "date": "2026-07-11",
-    "title": "In vivo feasibility study of humanoid robots in surgery"
-  },
-  {
-    "id": "2607.07995",
-    "date": "2026-07-11",
-    "title": "D-CLIPSE: Distributed Consensus-based Localization with Passive Listening on Shared State Exchange"
-  },
-  {
     "id": "2501.12202",
     "date": "2026-07-13",
     "title": "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D   Assets Generation"
@@ -1818,5 +1718,155 @@
     "id": "2510.22200",
     "date": "2026-08-10",
     "title": "LongCat-Video Technical Report"
+  },
+  {
+    "id": "2608.07468",
+    "date": "2026-08-11",
+    "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving"
+  },
+  {
+    "id": "2608.06729",
+    "date": "2026-08-11",
+    "title": "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models"
+  },
+  {
+    "id": "2512.22539",
+    "date": "2026-08-11",
+    "title": "VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models"
+  },
+  {
+    "id": "2605.28803",
+    "date": "2026-08-11",
+    "title": "{\\Omega}-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling"
+  },
+  {
+    "id": "2608.06434",
+    "date": "2026-08-11",
+    "title": "Fast and Accurate: An Adaptive VLA Inference Framework through Environment-aware Model Selection"
+  },
+  {
+    "id": "2608.06688",
+    "date": "2026-08-11",
+    "title": "CrossTracer: Cross-Embodiment Navigation via VLA Model Reasoning and Trace Residuals Adapting"
+  },
+  {
+    "id": "2608.06994",
+    "date": "2026-08-11",
+    "title": "Decoupling Intention from Trajectory: A Representational Deduction Framework for World Action Models"
+  },
+  {
+    "id": "2608.07314",
+    "date": "2026-08-11",
+    "title": "TEMPO: Semantic-Action Decoupled RL Post-Training for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.07361",
+    "date": "2026-08-11",
+    "title": "Depth-Wise Probing and Pruning of the Planning Token in a Driving Vision-Language-Action Model"
+  },
+  {
+    "id": "2608.06799",
+    "date": "2026-08-11",
+    "title": "Is Forward Prediction Enough? Physical State Grounding for JEPA World Models"
+  },
+  {
+    "id": "2608.06965",
+    "date": "2026-08-11",
+    "title": "Cross-View Action Consistency for Camera-Robust Vision-Language-Action Policies"
+  },
+  {
+    "id": "2608.03573",
+    "date": "2026-08-11",
+    "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs"
+  },
+  {
+    "id": "2608.07267",
+    "date": "2026-08-11",
+    "title": "WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN"
+  },
+  {
+    "id": "2608.06768",
+    "date": "2026-08-11",
+    "title": "Explore or Converge? Stage-Guided Per-Step Optimization for Diffusion Models"
+  },
+  {
+    "id": "2608.06794",
+    "date": "2026-08-11",
+    "title": "PAST: Prompt-Adaptive Sampling Termination for Efficient Diffusion Model"
+  },
+  {
+    "id": "2608.07409",
+    "date": "2026-08-11",
+    "title": "UniJEPA: A Unified Joint-Embedding Predictive Architecture for Task-Agnostic Visual World Modeling"
+  },
+  {
+    "id": "2608.06770",
+    "date": "2026-08-11",
+    "title": "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts"
+  },
+  {
+    "id": "2608.07077",
+    "date": "2026-08-11",
+    "title": "Transformers Struggle to Use Their Emergent World Models: Revisiting the Tower of Hanoi, and the Illusion of Thinking"
+  },
+  {
+    "id": "2608.07107",
+    "date": "2026-08-11",
+    "title": "MemWM: Memory-Augmented Text-Based World Model"
+  },
+  {
+    "id": "2608.06833",
+    "date": "2026-08-11",
+    "title": "Unordered Landmark Visual Navigation"
+  },
+  {
+    "id": "2608.07154",
+    "date": "2026-08-11",
+    "title": "Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation"
+  },
+  {
+    "id": "2608.07144",
+    "date": "2026-08-11",
+    "title": "InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding"
+  },
+  {
+    "id": "2608.07408",
+    "date": "2026-08-11",
+    "title": "Addressable Memory for Video World Models"
+  },
+  {
+    "id": "2608.07463",
+    "date": "2026-08-11",
+    "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation"
+  },
+  {
+    "id": "2608.06544",
+    "date": "2026-08-11",
+    "title": "TaskSense: Focusing on What Matters in World Models"
+  },
+  {
+    "id": "2608.06706",
+    "date": "2026-08-11",
+    "title": "Dueling World Models: Advantage-Style Action Channels for Common-Mode Distractor Rejection"
+  },
+  {
+    "id": "2608.07301",
+    "date": "2026-08-11",
+    "title": "From Optimal Actions to World Models: Identifiability of Transition Kernels in Discounted MDPs"
+  },
+  {
+    "id": "2608.07420",
+    "date": "2026-08-11",
+    "title": "Beyond Myopic World Models: Long-Horizon End-to-End Training for Direct Future Prediction"
+  },
+  {
+    "id": "2608.06424",
+    "date": "2026-08-11",
+    "title": "Multi Codec Discrete Diffusion Model for Text Guided Speech Inpainting and Editing"
+  },
+  {
+    "id": "2401.07039",
+    "date": "2026-08-11",
+    "title": "Quantum Generative Diffusion Model: A Fully Quantum-Mechanical Model for Generating Quantum State Ensemble"
   }
 ]
