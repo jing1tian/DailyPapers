@@ -21,6 +21,7 @@ $$\text{output}_i = \text{Transformer}_{m(i)}(\text{token}_i)$$
 
 ## 代表工作
 - [[SenseNova-U1]]: 使用 MoT 统一图像理解和生成
+- [[SimWAM]]: 使用 MoT 共享视频专家与动作专家的注意力，配合 [[Isolated Attention Mask]] 实现训练-推理解耦
 
 ## 相关概念
 - [[MoE]]: Mixture of Experts，相关的稀疏激活思路
