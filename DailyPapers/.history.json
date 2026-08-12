@@ -1868,5 +1868,115 @@
     "id": "2401.07039",
     "date": "2026-08-11",
     "title": "Quantum Generative Diffusion Model: A Fully Quantum-Mechanical Model for Generating Quantum State Ensemble"
+  },
+  {
+    "id": "2608.09381",
+    "date": "2026-08-12",
+    "title": "JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling"
+  },
+  {
+    "id": "2608.07619",
+    "date": "2026-08-12",
+    "title": "GWM-VLA: Geometry-Aware Latent World Modeling for Vision-Language-Action Learning"
+  },
+  {
+    "id": "2608.08023",
+    "date": "2026-08-12",
+    "title": "4D-WAM: Infusing Spatiotemporal Awareness into World Action Models through Trajectory Fields"
+  },
+  {
+    "id": "2608.08558",
+    "date": "2026-08-12",
+    "title": "Vid2WAM: Distilling Video Diffusion Priors into World Action Models"
+  },
+  {
+    "id": "2608.09516",
+    "date": "2026-08-12",
+    "title": "HarnessWAM: Bridging Prediction and Deliberation in World Action Models"
+  },
+  {
+    "id": "2608.07621",
+    "date": "2026-08-12",
+    "title": "CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-"
+  },
+  {
+    "id": "2608.09730",
+    "date": "2026-08-12",
+    "title": "World Tokens: Enhancing Embodied Policies with Training-Time World Modeling"
+  },
+  {
+    "id": "2607.02501",
+    "date": "2026-08-12",
+    "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots"
+  },
+  {
+    "id": "2608.07596",
+    "date": "2026-08-12",
+    "title": "LIRA: Local Cross-Layer Information Routing for Vision-Language-Action Decoding"
+  },
+  {
+    "id": "2608.09073",
+    "date": "2026-08-12",
+    "title": "Latent World Models with Monotone Planning Costs for Image-Goal Navigation"
+  },
+  {
+    "id": "2608.09298",
+    "date": "2026-08-12",
+    "title": "WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Man"
+  },
+  {
+    "id": "2608.09448",
+    "date": "2026-08-12",
+    "title": "VANE: Reliable Test-Time Training for Vision-Language-Action Models via Future Visual Representation"
+  },
+  {
+    "id": "2608.09492",
+    "date": "2026-08-12",
+    "title": "Rethink Before You Execute: Adaptive Execution for World Action Models"
+  },
+  {
+    "id": "2608.09876",
+    "date": "2026-08-12",
+    "title": "Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World "
+  },
+  {
+    "id": "2608.08725",
+    "date": "2026-08-12",
+    "title": "WA-SpecDec: World-Aware Speculative Decoding for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.08839",
+    "date": "2026-08-12",
+    "title": "SG-WAM: Text-Grounded and Spatial-aware Semantic Guidance for World-Action Models"
+  },
+  {
+    "id": "2608.09771",
+    "date": "2026-08-12",
+    "title": "SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation"
+  },
+  {
+    "id": "2608.07548",
+    "date": "2026-08-12",
+    "title": "SC$^{2}$-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigat"
+  },
+  {
+    "id": "2608.09125",
+    "date": "2026-08-12",
+    "title": "Trajectory Divergence Horizon Decision for Reliable Dual-Arm Surgical Subtask Manipulation"
+  },
+  {
+    "id": "2608.07981",
+    "date": "2026-08-12",
+    "title": "Distilling Physical Priors into Streaming World Models"
+  },
+  {
+    "id": "2608.09467",
+    "date": "2026-08-12",
+    "title": "RecoverFly: A Failure-Aware Reinforcement Learning Post-Training Framework for Aerial Vision-Languag"
+  },
+  {
+    "id": "2608.09926",
+    "date": "2026-08-12",
+    "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning"
   }
 ]

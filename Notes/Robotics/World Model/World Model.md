@@ -46,6 +46,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/HYWorld2|HYWorld2]]
 - [[Notes/Robotics/World Model/HiMem-WAM|HiMem-WAM]]
 - [[Notes/Robotics/World Model/ITC|ITC]]
+- [[Notes/Robotics/World Model/JEPA-WAM|JEPA-WAM]]
 - [[Notes/Robotics/World Model/JOPAT|JOPAT]]
 - [[Notes/Robotics/World Model/Kairos|Kairos]]
 - [[Notes/Robotics/World Model/LAWM-3D|LAWM-3D]]
