@@ -43,6 +43,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/G3VLA|G3VLA]]
 - [[Notes/Robotics/VLA/GRA|GRA]]
 - [[Notes/Robotics/VLA/GTA-VLA|GTA-VLA]]
+- [[Notes/Robotics/VLA/GWM-VLA|GWM-VLA]]
 - [[Notes/Robotics/VLA/HiMoE-VLA|HiMoE-VLA]]
 - [[Notes/Robotics/VLA/HyVLA-0.5|HyVLA-0.5]]
 - [[Notes/Robotics/VLA/InternVLA-A1.5|InternVLA-A1.5]]

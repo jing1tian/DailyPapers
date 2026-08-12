@@ -28,6 +28,7 @@ aliases: [VLA JEPA, JEPA VLA]
 ## 代表工作
 
 - [[SG-WAM]]: 主要对比基线之一，SG-WAM 在 LIBERO-Plus 和真实实验上均超越 VLA-JEPA
+- [[GWM-VLA]]: 在 VLA-JEPA 基础上引入几何感知多视角编码，LIBERO-Plus 鲁棒性提升 14 pp
 
 ## 相关概念
 
