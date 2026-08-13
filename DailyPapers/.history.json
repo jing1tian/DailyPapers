@@ -1,10 +1,5 @@
 [
   {
-    "id": "2501.12202",
-    "date": "2026-07-13",
-    "title": "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D   Assets Generation"
-  },
-  {
     "id": "2607.08974",
     "date": "2026-07-14",
     "title": "CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding"
@@ -1978,5 +1973,105 @@
     "id": "2608.09926",
     "date": "2026-08-12",
     "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning"
+  },
+  {
+    "id": "2608.10860",
+    "date": "2026-08-13",
+    "title": "Flex-$\\pi$: A Multi-Stream World-Action Model with Compute Flexibility"
+  },
+  {
+    "id": "2608.10232",
+    "date": "2026-08-13",
+    "title": "FACT: Failure-Aware Causal Training for World-Action Models"
+  },
+  {
+    "id": "2608.10386",
+    "date": "2026-08-13",
+    "title": "Dreamer-SAC: Off-Policy Learning in Latent World Models for Sample-Efficient Autonomous Driving"
+  },
+  {
+    "id": "2608.10107",
+    "date": "2026-08-13",
+    "title": "4D-WAM: 4D Consistent World Modeling for Autonomous Driving"
+  },
+  {
+    "id": "2608.10780",
+    "date": "2026-08-13",
+    "title": "JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation"
+  },
+  {
+    "id": "2608.10439",
+    "date": "2026-08-13",
+    "title": "Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation"
+  },
+  {
+    "id": "2608.10756",
+    "date": "2026-08-13",
+    "title": "Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting"
+  },
+  {
+    "id": "2608.10976",
+    "date": "2026-08-13",
+    "title": "XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving"
+  },
+  {
+    "id": "2608.11204",
+    "date": "2026-08-13",
+    "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning"
+  },
+  {
+    "id": "2608.10484",
+    "date": "2026-08-13",
+    "title": "Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.10393",
+    "date": "2026-08-13",
+    "title": "Hidden in Plain Sight: Diffusion-Based Unrestricted Robotic Attacks on Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.10824",
+    "date": "2026-08-13",
+    "title": "Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.10718",
+    "date": "2026-08-13",
+    "title": "TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4"
+  },
+  {
+    "id": "2608.10600",
+    "date": "2026-08-13",
+    "title": "BooST: Bridging Semantics and Motions for Efficient Skill Transfer"
+  },
+  {
+    "id": "2509.19696",
+    "date": "2026-08-13",
+    "title": "Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks"
+  },
+  {
+    "id": "2608.10220",
+    "date": "2026-08-13",
+    "title": "Whole-Body Planning for Humanoids Navigating Confined Spaces via Self-Collision Avoidance References"
+  },
+  {
+    "id": "2608.10383",
+    "date": "2026-08-13",
+    "title": "Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations"
+  },
+  {
+    "id": "2608.10449",
+    "date": "2026-08-13",
+    "title": "PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots"
+  },
+  {
+    "id": "2608.11150",
+    "date": "2026-08-13",
+    "title": "CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting"
+  },
+  {
+    "id": "2608.10278",
+    "date": "2026-08-13",
+    "title": "Chain of Spatial Thoughts: Modality-Agnostic Spatial Grounding for Vision Language Models"
   }
 ]
