@@ -33,6 +33,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/E-VLA|E-VLA]]
 - [[Notes/Robotics/VLA/ERVLA|ERVLA]]
 - [[Notes/Robotics/VLA/EXPO-FT|EXPO-FT]]
+- [[Notes/Robotics/VLA/EmbodiedMG|EmbodiedMG]]
 - [[Notes/Robotics/VLA/EventVLA|EventVLA]]
 - [[Notes/Robotics/VLA/FM-VLA|FM-VLA]]
 - [[Notes/Robotics/VLA/FORCE|FORCE]]
