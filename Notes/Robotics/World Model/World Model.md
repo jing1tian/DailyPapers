@@ -37,6 +37,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/Flash-WAM|Flash-WAM]]
 - [[Notes/Robotics/World Model/Flex-Pi|Flex-Pi]]
 - [[Notes/Robotics/World Model/FlowWAM|FlowWAM]]
+- [[Notes/Robotics/World Model/ForeWAM|ForeWAM]]
 - [[Notes/Robotics/World Model/GAF|GAF]]
 - [[Notes/Robotics/World Model/GE-Sim2|GE-Sim2]]
 - [[Notes/Robotics/World Model/GEM-4D|GEM-4D]]
