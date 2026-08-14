@@ -1,155 +1,5 @@
 [
   {
-    "id": "2607.08974",
-    "date": "2026-07-14",
-    "title": "CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding"
-  },
-  {
-    "id": "2607.09185",
-    "date": "2026-07-14",
-    "title": "Causally Debiased Latent Action Model for Embodied Action Conditioned World Models"
-  },
-  {
-    "id": "2607.08894",
-    "date": "2026-07-14",
-    "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning"
-  },
-  {
-    "id": "2605.12920",
-    "date": "2026-07-14",
-    "title": "Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue"
-  },
-  {
-    "id": "2607.09042",
-    "date": "2026-07-14",
-    "title": "Learning More from Less: Reinforcement Learning from Hindsight"
-  },
-  {
-    "id": "2607.08766",
-    "date": "2026-07-14",
-    "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators"
-  },
-  {
-    "id": "2607.08877",
-    "date": "2026-07-14",
-    "title": "FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space"
-  },
-  {
-    "id": "2607.09590",
-    "date": "2026-07-14",
-    "title": "PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers"
-  },
-  {
-    "id": "2607.09078",
-    "date": "2026-07-14",
-    "title": "Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method"
-  },
-  {
-    "id": "2607.08986",
-    "date": "2026-07-14",
-    "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game"
-  },
-  {
-    "id": "2607.08837",
-    "date": "2026-07-14",
-    "title": "Prompt-Driven Exploration"
-  },
-  {
-    "id": "2607.09108",
-    "date": "2026-07-14",
-    "title": "Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures"
-  },
-  {
-    "id": "2607.08857",
-    "date": "2026-07-14",
-    "title": "AgenticFocus: Object-Preserving Mixed Reality Synthesis from Human FPV Video for Dexterous Humanoid Learning"
-  },
-  {
-    "id": "2607.08948",
-    "date": "2026-07-14",
-    "title": "SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control"
-  },
-  {
-    "id": "2607.09130",
-    "date": "2026-07-14",
-    "title": "Vascular Geometry Characterization for AI-Based Endovascular Navigation"
-  },
-  {
-    "id": "2607.09190",
-    "date": "2026-07-14",
-    "title": "TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation"
-  },
-  {
-    "id": "2607.09191",
-    "date": "2026-07-14",
-    "title": "GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency"
-  },
-  {
-    "id": "2607.09192",
-    "date": "2026-07-14",
-    "title": "Empirical Pedestrian Safety Assessment in a Mobile Robot Using a Predictive Social Force Model"
-  },
-  {
-    "id": "2607.09218",
-    "date": "2026-07-14",
-    "title": "Tactile and Vision Conditioned Contact-Centric Control for Whole-Arm Manipulation"
-  },
-  {
-    "id": "2607.09261",
-    "date": "2026-07-14",
-    "title": "Validating Virtual Reality for Studying Multimodal Human-Robot Interaction in Socially Aware Robot Navigation"
-  },
-  {
-    "id": "2607.09315",
-    "date": "2026-07-14",
-    "title": "Robot Trajectron V3: A Probabilistic Shared Control Framework for SE(3) Manipulation"
-  },
-  {
-    "id": "2607.09319",
-    "date": "2026-07-14",
-    "title": "Differential Analysis of Multispectral Images for Terrain Identification"
-  },
-  {
-    "id": "2607.09323",
-    "date": "2026-07-14",
-    "title": "Effects of Robotic Touch on Older Users During Walking Guidance by a Humanoid Robot"
-  },
-  {
-    "id": "2607.09365",
-    "date": "2026-07-14",
-    "title": "PhysV2A: Reachability-Gated and Semantic-Mask-Constrained Feasibility Completion for Video-to-Robot Manipulation"
-  },
-  {
-    "id": "2607.09515",
-    "date": "2026-07-14",
-    "title": "One-Shot Multimodal Learning from Demonstration with Force-Constrained Elastic Maps"
-  },
-  {
-    "id": "2607.09519",
-    "date": "2026-07-14",
-    "title": "DemoBridge: A Simulation-in-the-Loop Toolkit for Single-View Human Demonstration Retargeting"
-  },
-  {
-    "id": "2607.09648",
-    "date": "2026-07-14",
-    "title": "B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations"
-  },
-  {
-    "id": "2607.08966",
-    "date": "2026-07-14",
-    "title": "Impedance-Guided Programmable Transmission of Localized Deformation in Modular Soft Metamaterials"
-  },
-  {
-    "id": "2607.09336",
-    "date": "2026-07-14",
-    "title": "Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning"
-  },
-  {
-    "id": "2607.08808",
-    "date": "2026-07-14",
-    "title": "StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference"
-  },
-  {
     "id": "2607.09818",
     "date": "2026-07-15",
     "title": "TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging"
@@ -2073,5 +1923,145 @@
     "id": "2608.10278",
     "date": "2026-08-13",
     "title": "Chain of Spatial Thoughts: Modality-Agnostic Spatial Grounding for Vision Language Models"
+  },
+  {
+    "id": "2606.17598",
+    "date": "2026-08-14",
+    "title": "MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation"
+  },
+  {
+    "id": "2608.11671",
+    "date": "2026-08-14",
+    "title": "StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models"
+  },
+  {
+    "id": "2607.00836",
+    "date": "2026-08-14",
+    "title": "From World Models to World Action Models: A Concise Tutorial for Robotics"
+  },
+  {
+    "id": "2608.11605",
+    "date": "2026-08-14",
+    "title": "Foresight Without Seeing: Latent Futures for World Action Models"
+  },
+  {
+    "id": "2608.11521",
+    "date": "2026-08-14",
+    "title": "Keep the Future, Drop the Rollout: RIFT for World Action Models"
+  },
+  {
+    "id": "2608.11924",
+    "date": "2026-08-14",
+    "title": "Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill"
+  },
+  {
+    "id": "2608.11739",
+    "date": "2026-08-14",
+    "title": "G0.5: One Autoregressive Stream for Robot Reasoning and Action"
+  },
+  {
+    "id": "2608.11769",
+    "date": "2026-08-14",
+    "title": "Policy-Induced Hand Priors in Humanoid Dual-Arm Manipulation: Diagnosing and Mitigating Initial-Pose Dependence"
+  },
+  {
+    "id": "2606.29699",
+    "date": "2026-08-14",
+    "title": "Early Warning Signals for OpenVLA Failure under Visual Distribution Shift"
+  },
+  {
+    "id": "2608.12078",
+    "date": "2026-08-14",
+    "title": "Better Slots, Better Worlds: Representation Quality & Robustness in Object-Centric World Models"
+  },
+  {
+    "id": "2606.13840",
+    "date": "2026-08-14",
+    "title": "Multi-Agent Embodied Autonomous Driving: From V2X Information Exchange to Shared World Models"
+  },
+  {
+    "id": "2608.12122",
+    "date": "2026-08-14",
+    "title": "HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing"
+  },
+  {
+    "id": "2608.11350",
+    "date": "2026-08-14",
+    "title": "Self-Evolving Embodied Agents via Skill-Harness Evolution"
+  },
+  {
+    "id": "2608.11601",
+    "date": "2026-08-14",
+    "title": "How Can Driving World Models Do Counterfactual Prediction?"
+  },
+  {
+    "id": "2608.12308",
+    "date": "2026-08-14",
+    "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation"
+  },
+  {
+    "id": "2608.11732",
+    "date": "2026-08-14",
+    "title": "Fingerprinting Text-to-Image Diffusion Models via Collapsed Generation"
+  },
+  {
+    "id": "2605.12236",
+    "date": "2026-08-14",
+    "title": "TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning"
+  },
+  {
+    "id": "2608.11363",
+    "date": "2026-08-14",
+    "title": "Adaptation of Generalist Robot Policies with Minimal Data"
+  },
+  {
+    "id": "2608.11417",
+    "date": "2026-08-14",
+    "title": "Locomotion Variability and User Experience in Smart Wheelchair Human-Robot Interaction"
+  },
+  {
+    "id": "2608.11597",
+    "date": "2026-08-14",
+    "title": "IoT-Enabled Autonomous Maritime Navigation in Smart Ports: A Curriculum-Guided Shared Policy Learning Framework"
+  },
+  {
+    "id": "2608.12063",
+    "date": "2026-08-14",
+    "title": "Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL"
+  },
+  {
+    "id": "2608.11655",
+    "date": "2026-08-14",
+    "title": "Motion-as-Prompt: Enhancing Motion Reasoning in Multimodal Large Language Models via Motion-Guided Cross-Frame Visual Prompting"
+  },
+  {
+    "id": "2608.11692",
+    "date": "2026-08-14",
+    "title": "HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting"
+  },
+  {
+    "id": "2608.12190",
+    "date": "2026-08-14",
+    "title": "Machine Learning-Based Cyber Defense for Cloud Infrastructure: An Adaptive Deep Q-Network Architecture for Intelligent Intrusion Detection and Automated Threat Mitigation"
+  },
+  {
+    "id": "2608.12273",
+    "date": "2026-08-14",
+    "title": "Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents"
+  },
+  {
+    "id": "2608.12306",
+    "date": "2026-08-14",
+    "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL"
+  },
+  {
+    "id": "2606.12406",
+    "date": "2026-08-14",
+    "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning"
+  },
+  {
+    "id": "2603.29426",
+    "date": "2026-08-14",
+    "title": "Diffusion-Guided Cooperative Policy Learning for Target Tracking Based on Underwater Mobile Agent Networks"
   }
 ]
