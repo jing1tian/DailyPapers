@@ -19,6 +19,7 @@ Segment Anything with Concepts 的缩写，在 SAM（Segment Anything Model）�
 
 - [[Mirage]]: 用 Qwen3-VL-2B + SAM3 生成天空与动态物体掩码，防止瞬态内容污染持久记忆
 - [[SVP-IL]]: 用冻结 LLM 解析指令类别后，调用 SAM 3 生成二值几何掩码作为空间视觉提示，注入扩散策略
+- [[MuseVLA]]: 用 SAM3 对目标描述做开放词汇分割，生成掩码用于 Grounded Sensor Image 的传感器热力图叠加
 
 ## 相关概念
 
