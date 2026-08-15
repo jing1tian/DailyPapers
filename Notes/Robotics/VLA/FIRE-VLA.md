@@ -265,7 +265,7 @@ $$
 
 ### Figure 2: 失败感知自演化方法框图 / Method Pipeline
 
-![Figure 2 — Failure-Informed Self-Evolution Framework](https://github.com/forever-free1/FIRE-VLA/raw/main/assets/framework.png)
+![Figure 2 — Failure-Informed Self-Evolution Framework](https://raw.githubusercontent.com/forever-free1/FIRE-VLA/main/assets/framework.png)
 
 **说明**: 完整的 FIRE-VLA 训练流程。(1) 当前策略生成带奖励的 rollout；(2) 路由门判断哪些组进入 PSD；(3) 冻结教师副本接入特权轨迹 token；(4) JSD 蒸馏仅作用于答案段；(5) 更新策略晋升为下一轮教师。
 
