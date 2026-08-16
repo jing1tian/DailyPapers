@@ -17,6 +17,7 @@ Google DeepMind 发布的轻量级视觉语言模型，将 SigLIP2 视觉编码�
 ## 代表工作
 - Beyer et al. (2024): "PaliGemma: A versatile 3B VLM for transfer"
 - [[UAM]]: 用 PaliGemma 研究 VLA 训练中的遗忘问题
+- [[MuseVLA]]: 以 PaliGemma-2 为 VLM backbone，生成 Sensor Token 和目标描述，驱动自适应多模态传感器选择
 
 ## 相关概念
 - [[SigLIP2]]

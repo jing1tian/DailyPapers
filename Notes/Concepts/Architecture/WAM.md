@@ -28,6 +28,7 @@ $$
 - [[WorldPilot]]: 将 WAM 输出（场景演化潜在 + 预期轨迹）通过双路径注入 VLA，在 LIBERO-Plus 达到 84.7% SOTA
 - [[Kairos]]: Joint WAM 代表，用 Mixture-of-Transformers（Video DiT + Action DiT）联合建模未来观测与动作，并以 Hybrid Linear Temporal Attention 替换标准全注意力实现线性复杂度长时程推理
 - [[ABot-M0.5]]: 通过中间潜在动作（ALAM）+ 双层 MoT + Dream Forcing 解决 WAM 在移动操纵中的三大结构失配，RoboCasa365 SOTA 46.6%
+- [[SimWAM]]: 用 [[Isolated Attention Mask]] 将视频专家与动作专家解耦，视频生成仅作训练信号，推理时完全丢弃视频分支，NAVSIM SOTA 91.5 PDMS
 - [[EgoWAM]]: 系统比较三种世界表征（Pixel/DINO/3D Flow）在野外第一视角人类数据 co-training 中的迁移效果，DINO OOD +4×，3D Flow 域内 +20-30%
 - [[BadWAM]]: 首次揭示 WAM 特有的 [[World-Action Drift]] 漏洞，黑盒查询攻击可将 LIBERO 成功率从 96.5% 降至 43.1%
 - [[GeoBoN]]: 利用冻结 VGGT 的跨视角深度重投影一致性对 WAM 候选 rollout 进行无训练评分与选择，在 5 个 benchmark-WAM 配置中实现测试时成功率提升

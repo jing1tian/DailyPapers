@@ -98,6 +98,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/SMPL|SMPL]]
 - [[Notes/Concepts/Architecture/SSIM|SSIM]]
 - [[Notes/Concepts/Architecture/SWM|SWM]]
+- [[Notes/Concepts/Architecture/SageAttention2|SageAttention2]]
 - [[Notes/Concepts/Architecture/Space-Time Self-Similarity|Space-Time Self-Similarity]]
 - [[Notes/Concepts/Architecture/Stream Masking|Stream Masking]]
 - [[Notes/Concepts/Architecture/Sub-JEPA|Sub-JEPA]]
