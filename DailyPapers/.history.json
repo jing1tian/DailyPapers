@@ -1,20 +1,5 @@
 [
   {
-    "id": "2506.01844",
-    "date": "2026-07-19",
-    "title": "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics"
-  },
-  {
-    "id": "2607.15207",
-    "date": "2026-07-19",
-    "title": "BadWAM: When World-Action Models Dream Right but Act Wrong"
-  },
-  {
-    "id": "2605.12500",
-    "date": "2026-07-19",
-    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
-  },
-  {
     "id": "2607.15330",
     "date": "2026-07-21",
     "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories"
@@ -1973,5 +1958,155 @@
     "id": "2608.14157",
     "date": "2026-08-18",
     "title": "Removing Temporal Note Redundancy Improves Multimodal Reinforcement Learning for Medicine"
+  },
+  {
+    "id": "2608.16074",
+    "date": "2026-08-19",
+    "title": "US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina"
+  },
+  {
+    "id": "2608.16503",
+    "date": "2026-08-19",
+    "title": "NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation"
+  },
+  {
+    "id": "2608.15502",
+    "date": "2026-08-19",
+    "title": "EcoVLA: Energy-Efficient Device-Edge Co-Inference for Vision-Language-Action Models under Real-Time Constraints"
+  },
+  {
+    "id": "2608.15636",
+    "date": "2026-08-19",
+    "title": "Algorithm-Architecture Co-Design for Efficient VLA Inference via Speculative Inference and Verification"
+  },
+  {
+    "id": "2608.14822",
+    "date": "2026-08-19",
+    "title": "Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.15009",
+    "date": "2026-08-19",
+    "title": "ForceU-VLA: A Force-Aware Vision-Language-Action Model for Embodied Ultrasound Scanning"
+  },
+  {
+    "id": "2608.15139",
+    "date": "2026-08-19",
+    "title": "StructRL: Structured Action-Space Exploration for Flow-Based VLAs"
+  },
+  {
+    "id": "2608.15285",
+    "date": "2026-08-19",
+    "title": "PhaseLoRA: Control-Regime-Conditioned Low-Rank Adaptation for Continuous-Action Vision-Language-Action Policies"
+  },
+  {
+    "id": "2608.15816",
+    "date": "2026-08-19",
+    "title": "ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation"
+  },
+  {
+    "id": "2608.16172",
+    "date": "2026-08-19",
+    "title": "SparkVLA: Stop-Aware Hierarchical VLA with Adaptive Action Chunking for Long-Horizon Manipulation"
+  },
+  {
+    "id": "2608.16837",
+    "date": "2026-08-19",
+    "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL"
+  },
+  {
+    "id": "2608.16885",
+    "date": "2026-08-19",
+    "title": "$\\tau_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation"
+  },
+  {
+    "id": "2608.16234",
+    "date": "2026-08-19",
+    "title": "GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation"
+  },
+  {
+    "id": "2608.14586",
+    "date": "2026-08-19",
+    "title": "Efficient Block-Layer Parallel Inference for Vision-Language-Action on Hybrid Architectures"
+  },
+  {
+    "id": "2608.15475",
+    "date": "2026-08-19",
+    "title": "Bit-Flip Attacks on Vision-Language-Action Models: Action-Decoding Architecture Shapes the Vulnerability"
+  },
+  {
+    "id": "2605.21862",
+    "date": "2026-08-19",
+    "title": "EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control"
+  },
+  {
+    "id": "2604.08780",
+    "date": "2026-08-19",
+    "title": "Morphology-Conditioned World Model for Cross-Embodiment Quadrupedal Locomotion"
+  },
+  {
+    "id": "2607.05391",
+    "date": "2026-08-19",
+    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework"
+  },
+  {
+    "id": "2608.16859",
+    "date": "2026-08-19",
+    "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds"
+  },
+  {
+    "id": "2608.14713",
+    "date": "2026-08-19",
+    "title": "SpotlessGS: Relightable 3D Gaussian Splatting under Dynamic Illumination for Robotic Perception"
+  },
+  {
+    "id": "2608.14986",
+    "date": "2026-08-19",
+    "title": "GaussMemory: Task-Driven 3D Gaussian Scene Memory for Long-Horizon Robotic Manipulation"
+  },
+  {
+    "id": "2608.15026",
+    "date": "2026-08-19",
+    "title": "PACE: Phase-Progress-Aware Credit for Long-Horizon Embodied Manipulation"
+  },
+  {
+    "id": "2608.15680",
+    "date": "2026-08-19",
+    "title": "Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation"
+  },
+  {
+    "id": "2608.16651",
+    "date": "2026-08-19",
+    "title": "Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents"
+  },
+  {
+    "id": "2608.16889",
+    "date": "2026-08-19",
+    "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory"
+  },
+  {
+    "id": "2608.16354",
+    "date": "2026-08-19",
+    "title": "DriveCache: Action-Aware Caching for Driving World Model Inference"
+  },
+  {
+    "id": "2608.15043",
+    "date": "2026-08-19",
+    "title": "SCOPE: Score-Isolated Agentic Optimization for Video World Models"
+  },
+  {
+    "id": "2608.15309",
+    "date": "2026-08-19",
+    "title": "Physiological World Models for Human State Transitions"
+  },
+  {
+    "id": "2608.16697",
+    "date": "2026-08-19",
+    "title": "FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy"
+  },
+  {
+    "id": "2608.14570",
+    "date": "2026-08-19",
+    "title": "Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems"
   }
 ]
