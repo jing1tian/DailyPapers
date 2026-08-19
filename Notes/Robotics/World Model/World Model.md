@@ -76,6 +76,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/PVWM|PVWM]]
 - [[Notes/Robotics/World Model/PhiZero|PhiZero]]
 - [[Notes/Robotics/World Model/PiL-World|PiL-World]]
+- [[Notes/Robotics/World Model/QWM|QWM]]
 - [[Notes/Robotics/World Model/QwenAgentWorld|QwenAgentWorld]]
 - [[Notes/Robotics/World Model/RepWAM|RepWAM]]
 - [[Notes/Robotics/World Model/RoboDream|RoboDream]]
