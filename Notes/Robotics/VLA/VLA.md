@@ -51,6 +51,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/HyVLA-0.5|HyVLA-0.5]]
 - [[Notes/Robotics/VLA/InternVLA-A1.5|InternVLA-A1.5]]
 - [[Notes/Robotics/VLA/LingBot-VLA-2.0|LingBot-VLA-2.0]]
+- [[Notes/Robotics/VLA/LoopVLA|LoopVLA]]
 - [[Notes/Robotics/VLA/Mind-VLA|Mind-VLA]]
 - [[Notes/Robotics/VLA/MolmoAct2|MolmoAct2]]
 - [[Notes/Robotics/VLA/MuseVLA|MuseVLA]]
