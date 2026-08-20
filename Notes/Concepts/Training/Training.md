@@ -55,6 +55,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Training/一致性正则化|一致性正则化]]
 - [[Notes/Concepts/Training/任务向量|任务向量]]
 - [[Notes/Concepts/Training/优势估计|优势估计]]
+- [[Notes/Concepts/Training/充分性校准|充分性校准]]
 - [[Notes/Concepts/Training/参数空间向量运算|参数空间向量运算]]
 - [[Notes/Concepts/Training/因果充分性|因果充分性]]
 - [[Notes/Concepts/Training/因果必要性|因果必要性]]
