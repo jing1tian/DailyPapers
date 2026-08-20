@@ -2108,5 +2108,105 @@
     "id": "2608.14570",
     "date": "2026-08-19",
     "title": "Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems"
+  },
+  {
+    "id": "2506.01844",
+    "date": "2026-08-20",
+    "title": "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient   Robotics"
+  },
+  {
+    "id": "2605.09948",
+    "date": "2026-08-20",
+    "title": "LoopVLA: Learning Sufficiency in Recurrent Refinement for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.17423",
+    "date": "2026-08-20",
+    "title": "Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups"
+  },
+  {
+    "id": "2605.25477",
+    "date": "2026-08-20",
+    "title": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.17095",
+    "date": "2026-08-20",
+    "title": "Inference-Time Attention Steering for Vision-Language-Action Driving Models"
+  },
+  {
+    "id": "2605.29662",
+    "date": "2026-08-20",
+    "title": "SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation"
+  },
+  {
+    "id": "2608.17453",
+    "date": "2026-08-20",
+    "title": "EATR-Stereo: Embodiment-Aware Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control"
+  },
+  {
+    "id": "2608.17600",
+    "date": "2026-08-20",
+    "title": "LIBERO-VIFO: Benchmarking the Capability and Safety of Visual Cue Following in Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.17484",
+    "date": "2026-08-20",
+    "title": "Reuse Before You Retrieve: Diagnosing Headroom and Complementarity for Test-Time Augmentation of Embodied Multimodal Policies"
+  },
+  {
+    "id": "2608.17163",
+    "date": "2026-08-20",
+    "title": "Q-Learning With World Models"
+  },
+  {
+    "id": "2608.18077",
+    "date": "2026-08-20",
+    "title": "Hydra-0: Action Flow for Generalist World Modeling and Control"
+  },
+  {
+    "id": "2510.08713",
+    "date": "2026-08-20",
+    "title": "Towards Unified World Models for Visual Navigation via Memory-Augmented Planning and Foresight"
+  },
+  {
+    "id": "2608.17542",
+    "date": "2026-08-20",
+    "title": "No Gaussian Required: Contrastive Inverse Dynamics for JEPA World Models"
+  },
+  {
+    "id": "2607.07459",
+    "date": "2026-08-20",
+    "title": "EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI"
+  },
+  {
+    "id": "2608.17959",
+    "date": "2026-08-20",
+    "title": "Towards Zero-Shot Task Transfer with Neurosymbolic World Models"
+  },
+  {
+    "id": "2608.17209",
+    "date": "2026-08-20",
+    "title": "Teach and Grow: An Agent-Centered Architecture for General Robot Learning"
+  },
+  {
+    "id": "2608.17386",
+    "date": "2026-08-20",
+    "title": "MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation"
+  },
+  {
+    "id": "2608.17496",
+    "date": "2026-08-20",
+    "title": "Calibrated Predictive Safety for Heterogeneous Robots: An Action-Conditioned JEPA Framework with Model-Based Safety Shields"
+  },
+  {
+    "id": "2608.17717",
+    "date": "2026-08-20",
+    "title": "CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation"
+  },
+  {
+    "id": "2406.01586",
+    "date": "2026-08-20",
+    "title": "ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation"
   }
 ]
