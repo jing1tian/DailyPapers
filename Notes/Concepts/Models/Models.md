@@ -41,6 +41,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Models/Qwen3-8B|Qwen3-8B]]
 - [[Notes/Concepts/Models/Qwen3-VL|Qwen3-VL]]
 - [[Notes/Concepts/Models/Qwen3.5|Qwen3.5]]
+- [[Notes/Concepts/Models/Qwen3OFT|Qwen3OFT]]
 - [[Notes/Concepts/Models/QwenVL|QwenVL]]
 - [[Notes/Concepts/Models/Seer-Large|Seer-Large]]
 - [[Notes/Concepts/Models/SigLIP|SigLIP]]
@@ -50,6 +51,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Models/TRELLIS|TRELLIS]]
 - [[Notes/Concepts/Models/V-JEPA2|V-JEPA2]]
 - [[Notes/Concepts/Models/VFM|VFM]]
+- [[Notes/Concepts/Models/Vision-Language Model|Vision-Language Model]]
 - [[Notes/Concepts/Models/Wan2.2|Wan2.2]]
 - [[Notes/Concepts/Models/pi0|pi0]]
 
