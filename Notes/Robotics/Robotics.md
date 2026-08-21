@@ -11,7 +11,7 @@ generated_by: dailypaper-skills
 ## 子目录
 
 - [[Notes/Robotics/VLA/VLA|VLA]] · 79 篇笔记 · 1 个子目录
-- [[Notes/Robotics/World Model/World Model|World Model]] · 92 篇笔记 · 1 个子目录
+- [[Notes/Robotics/World Model/World Model|World Model]] · 94 篇笔记 · 1 个子目录
 
 ## 当前目录笔记
 
@@ -22,6 +22,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/PhysX-Omni|PhysX-Omni]]
 - [[Notes/Robotics/RobotsNeedMore|RobotsNeedMore]]
 - [[Notes/Robotics/SONIC|SONIC]]
+- [[Notes/Robotics/Zetta|Zetta]]
 
 ## 说明
 
