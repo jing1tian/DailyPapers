@@ -1,145 +1,5 @@
 [
   {
-    "id": "2607.15330",
-    "date": "2026-07-21",
-    "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories"
-  },
-  {
-    "id": "2607.15714",
-    "date": "2026-07-21",
-    "title": "AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning"
-  },
-  {
-    "id": "2607.16074",
-    "date": "2026-07-21",
-    "title": "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models"
-  },
-  {
-    "id": "2606.07383",
-    "date": "2026-07-21",
-    "title": "RhinoVLA Technical Report"
-  },
-  {
-    "id": "2607.14777",
-    "date": "2026-07-21",
-    "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning"
-  },
-  {
-    "id": "2512.13636",
-    "date": "2026-07-21",
-    "title": "MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning"
-  },
-  {
-    "id": "2607.12625",
-    "date": "2026-07-21",
-    "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill"
-  },
-  {
-    "id": "2607.08964",
-    "date": "2026-07-21",
-    "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading"
-  },
-  {
-    "id": "2607.08168",
-    "date": "2026-07-21",
-    "title": "MuScriptor: An Open Model for Multi-Instrument Music Transcription"
-  },
-  {
-    "id": "2607.15621",
-    "date": "2026-07-21",
-    "title": "Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving"
-  },
-  {
-    "id": "2607.15536",
-    "date": "2026-07-21",
-    "title": "E3DGS: Unified Geometric-Photometric Equivariance for 3D Gaussian Splatting via Color-as-Geometry Embedding"
-  },
-  {
-    "id": "2607.15901",
-    "date": "2026-07-21",
-    "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents"
-  },
-  {
-    "id": "2607.15641",
-    "date": "2026-07-21",
-    "title": "IMBench: A Benchmark for Intuitive Robotic Manipulation"
-  },
-  {
-    "id": "2607.15898",
-    "date": "2026-07-21",
-    "title": "Orbis 2: A Hierarchical World Model for Driving"
-  },
-  {
-    "id": "2601.00898",
-    "date": "2026-07-21",
-    "title": "Dichotomous Diffusion Policy Optimization"
-  },
-  {
-    "id": "2607.15890",
-    "date": "2026-07-21",
-    "title": "Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting"
-  },
-  {
-    "id": "2607.15693",
-    "date": "2026-07-21",
-    "title": "Toward a mechanistic understanding of inference in visual cortex and diffusion models"
-  },
-  {
-    "id": "2510.22204",
-    "date": "2026-07-21",
-    "title": "Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment"
-  },
-  {
-    "id": "2607.15485",
-    "date": "2026-07-21",
-    "title": "Diffusion models recover accurate mixture weights despite score function insensitivity"
-  },
-  {
-    "id": "2607.15395",
-    "date": "2026-07-21",
-    "title": "NeuroCommitSSM: Decision-Centric Shared Autonomy for Safe Assistive Manipulation via EEG-EMG-ET Commit Readiness"
-  },
-  {
-    "id": "2607.15448",
-    "date": "2026-07-21",
-    "title": "VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation"
-  },
-  {
-    "id": "2607.15483",
-    "date": "2026-07-21",
-    "title": "Risk-Aware Preference Learning for Stochastic Outcomes"
-  },
-  {
-    "id": "2607.15589",
-    "date": "2026-07-21",
-    "title": "MemoGuard: An Adaptive Runtime for Guarding Against Memory Traps in Communication-Limited Robot Navigation"
-  },
-  {
-    "id": "2607.15620",
-    "date": "2026-07-21",
-    "title": "AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots"
-  },
-  {
-    "id": "2607.15642",
-    "date": "2026-07-21",
-    "title": "Difference-Based Relational Learning for Zero-Shot Object-Goal Visual Navigation With Direct Sim-to-Real Transfer"
-  },
-  {
-    "id": "2607.15659",
-    "date": "2026-07-21",
-    "title": "Continuously Stable Structure through Plastic Deformation"
-  },
-  {
-    "id": "2607.15674",
-    "date": "2026-07-21",
-    "title": "A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning"
-  },
-  {
-    "id": "2607.15701",
-    "date": "2026-07-21",
-    "title": "RAVEN: Reinforcement-Adaptive Visibility-Graph Planning for Robust Humanoid Navigation with Collision-Free MPC"
-  },
-  {
     "id": "2607.18231",
     "date": "2026-07-22",
     "title": "FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation"
@@ -2208,5 +2068,150 @@
     "id": "2406.01586",
     "date": "2026-08-20",
     "title": "ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation"
+  },
+  {
+    "id": "2608.19085",
+    "date": "2026-08-21",
+    "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models"
+  },
+  {
+    "id": "2605.12500",
+    "date": "2026-08-21",
+    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
+  },
+  {
+    "id": "2608.18647",
+    "date": "2026-08-21",
+    "title": "Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation"
+  },
+  {
+    "id": "2607.04546",
+    "date": "2026-08-21",
+    "title": "Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models"
+  },
+  {
+    "id": "2608.18669",
+    "date": "2026-08-21",
+    "title": "Reinforced Planning with Latent World Models"
+  },
+  {
+    "id": "2608.16590",
+    "date": "2026-08-21",
+    "title": "Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence"
+  },
+  {
+    "id": "2602.06036",
+    "date": "2026-08-21",
+    "title": "DFlash: Block Diffusion for Flash Speculative Decoding"
+  },
+  {
+    "id": "2608.17310",
+    "date": "2026-08-21",
+    "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements"
+  },
+  {
+    "id": "2608.18234",
+    "date": "2026-08-21",
+    "title": "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
+  },
+  {
+    "id": "2608.18671",
+    "date": "2026-08-21",
+    "title": "Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI"
+  },
+  {
+    "id": "2608.19066",
+    "date": "2026-08-21",
+    "title": "GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting"
+  },
+  {
+    "id": "2608.18746",
+    "date": "2026-08-21",
+    "title": "Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning"
+  },
+  {
+    "id": "2608.18410",
+    "date": "2026-08-21",
+    "title": "Role-Conditioned Sub-Token Routing for Efficient Vision-Language-Action Policies"
+  },
+  {
+    "id": "2512.02473",
+    "date": "2026-08-21",
+    "title": "WorldPack: Dynamic Frame Compression for Long-context Video World Modeling"
+  },
+  {
+    "id": "2608.18433",
+    "date": "2026-08-21",
+    "title": "The Embodiment Gap in Robot Foundation Models"
+  },
+  {
+    "id": "2608.18413",
+    "date": "2026-08-21",
+    "title": "CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction"
+  },
+  {
+    "id": "2608.18484",
+    "date": "2026-08-21",
+    "title": "Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models"
+  },
+  {
+    "id": "2608.18237",
+    "date": "2026-08-21",
+    "title": "Sobolev Regularized Score Difference Estimation in Diffusion Models"
+  },
+  {
+    "id": "2608.19067",
+    "date": "2026-08-21",
+    "title": "Diffusion Models for High-Dimensional Clustered Data: Intrinsic-Dimension Adaptivity via Bayesian Classification"
+  },
+  {
+    "id": "2512.05092",
+    "date": "2026-08-21",
+    "title": "Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction"
+  },
+  {
+    "id": "2608.18254",
+    "date": "2026-08-21",
+    "title": "GAPL: Grounded Action-effect Policy Learning for LLM-Based Trajectory Planning"
+  },
+  {
+    "id": "2608.18292",
+    "date": "2026-08-21",
+    "title": "GuideFetch: A Task Coordination Framework for Concurrent Navigation and Object Retrieval in Assistive Robot Dogs"
+  },
+  {
+    "id": "2608.18446",
+    "date": "2026-08-21",
+    "title": "HarvestPoint-ACT: Explicit Target Selection and Harvest-Point Conditioning for Robotic Fruit Harvesting under Occlusion"
+  },
+  {
+    "id": "2608.18454",
+    "date": "2026-08-21",
+    "title": "Backward Layout Search for Sequence-Constrained Robotic Assembly"
+  },
+  {
+    "id": "2608.18470",
+    "date": "2026-08-21",
+    "title": "DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model"
+  },
+  {
+    "id": "2608.18618",
+    "date": "2026-08-21",
+    "title": "LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories"
+  },
+  {
+    "id": "2608.18672",
+    "date": "2026-08-21",
+    "title": "Orienteering Problem with Uncertain Time-Varying Rewards: Framework and Benchmark for Everyday Service Robotics"
+  },
+  {
+    "id": "2608.18701",
+    "date": "2026-08-21",
+    "title": "SoftVTBench: A Deformation-Aware Visuo-Tactile Dataset and Benchmark for Deformable-Object Manipulation"
+  },
+  {
+    "id": "2608.18787",
+    "date": "2026-08-21",
+    "title": "Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation"
   }
 ]
