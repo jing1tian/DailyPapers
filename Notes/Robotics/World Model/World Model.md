@@ -24,6 +24,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/CoME|CoME]]
 - [[Notes/Robotics/World Model/Cosmos3|Cosmos3]]
 - [[Notes/Robotics/World Model/DA-WAM|DA-WAM]]
+- [[Notes/Robotics/World Model/DECOWAM|DECOWAM]]
 - [[Notes/Robotics/World Model/DVG-WM|DVG-WM]]
 - [[Notes/Robotics/World Model/DWM|DWM]]
 - [[Notes/Robotics/World Model/Delta-JEPA|Delta-JEPA]]
