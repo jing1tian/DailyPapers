@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [vla, reinforcement-learning, imitation-learning, vlm-planning, robot-manipulation, exploration, knowledge-distillation]
 zotero_collection: Robotics/VLA
-image_source: online
+image_source: local
 arxiv_html: https://arxiv.org/html/2608.19891v1
 created: 2026-08-22
 ---
@@ -179,54 +179,65 @@ $$
 
 ## 关键图表
 
-### Figure 1: VLM 编排交互示例
+### Figure 1: EXIMO 三阶段流程总览
 
-![Figure 1](https://arxiv.org/html/2608.19891v1/x1.png)
+![[EXIMO_fig1.png]]
 
-**说明**: Explore 阶段 VLM 的实际交互流程。VLM 接收序列图像和任务描述（"put the plate, bowl on the rack"），在 `<think>` 块中推理当前状态，在 `<answer>` 块中生成原子指令（如 "pick up the blue plate with your left hand"），VLA 执行后 VLM 继续更新指令。
+**说明**: EXIMO 整体算法流程图。左侧 Explore 阶段：[[VLM]] 分解高层目标为子任务，[[GROD|VLA]] 闭环执行，成功轨迹存入缓冲区；中间 Imitate 阶段：在成功轨迹上以原始高层目标做 [[Behavior Cloning|SFT]] 蒸馏；右侧 Optimize 阶段：[[Residual Policy|残差策略]] 通过 [[MPO]] 在线 RL 进一步精炼。
 
-### Figure 2: Explore 阶段三方法对比
+### Figure 2: VLM 编排交互示例
 
-![Figure 2](https://arxiv.org/html/2608.19891v1/x2.png)
+![[EXIMO_fig2.png]]
 
-**说明**: 22 个任务上的成功率（上）、成功耗时（中）、Episode 长度（下）对比。三条件：无编排的 base VLA、运行时 VLM 编排（VLA + VLM）、VLM 编排数据蒸馏后的 VLA（EXIMO SFT）。蒸馏后 VLA 在成功率和效率上均优于运行时 VLM 编排，验证了知识蒸馏的有效性。
+**说明**: Explore 阶段 VLM 的实际交互流程。VLM 接收 5 个时间步的多视角图像和任务描述（"put the plate, bowl on the rack"），在 `<thinking>` 块中分析当前机器人状态，在 `<answer>` 块中生成原子指令（如 "pick up the blue plate with your left hand"），VLA 执行后 VLM 以闭环方式持续更新指令。
 
-### Figure 3: 在线 RL 阶段样本效率对比
+### Figure 3: Explore 阶段三方法对比（22 任务）
 
-![Figure 3](https://arxiv.org/html/2608.19891v1/x3.png)
+![[EXIMO_fig3.png]]
 
-**说明**: 20 个任务上 5 个随机种子的 RL 训练曲线（成功率与成功耗时）。GROD + SFT 初始值更高，收敛到更好的最终性能，而 base GROD 即使获得更多 environment steps 也无法追上，印证了 SFT 预热对 RL 可行性的关键作用。
+**说明**: 22 个任务上的成功率（上）、成功耗时（中）、Episode 长度（下）三项指标对比。三个条件：无编排的 base GROD、运行时 VLM 编排（GROD + VLM-Orchestration）、VLM 编排数据蒸馏后的 VLA（GROD + SFT）。蒸馏后 VLA 在成功率和效率上均优于运行时 VLM 编排，验证了知识蒸馏优于在线编排。
 
-### Figure 4: RL 精炼后最终性能
+### Figure 4: 在线 RL 阶段样本效率对比
 
-![Figure 4](https://arxiv.org/html/2608.19891v1/x4.png)
+![[EXIMO_fig4.png]]
 
-**说明**: 柱状图对比 SFT alone、SFT + RL（EXIMO 完整）和 base GROD + RL 的最终成功率与成功耗时。EXIMO（SFT + RL）在所有任务上一致领先，组合两个阶段比任意单一阶段都强。
+**说明**: 20 个任务上 5 个随机种子的 RL 训练曲线（成功率与成功耗时均值±2SE）。GROD + SFT 初始成功率更高，收敛到更好最终性能；base GROD 即使获得更多 environment steps 也无法追上，印证了 SFT 预热对 RL 可行性的关键作用。
 
-### Figure 5: 自由指令 vs 限制指令对比
+### Figure 5: RL 精炼后最终性能
 
-![Figure 5](https://arxiv.org/html/2608.19891v1/x5.png)
+![[EXIMO_fig5.png]]
 
-**说明**: 5 个任务上，VLM 生成自由格式指令与限制为 pick-and-place 格式指令的性能对比。两者性能相近，说明 [[GROD]] 对两种格式都有较好的鲁棒性，验证了指令格式约束不是关键瓶颈。
+**说明**: 柱状图对比 SFT alone、SFT + RL（完整 EXIMO）和 base GROD + RL 的最终成功率与成功耗时。EXIMO（SFT + RL）在所有任务上一致领先，证明两个阶段的组合比任意单一阶段都强。
 
-### Figure 6: VLM 直接蒸馏到残差策略的消融
+### Figure 6: 自由指令 vs 限制 Pick&Place 指令对比
 
-![Figure 6](https://arxiv.org/html/2608.19891v1/x6.png)
+![[EXIMO_fig6.png]]
 
-**说明**: 尝试将 VLM 知识直接蒸馏到 [[Residual Policy|残差策略]]（离线 + 在线 RL）而非先蒸馏到 VLA。左图：离线 RL 随数据量提升有改善；右图：在线 RL 阶段性能下滑，归因于分布偏移——残差策略训练分布（VLM 编排）与评估分布（无 VLM）不匹配。
+**说明**: 5 个任务上，VLM 生成自由格式指令与限制为 pick-and-place 格式指令的探索阶段性能对比。两者成功率相近，说明 [[GROD]] 对多种指令格式具有鲁棒性，指令格式约束不是关键瓶颈。
 
-### Figure 7: RL 训练期间使用 VLM 编排的消融
+### Figure 7: VLM 直接蒸馏到残差策略的消融
 
-![Figure 7](https://arxiv.org/html/2608.19891v1/x7.png)
+![[EXIMO_fig7.png]]
 
-**说明**: 在 RL 训练中以不同概率 $p$ 使用 VLM 编排（$p=0$ 为纯 RL，$p=1$ 为全程编排）。上行：评估性能（无 VLM）随 $p$ 增大而下降；下行：数据采集性能随 $p$ 增大而提升。结论：训练时使用 VLM 编排会造成训练/评估分布不匹配，纯 RL（$p=0$）在评估时最优。
+**说明**: 尝试将 VLM 知识直接蒸馏到 [[Residual Policy|残差策略]]（离线 RL + 在线 RL）而非先蒸馏到 VLA。离线 RL 阶段有改善；在线 RL 阶段性能下滑，归因于分布偏移——残差策略训练分布（VLM 编排）与评估分布（无 VLM）不匹配，确认需要先蒸馏到 VLA 的设计。
 
-### Figure 8-9: VLM 编排 Prompt 模板
+### Figure 8: RL 训练期间 VLM 编排概率的消融
 
-![Figure 8](https://arxiv.org/html/2608.19891v1/x8.png)
-![Figure 9](https://arxiv.org/html/2608.19891v1/x9.png)
+![[EXIMO_fig8.png]]
 
-**说明**: 完整的 VLM Prompt 结构，包括系统角色定义（"expert robot programmer"）、任务描述插槽、多视角图像观测、逐步推理要求（`<thinking>` 块）、以及详细的指令生成规范（颜色+类型描述、禁止模糊词、每次仅一个动作、禁止连续动作等）。
+**说明**: 在 RL 训练中以不同概率 $p$ 使用 VLM 编排（$p=0$ 为纯 RL，$p=1$ 为全程编排）。上行：评估性能（无 VLM）随 $p$ 增大而下降；下行：数据采集性能随 $p$ 增大而提升。结论：训练时使用 VLM 编排造成训练/评估分布不匹配，$p=0$（纯 RL）在评估时最优。
+
+### Figure 9: 主 VLM 编排 Prompt 模板
+
+![[EXIMO_fig9.png]]
+
+**说明**: VLM 编排器使用的完整主 Prompt 模板，包括系统角色定义、任务描述插槽、多视角图像观测说明、逐步推理要求（`<thinking>` 块）和指令输出格式（`<answer>` 块）。
+
+### Figure 10: Prompt 子模板（观测描述 & 指令规范）
+
+![[EXIMO_fig10.png]]
+
+**说明**: 主模板中 `{base_information_description}` 和 `{instruction_guidelines}` 两个子模板的完整内容。前者描述机器人当前多视角观测，后者规定指令格式约束：仅允许 "pick [object]" 和 "put [object] in [location]"，需精确描述颜色+类型，禁止模糊词，每次仅一个动作。
 
 ### Table 1: 22 个操作任务套件
 
