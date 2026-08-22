@@ -1,105 +1,5 @@
 [
   {
-    "id": "2607.18231",
-    "date": "2026-07-22",
-    "title": "FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation"
-  },
-  {
-    "id": "2607.18016",
-    "date": "2026-07-22",
-    "title": "Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation"
-  },
-  {
-    "id": "2606.06491",
-    "date": "2026-07-22",
-    "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies"
-  },
-  {
-    "id": "2510.00037",
-    "date": "2026-07-22",
-    "title": "RobustVLA: On Robustness of Vision-Language-Action Model against Multi-Modal Perturbations"
-  },
-  {
-    "id": "2606.14409",
-    "date": "2026-07-22",
-    "title": "Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack"
-  },
-  {
-    "id": "2607.16506",
-    "date": "2026-07-22",
-    "title": "Foresight Residual RL for Long-Horizon Robot Manipulation with Vision-Language-Action Models"
-  },
-  {
-    "id": "2607.17786",
-    "date": "2026-07-22",
-    "title": "Reasoning as a Double-Edged Sword: Architecture and Cross-Stage Robustness in Vision-Language-Action Models"
-  },
-  {
-    "id": "2607.16636",
-    "date": "2026-07-22",
-    "title": "PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution"
-  },
-  {
-    "id": "2607.17977",
-    "date": "2026-07-22",
-    "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model"
-  },
-  {
-    "id": "2607.18060",
-    "date": "2026-07-22",
-    "title": "RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning"
-  },
-  {
-    "id": "2607.18236",
-    "date": "2026-07-22",
-    "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations"
-  },
-  {
-    "id": "2607.17454",
-    "date": "2026-07-22",
-    "title": "Test-Time Scaling for World Action Models via Zero-Shot Geometric Evaluation"
-  },
-  {
-    "id": "2607.16602",
-    "date": "2026-07-22",
-    "title": "PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration"
-  },
-  {
-    "id": "2607.16314",
-    "date": "2026-07-22",
-    "title": "Depth-Regularized JEPA World Models Learn More Transferable Representations from Real Outdoor Robot Data"
-  },
-  {
-    "id": "2607.17973",
-    "date": "2026-07-22",
-    "title": "SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning"
-  },
-  {
-    "id": "2509.07996",
-    "date": "2026-07-22",
-    "title": "3D and 4D World Modeling: A Survey"
-  },
-  {
-    "id": "2607.14183",
-    "date": "2026-07-22",
-    "title": "Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning"
-  },
-  {
-    "id": "2607.17965",
-    "date": "2026-07-22",
-    "title": "Exploration Matters for Escaping the Blur Trap in 3D Gaussian Splatting"
-  },
-  {
-    "id": "2607.16838",
-    "date": "2026-07-22",
-    "title": "TopoGS: Planar Reconstruction via Topology-aware 3D Gaussian Splatting"
-  },
-  {
-    "id": "2607.16624",
-    "date": "2026-07-22",
-    "title": "SPARE-GS: Structural Parsimony and Resource Efficiency for 3D Gaussian Splatting"
-  },
-  {
     "id": "2607.18367",
     "date": "2026-07-23",
     "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report"
@@ -2213,5 +2113,125 @@
     "id": "2608.18787",
     "date": "2026-08-21",
     "title": "Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation"
+  },
+  {
+    "id": "2608.20308",
+    "date": "2026-08-22",
+    "title": "DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery"
+  },
+  {
+    "id": "2608.19490",
+    "date": "2026-08-22",
+    "title": "Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation"
+  },
+  {
+    "id": "2608.19891",
+    "date": "2026-08-22",
+    "title": "EXIMO: VLM Guided Exploration of VLA Policies"
+  },
+  {
+    "id": "2608.19589",
+    "date": "2026-08-22",
+    "title": "OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation"
+  },
+  {
+    "id": "2608.20114",
+    "date": "2026-08-22",
+    "title": "DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation"
+  },
+  {
+    "id": "2608.20335",
+    "date": "2026-08-22",
+    "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video"
+  },
+  {
+    "id": "2608.19880",
+    "date": "2026-08-22",
+    "title": "EnvHarness: Awakening Static Worlds for Agent Learning"
+  },
+  {
+    "id": "2608.20336",
+    "date": "2026-08-22",
+    "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation"
+  },
+  {
+    "id": "2606.06245",
+    "date": "2026-08-22",
+    "title": "MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action"
+  },
+  {
+    "id": "2608.19504",
+    "date": "2026-08-22",
+    "title": "A Plug-in Interpretation of Conditioning in Score-Based Diffusion Models"
+  },
+  {
+    "id": "2608.19779",
+    "date": "2026-08-22",
+    "title": "An Irreducible Quantum Advantage in Aligning World Models with Reality"
+  },
+  {
+    "id": "2603.18853",
+    "date": "2026-08-22",
+    "title": "Learn for Variation: Efficient AAV Trajectory Learning through a Differentiable Wireless World Model"
+  },
+  {
+    "id": "2608.18948",
+    "date": "2026-08-22",
+    "title": "RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience"
+  },
+  {
+    "id": "2608.19182",
+    "date": "2026-08-22",
+    "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning"
+  },
+  {
+    "id": "2608.19188",
+    "date": "2026-08-22",
+    "title": "PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views"
+  },
+  {
+    "id": "2608.19669",
+    "date": "2026-08-22",
+    "title": "Scaffolding Minds: Optimizing Latent Visual Target Representations for Multimodal Reasoning"
+  },
+  {
+    "id": "2608.20208",
+    "date": "2026-08-22",
+    "title": "RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation"
+  },
+  {
+    "id": "2608.19613",
+    "date": "2026-08-22",
+    "title": "What Matters for Latent Actions in Robot Learning"
+  },
+  {
+    "id": "2608.19968",
+    "date": "2026-08-22",
+    "title": "PVRA: A Pointwise Key-point Voting Framework for Robotic Assembly"
+  },
+  {
+    "id": "2607.04234",
+    "date": "2026-08-22",
+    "title": "SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects (Early Version)"
+  },
+  {
+    "id": "2608.19684",
+    "date": "2026-08-22",
+    "title": "Learning Hierarchical Skill Policies with Offline Quality-Diversity Reinforcement Learning"
+  },
+  {
+    "id": "2608.20161",
+    "date": "2026-08-22",
+    "title": "DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing"
+  },
+  {
+    "id": "2608.19759",
+    "date": "2026-08-22",
+    "title": "GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation"
+  },
+  {
+    "id": "2608.20084",
+    "date": "2026-08-22",
+    "title": "Evidence-Gated Task and Motion Planning with Vision-Language Models"
   }
 ]
