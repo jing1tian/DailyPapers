@@ -50,6 +50,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/GigaWorld1|GigaWorld1]]
 - [[Notes/Robotics/World Model/GigaWorldPolicy0.5|GigaWorldPolicy0.5]]
 - [[Notes/Robotics/World Model/HYWorld2|HYWorld2]]
+- [[Notes/Robotics/World Model/HarnessEval-W|HarnessEval-W]]
 - [[Notes/Robotics/World Model/HiMem-WAM|HiMem-WAM]]
 - [[Notes/Robotics/World Model/Hydra-0|Hydra-0]]
 - [[Notes/Robotics/World Model/ITC|ITC]]
