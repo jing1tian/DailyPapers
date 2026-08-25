@@ -14,6 +14,7 @@ generated_by: dailypaper-skills
 
 ## 当前目录笔记
 
+- [[Notes/Evoke|Evoke]]
 - [[Notes/SCOPE|SCOPE]]
 - [[Notes/SketchColour|SketchColour]]
 

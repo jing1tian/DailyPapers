@@ -42,6 +42,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/FibVLA|FibVLA]]
 - [[Notes/Robotics/VLA/FineVLA|FineVLA]]
 - [[Notes/Robotics/VLA/FlowDAgger|FlowDAgger]]
+- [[Notes/Robotics/VLA/ForeTimeVLA|ForeTimeVLA]]
 - [[Notes/Robotics/VLA/FurnitureVLA|FurnitureVLA]]
 - [[Notes/Robotics/VLA/G3VLA|G3VLA]]
 - [[Notes/Robotics/VLA/GRA|GRA]]
