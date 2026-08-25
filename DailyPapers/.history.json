@@ -2083,5 +2083,110 @@
     "id": "2608.20084",
     "date": "2026-08-22",
     "title": "Evidence-Gated Task and Motion Planning with Vision-Language Models"
+  },
+  {
+    "id": "2608.20735",
+    "date": "2026-08-25",
+    "title": "ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulat"
+  },
+  {
+    "id": "2608.20556",
+    "date": "2026-08-25",
+    "title": "Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model"
+  },
+  {
+    "id": "2608.21247",
+    "date": "2026-08-25",
+    "title": "Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.20791",
+    "date": "2026-08-25",
+    "title": "CertVLA: Certified Defense against Physical Visual Attacks for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.20890",
+    "date": "2026-08-25",
+    "title": "A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving"
+  },
+  {
+    "id": "2608.20936",
+    "date": "2026-08-25",
+    "title": "Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control"
+  },
+  {
+    "id": "2608.20430",
+    "date": "2026-08-25",
+    "title": "RISE: Adaptive Imagination for World Action Models"
+  },
+  {
+    "id": "2608.13546",
+    "date": "2026-08-25",
+    "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World"
+  },
+  {
+    "id": "2608.20401",
+    "date": "2026-08-25",
+    "title": "World models of environment, agent and joint agent-environment systems"
+  },
+  {
+    "id": "2608.21075",
+    "date": "2026-08-25",
+    "title": "AudioWorldSim: Realistic Binaural Audio Datasets For World Models"
+  },
+  {
+    "id": "2608.21031",
+    "date": "2026-08-25",
+    "title": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration"
+  },
+  {
+    "id": "2607.06640",
+    "date": "2026-08-25",
+    "title": "What a World Model Represents Is Three Questions"
+  },
+  {
+    "id": "2601.12614",
+    "date": "2026-08-25",
+    "title": "Deterministic and probabilistic neural surrogates of global hybrid-Vlasov simulations"
+  },
+  {
+    "id": "2608.20433",
+    "date": "2026-08-25",
+    "title": "Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion"
+  },
+  {
+    "id": "2608.20478",
+    "date": "2026-08-25",
+    "title": "EndoLIFT: Language-Disambiguated Latent-Conditioned Rectified Flow for Bidirectional Endoscopic Cont"
+  },
+  {
+    "id": "2608.20546",
+    "date": "2026-08-25",
+    "title": "Koala Gripper: Co-designing Robotic Grippers and Data-Capture Devices for Scaling Dexterous Manipula"
+  },
+  {
+    "id": "2608.20823",
+    "date": "2026-08-25",
+    "title": "Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewar"
+  },
+  {
+    "id": "2608.20946",
+    "date": "2026-08-25",
+    "title": "Fast Coordinated Bimanual Motion Planning With Hard Constraints"
+  },
+  {
+    "id": "2608.20962",
+    "date": "2026-08-25",
+    "title": "Hybrid Roller-Jamming Gripper for Object Acquisition and Retention Under Pose Uncertainty"
+  },
+  {
+    "id": "2608.21035",
+    "date": "2026-08-25",
+    "title": "TaPeR: Probabilistic Recovery of Sparse Task Precedence Graphs from a Handful of Demonstrations"
+  },
+  {
+    "id": "2608.21083",
+    "date": "2026-08-25",
+    "title": "Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive"
   }
 ]
