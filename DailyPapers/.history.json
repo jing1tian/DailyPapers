@@ -2188,5 +2188,155 @@
     "id": "2608.21083",
     "date": "2026-08-25",
     "title": "Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive"
+  },
+  {
+    "id": "2608.21407",
+    "date": "2026-08-26",
+    "title": "Mamba-based Selective State Space Modeling Improves the Accuracy-Complexity Tradeoff of SmolVLA Vision-Language-Action Experts"
+  },
+  {
+    "id": "2608.23138",
+    "date": "2026-08-26",
+    "title": "Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation"
+  },
+  {
+    "id": "2608.22364",
+    "date": "2026-08-26",
+    "title": "WAM-OPD: On-Policy Distillation for World Action Models"
+  },
+  {
+    "id": "2608.23189",
+    "date": "2026-08-26",
+    "title": "EchoWM: Open and Enterable Omnimodal World Models"
+  },
+  {
+    "id": "2608.21440",
+    "date": "2026-08-26",
+    "title": "Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics"
+  },
+  {
+    "id": "2608.22403",
+    "date": "2026-08-26",
+    "title": "LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models"
+  },
+  {
+    "id": "2608.23320",
+    "date": "2026-08-26",
+    "title": "ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots"
+  },
+  {
+    "id": "2608.23486",
+    "date": "2026-08-26",
+    "title": "GeoWAM: Visual Geometry World Action Models for Autonomous Driving"
+  },
+  {
+    "id": "2608.23565",
+    "date": "2026-08-26",
+    "title": "ReWorld: An Interactive World Model with Long-Horizon Memory"
+  },
+  {
+    "id": "2608.21740",
+    "date": "2026-08-26",
+    "title": "CounterAlign: Counterfactual Supervision for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.22419",
+    "date": "2026-08-26",
+    "title": "Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking"
+  },
+  {
+    "id": "2608.23478",
+    "date": "2026-08-26",
+    "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models"
+  },
+  {
+    "id": "2601.17885",
+    "date": "2026-08-26",
+    "title": "PEAfowl: Perception-Enhanced Multi-View Vision-Language-Action for Bimanual Manipulation"
+  },
+  {
+    "id": "2608.21402",
+    "date": "2026-08-26",
+    "title": "Selective Cross-View Consistency for World Action Models: Held-Out Viewpoint Robustness Without Test-Time Camera Information"
+  },
+  {
+    "id": "2608.21416",
+    "date": "2026-08-26",
+    "title": "Operational digital twin clinics enable task-based evaluation of embodied AI"
+  },
+  {
+    "id": "2608.21685",
+    "date": "2026-08-26",
+    "title": "In-Situ Reconstruction of the International Space Station Using 3D Gaussian Splatting and Astrobee"
+  },
+  {
+    "id": "2608.22278",
+    "date": "2026-08-26",
+    "title": "DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model"
+  },
+  {
+    "id": "2608.23224",
+    "date": "2026-08-26",
+    "title": "Think Only When Needed: Prompt-Authority Control for Selective Slow-Path Intervention in Vision-Language-Action Manipulation"
+  },
+  {
+    "id": "2607.02092",
+    "date": "2026-08-26",
+    "title": "Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies"
+  },
+  {
+    "id": "2608.16812",
+    "date": "2026-08-26",
+    "title": "Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision"
+  },
+  {
+    "id": "2608.21414",
+    "date": "2026-08-26",
+    "title": "RiskWorld: Object-Centric Latent World Modeling for Autonomous Driving Risk Identification"
+  },
+  {
+    "id": "2608.22067",
+    "date": "2026-08-26",
+    "title": "Inferring Action from Future Latent State for Robotic Manipulation"
+  },
+  {
+    "id": "2608.22294",
+    "date": "2026-08-26",
+    "title": "Beyond Instance Slots: Semantically Rich World Models for Physical Interaction Planning"
+  },
+  {
+    "id": "2608.22869",
+    "date": "2026-08-26",
+    "title": "UniMem: Unifying Multimodal Memory and Control for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.22990",
+    "date": "2026-08-26",
+    "title": "InstructMove: A Text-Indispensable Benchmark for Instruction-Following Manipulation"
+  },
+  {
+    "id": "2608.21439",
+    "date": "2026-08-26",
+    "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior"
+  },
+  {
+    "id": "2608.23432",
+    "date": "2026-08-26",
+    "title": "Image-Conditioned Diffusion Models for Quality Assurance of Organ-at-Risk Segmentations in Radiotherapy"
+  },
+  {
+    "id": "2608.23070",
+    "date": "2026-08-26",
+    "title": "From Generation to Simulation: How Far Are World Models from Being True Simulators?"
+  },
+  {
+    "id": "2608.22421",
+    "date": "2026-08-26",
+    "title": "Where World Models Break: Natural-Input Failure Discovery"
+  },
+  {
+    "id": "2608.22764",
+    "date": "2026-08-26",
+    "title": "LpWM: A Case for Sparse Representations in World Models"
   }
 ]
