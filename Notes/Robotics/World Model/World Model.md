@@ -58,6 +58,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/JEPA-WAM|JEPA-WAM]]
 - [[Notes/Robotics/World Model/JOPAT|JOPAT]]
 - [[Notes/Robotics/World Model/Kairos|Kairos]]
+- [[Notes/Robotics/World Model/LAWA|LAWA]]
 - [[Notes/Robotics/World Model/LAWM-3D|LAWM-3D]]
 - [[Notes/Robotics/World Model/LD4WAM|LD4WAM]]
 - [[Notes/Robotics/World Model/LeWM|LeWM]]
