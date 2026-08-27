@@ -31,6 +31,7 @@ tags: [世界模型, 机器人策略, 预测表示, vla, 视频生成]
 
 - [[FAWAM]]: Fast World Action Model，快速可部署的 WAM 变体
 - [[ForeTimeVLA]]: 从 WAM 蒸馏因果预见能力到 VLA
+- [[LAWA]]: 用离散隐动作序列作为意图代理，在 Joint-WAM 性能与 Fast-WAM 速度之间取得平衡
 
 ## 相关概念
 
