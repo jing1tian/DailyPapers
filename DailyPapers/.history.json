@@ -2338,5 +2338,105 @@
     "id": "2608.22764",
     "date": "2026-08-26",
     "title": "LpWM: A Case for Sparse Representations in World Models"
+  },
+  {
+    "id": "2605.10426",
+    "date": "2026-08-27",
+    "title": "CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving"
+  },
+  {
+    "id": "2608.24882",
+    "date": "2026-08-27",
+    "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models"
+  },
+  {
+    "id": "2608.24714",
+    "date": "2026-08-27",
+    "title": "GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models"
+  },
+  {
+    "id": "2608.23927",
+    "date": "2026-08-27",
+    "title": "GlanceWAM: Sparse Test-Time Imagination for World-Action Models"
+  },
+  {
+    "id": "2608.24855",
+    "date": "2026-08-27",
+    "title": "LeFlow: Generative Latent Flow Planning for World Models"
+  },
+  {
+    "id": "2608.23720",
+    "date": "2026-08-27",
+    "title": "Platonic Representation Hypothesis on World Models"
+  },
+  {
+    "id": "2608.23863",
+    "date": "2026-08-27",
+    "title": "DreamLedger: Execution-Settled Credit Files for World-Model Imagination in Robot Decision Loops"
+  },
+  {
+    "id": "2608.24042",
+    "date": "2026-08-27",
+    "title": "Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models"
+  },
+  {
+    "id": "2602.18532",
+    "date": "2026-08-27",
+    "title": "VLANeXt: Recipes for Building Strong VLA Models"
+  },
+  {
+    "id": "2608.24101",
+    "date": "2026-08-27",
+    "title": "TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks"
+  },
+  {
+    "id": "2608.23831",
+    "date": "2026-08-27",
+    "title": "Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency"
+  },
+  {
+    "id": "2608.24115",
+    "date": "2026-08-27",
+    "title": "PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control"
+  },
+  {
+    "id": "2608.24603",
+    "date": "2026-08-27",
+    "title": "Gripper-aware Vision Language Action Models"
+  },
+  {
+    "id": "2608.24646",
+    "date": "2026-08-27",
+    "title": "On-Policy Self-Distillation in Diffusion Models"
+  },
+  {
+    "id": "2605.11048",
+    "date": "2026-08-27",
+    "title": "ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching"
+  },
+  {
+    "id": "2608.07265",
+    "date": "2026-08-27",
+    "title": "Finite-Sample Metric Non-Collapse for Geometrically Supervised Latent World Models in Control"
+  },
+  {
+    "id": "2608.24026",
+    "date": "2026-08-27",
+    "title": "NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning"
+  },
+  {
+    "id": "2608.24111",
+    "date": "2026-08-27",
+    "title": "Trajectory-Level Continuous Action Representation for Robotic Manipulation"
+  },
+  {
+    "id": "2308.04079",
+    "date": "2026-08-27",
+    "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+  },
+  {
+    "id": "2608.23664",
+    "date": "2026-08-27",
+    "title": "Scaling Reinforcement Learning for Diffusion Models via Velocity Matching"
   }
 ]
