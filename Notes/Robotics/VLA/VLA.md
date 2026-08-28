@@ -76,6 +76,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/SmolVLA|SmolVLA]]
 - [[Notes/Robotics/VLA/SpikeVLA|SpikeVLA]]
 - [[Notes/Robotics/VLA/StellaVLA|StellaVLA]]
+- [[Notes/Robotics/VLA/StreamPI|StreamPI]]
 - [[Notes/Robotics/VLA/TACO|TACO]]
 - [[Notes/Robotics/VLA/TS-MaskVLA|TS-MaskVLA]]
 - [[Notes/Robotics/VLA/TaskProgressProbe|TaskProgressProbe]]

@@ -113,6 +113,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/WorldDiT|WorldDiT]]
 - [[Notes/Robotics/World Model/WorldModelRoadmap|WorldModelRoadmap]]
 - [[Notes/Robotics/World Model/WorldOlympiad|WorldOlympiad]]
+- [[Notes/Robotics/World Model/Zero-WAM|Zero-WAM]]
 - [[Notes/Robotics/World Model/minWM|minWM]]
 - [[Notes/Robotics/World Model/mu0|mu0]]
 - [[Notes/Robotics/World Model/stable-worldmodel|stable-worldmodel]]
