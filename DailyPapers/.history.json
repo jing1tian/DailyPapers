@@ -2438,5 +2438,155 @@
     "id": "2608.23664",
     "date": "2026-08-27",
     "title": "Scaling Reinforcement Learning for Diffusion Models via Velocity Matching"
+  },
+  {
+    "id": "2608.26067",
+    "date": "2026-08-28",
+    "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.24959",
+    "date": "2026-08-28",
+    "title": "GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model"
+  },
+  {
+    "id": "2608.25864",
+    "date": "2026-08-28",
+    "title": "MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization"
+  },
+  {
+    "id": "2608.25659",
+    "date": "2026-08-28",
+    "title": "GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation"
+  },
+  {
+    "id": "2608.25956",
+    "date": "2026-08-28",
+    "title": "4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting"
+  },
+  {
+    "id": "2512.10226",
+    "date": "2026-08-28",
+    "title": "Latent Chain-of-Thought World Modeling for End-to-End Driving"
+  },
+  {
+    "id": "2608.25308",
+    "date": "2026-08-28",
+    "title": "V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models"
+  },
+  {
+    "id": "2608.25572",
+    "date": "2026-08-28",
+    "title": "ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models"
+  },
+  {
+    "id": "2608.26103",
+    "date": "2026-08-28",
+    "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization"
+  },
+  {
+    "id": "2608.20492",
+    "date": "2026-08-28",
+    "title": "Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs"
+  },
+  {
+    "id": "2608.26058",
+    "date": "2026-08-28",
+    "title": "One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation"
+  },
+  {
+    "id": "2607.26924",
+    "date": "2026-08-28",
+    "title": "Temporally Centered SIGReg Improves LeWorldModel Representations for Robot Policy Learning"
+  },
+  {
+    "id": "2608.25666",
+    "date": "2026-08-28",
+    "title": "PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation"
+  },
+  {
+    "id": "2608.25757",
+    "date": "2026-08-28",
+    "title": "LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation"
+  },
+  {
+    "id": "2608.25998",
+    "date": "2026-08-28",
+    "title": "Uncertainty-Guided Latent Diffusion Models for Faithful Super Resolution"
+  },
+  {
+    "id": "2604.17415",
+    "date": "2026-08-28",
+    "title": "Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models"
+  },
+  {
+    "id": "2608.25163",
+    "date": "2026-08-28",
+    "title": "Bayesian Flow Networks for Offline Trajectory Planning"
+  },
+  {
+    "id": "2608.25428",
+    "date": "2026-08-28",
+    "title": "DCGC: Draft-Conditioned Global Correction for Complex Reasoning with Masked Diffusion Models"
+  },
+  {
+    "id": "2608.25017",
+    "date": "2026-08-28",
+    "title": "Rollout-Decoded Reconstruction for Long-Horizon Prediction in Latent World Models"
+  },
+  {
+    "id": "2608.25192",
+    "date": "2026-08-28",
+    "title": "CRESSim-Neo: A Batched GPU Simulation Engine for Surgical Robotics and Robot Learning"
+  },
+  {
+    "id": "2608.25366",
+    "date": "2026-08-28",
+    "title": "RAEM: Robust Autonomous Exploration for Multi-Floor Environments with a Quadruped Robot"
+  },
+  {
+    "id": "2608.25405",
+    "date": "2026-08-28",
+    "title": "LAC: Linear and Angular Compliance for Humanoid Whole-body Control"
+  },
+  {
+    "id": "2608.25459",
+    "date": "2026-08-28",
+    "title": "Towards safe and optimal flight: Viability Kernel MPC for Fully Actuated Multirotor"
+  },
+  {
+    "id": "2608.25547",
+    "date": "2026-08-28",
+    "title": "A Tendon-Driven Five-Fingered Hand with Distributed Tactile Perception for Dexterous Manipulation"
+  },
+  {
+    "id": "2608.25610",
+    "date": "2026-08-28",
+    "title": "Advantage-Driven Explicit Memory for Social Navigation"
+  },
+  {
+    "id": "2608.25641",
+    "date": "2026-08-28",
+    "title": "Leveraging Inter-object Affordances for Efficient Planning in Contact-rich Tasks"
+  },
+  {
+    "id": "2608.25642",
+    "date": "2026-08-28",
+    "title": "EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation"
+  },
+  {
+    "id": "2608.25798",
+    "date": "2026-08-28",
+    "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback"
+  },
+  {
+    "id": "2608.25799",
+    "date": "2026-08-28",
+    "title": "AGRO-Nav: Autonomous Graph-based Orchard Navigation"
+  },
+  {
+    "id": "2608.25830",
+    "date": "2026-08-28",
+    "title": "Anytime Global Tensor Motion Planning"
   }
 ]
