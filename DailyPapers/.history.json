@@ -2588,5 +2588,95 @@
     "id": "2608.25830",
     "date": "2026-08-28",
     "title": "Anytime Global Tensor Motion Planning"
+  },
+  {
+    "id": "2608.26200",
+    "date": "2026-08-29",
+    "title": "GameWAM: A World Action Model for Video Games"
+  },
+  {
+    "id": "2608.26578",
+    "date": "2026-08-29",
+    "title": "TrapVLA: Trapping Vision-Language-Action Models in Configured Failure Modes"
+  },
+  {
+    "id": "2608.26673",
+    "date": "2026-08-29",
+    "title": "PredVLA: A Sub-Million-Parameter Predictive-Coding Policy for Robot Manipulation"
+  },
+  {
+    "id": "2608.26821",
+    "date": "2026-08-29",
+    "title": "TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation"
+  },
+  {
+    "id": "2608.27033",
+    "date": "2026-08-29",
+    "title": "Riemann-1.0: An Embodied World Action Model for Physical AI"
+  },
+  {
+    "id": "2608.27384",
+    "date": "2026-08-29",
+    "title": "FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference"
+  },
+  {
+    "id": "2608.26239",
+    "date": "2026-08-29",
+    "title": "WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression"
+  },
+  {
+    "id": "2608.27073",
+    "date": "2026-08-29",
+    "title": "SpatialCrafter: Single Image World Modeling with Generative 3D Proxies"
+  },
+  {
+    "id": "2608.26214",
+    "date": "2026-08-29",
+    "title": "Surgical Video Generation From Diffusion to World Models: A Survey"
+  },
+  {
+    "id": "2608.26190",
+    "date": "2026-08-29",
+    "title": "Predicting Consequences and Reinforcing Navigation Policies with Latent World Models"
+  },
+  {
+    "id": "2608.27259",
+    "date": "2026-08-29",
+    "title": "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models"
+  },
+  {
+    "id": "2608.27456",
+    "date": "2026-08-29",
+    "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City"
+  },
+  {
+    "id": "2608.26645",
+    "date": "2026-08-29",
+    "title": "FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation"
+  },
+  {
+    "id": "2608.27079",
+    "date": "2026-08-29",
+    "title": "GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation"
+  },
+  {
+    "id": "2608.27406",
+    "date": "2026-08-29",
+    "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators"
+  },
+  {
+    "id": "2608.27367",
+    "date": "2026-08-29",
+    "title": "Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models"
+  },
+  {
+    "id": "2608.26383",
+    "date": "2026-08-29",
+    "title": "Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots"
+  },
+  {
+    "id": "2608.26476",
+    "date": "2026-08-29",
+    "title": "Zero-Shot Video Restoration and Enhancement with Text-to-Image Latent Diffusion Models and Multi-Modal References"
   }
 ]
