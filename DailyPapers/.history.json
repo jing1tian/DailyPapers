@@ -2678,5 +2678,15 @@
     "id": "2608.26476",
     "date": "2026-08-29",
     "title": "Zero-Shot Video Restoration and Enhancement with Text-to-Image Latent Diffusion Models and Multi-Modal References"
+  },
+  {
+    "id": "2608.25593",
+    "date": "2026-08-31",
+    "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution"
+  },
+  {
+    "id": "2505.13389",
+    "date": "2026-08-31",
+    "title": "Faster Video Diffusion with Trainable Sparse Attention"
   }
 ]
