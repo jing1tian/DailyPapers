@@ -40,6 +40,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Training/RECAP|RECAP]]
 - [[Notes/Concepts/Training/REPA|REPA]]
 - [[Notes/Concepts/Training/RLHF|RLHF]]
+- [[Notes/Concepts/Training/ReFL|ReFL]]
 - [[Notes/Concepts/Training/Reinforcement Learning|Reinforcement Learning]]
 - [[Notes/Concepts/Training/Rejection Sampling|Rejection Sampling]]
 - [[Notes/Concepts/Training/Representation Collapse|Representation Collapse]]

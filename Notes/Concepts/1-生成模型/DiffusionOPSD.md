@@ -20,7 +20,7 @@ $$\mathcal{L}_{OPSD} = \mathbb{E}_{q \sim \pi_\theta}\left[\sum_t \|D_\theta(x_t
 4. On-policy 采样确保学习分布与生成分布一致
 
 ## 代表工作
-- [[On-Policy Self-Distillation in Diffusion Models]] (2608.24646): 原始方法提出
+- [[DiffusionOPSD]] (2608.24646): 原始方法提出（完整笔记见 [[DiffusionOPSD]]）
 
 ## 相关概念
 - [[Diffusion Policy]]
