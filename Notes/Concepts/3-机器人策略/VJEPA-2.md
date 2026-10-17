@@ -20,6 +20,7 @@ $$\hat{z}_{target} = g_\theta(z_{context}, \text{mask})$$
 
 ## 代表工作
 - [[PAVXploreRL]]: 以 VJEPA-2 为骨干构建 PAV 三目标 world model
+- [[VeriVLA]]: 冻结 VJEPA-2 作为潜在世界模型验证器的视觉编码骨干，配合动作条件预测器进行 Delta Progress 估计
 
 ## 相关概念
 - [[JEPA]]

@@ -64,6 +64,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/VLA/World Model|World Model]]
 - [[Notes/Concepts/VLA/WorldVLA|WorldVLA]]
 - [[Notes/Concepts/VLA/X-VLA|X-VLA]]
+- [[Notes/Concepts/VLA/ZR-0|ZR-0]]
 - [[Notes/Concepts/VLA/pi0.5|pi0.5]]
 - [[Notes/Concepts/VLA/π0.5|π0.5]]
 - [[Notes/Concepts/VLA/π0|π0]]

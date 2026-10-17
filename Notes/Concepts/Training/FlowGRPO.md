@@ -22,6 +22,7 @@ $$
 
 ## 代表工作
 - [[MARBLE]]: FlowGRPO 的对比基线
+- [[DiffusionART]]: 将 FlowGRPO 作为基线，在 HunyuanVideo-13B 上以 11.72× 更少 GPU 时间超越其晚期奖励水平
 
 ## 相关概念
 - [[Flow Matching]]

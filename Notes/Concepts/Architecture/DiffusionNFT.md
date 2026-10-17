@@ -23,6 +23,7 @@ $$
 
 ## 代表工作
 - [[MARBLE]]: 在 DiffusionNFT 框架上提出多奖励梯度调和方法
+- [[DiffusionART]]: 诊断 DiffusionNFT 不稳定根源（一致性力 + EMA 复原机制），提出聚合优先引导彻底消除一致性力
 
 ## 相关概念
 - [[Diffusion Model]]
