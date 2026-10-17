@@ -1,24 +1,29 @@
 ---
 type: concept
-aliases: [FR3, Franka Research 3, Franka Emika Research 3, Franka Panda, Panda]
+aliases: [Franka Research 3, FR3, Franka R3, Franka机械臂]
 ---
 
 # Franka Research 3
 
 ## 定义
-Franka Robotics 推出的 7 自由度研究用机械臂，是目前学术界最广泛使用的桌面操作机器人平台，支持力矩控制和灵活末端执行器配置。
+
+由 Franka Robotics 推出的 7 自由度（7-DOF）研究级机械臂，是学术机器人操作研究中最广泛使用的平台之一，以高精度力矩传感和开放控制接口著称。
 
 ## 核心要点
-1. 7 自由度（DOF），工作范围覆盖典型桌面操作场景
-2. 支持关节力矩控制，可实现柔顺控制和力控任务
-3. 常配合腕部摄像头（wrist-mounted camera）进行视觉引导操作
-4. ROS / libfranka 接口，学术使用友好
+
+1. **7 自由度**: 7 个旋转关节，提供灵活的工作空间覆盖和冗余自由度
+2. **力矩传感**: 每个关节内置力矩传感器，支持阻抗控制和接触力感知
+3. **Franka Control Interface (FCI)**: 提供 1 kHz 实时控制接口，支持关节空间和笛卡尔空间控制
+4. **研究定位**: 相比工业机械臂（如 UR5），FR3 专为灵巧操作研究设计，兼顾安全性和可编程性
+5. **广泛基准支持**: 是 [[LIBERO]]、[[LIBERO-Plus]] 等众多机器人操作 benchmark 的参考平台
 
 ## 代表工作
-- [[RoVLA]]: 使用 FR3 + 腕部摄像头进行 5 项真实桌面操作任务评测
-- [[GAF]]: 使用 Franka Panda 机械臂配合 3 个相机（2 静态 + 1 腕部）进行真实世界 55 次操作评测
-- 大量 VLA 真实世界实验的标准平台
+
+- [[TS-WAM]]: 在 Franka Research 3 上测试了 Stack Bowls 和 Drawer-Long 任务，IND 场景成功率 75-85%
+- [[π0.5]]: 同样在 Franka 平台上进行真实机器人评测
+- 众多桌面操作 VLA 论文均使用 FR3 作为评测平台
 
 ## 相关概念
-- [[VLA]]
-- [[机器人操作]]
+
+- [[LIBERO]]: 基于 Franka 的操作 benchmark
+- [[LIBERO-Plus]]: LIBERO 的 OOD 扩展
