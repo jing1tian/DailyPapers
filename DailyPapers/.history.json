@@ -148,5 +148,10 @@
     "id": "2610.17309",
     "date": "2026-10-17",
     "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions"
+  },
+  {
+    "id": "2509.18154",
+    "date": "2026-10-18",
+    "title": "MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and\n  Training Recipe"
   }
 ]
