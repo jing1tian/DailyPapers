@@ -15,6 +15,7 @@ generated_by: dailypaper-skills
 
 ## 当前目录笔记
 
+- [[Notes/Robotics/AgenticRobots-Survey|AgenticRobots-Survey]]
 - [[Notes/Robotics/BISON|BISON]]
 - [[Notes/Robotics/FAWAM|FAWAM]]
 - [[Notes/Robotics/GRAIL|GRAIL]]
