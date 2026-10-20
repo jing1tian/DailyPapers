@@ -19,6 +19,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Training/Cross-Entropy Method|Cross-Entropy Method]]
 - [[Notes/Concepts/Training/DAPO|DAPO]]
 - [[Notes/Concepts/Training/DoRA|DoRA]]
+- [[Notes/Concepts/Training/Drop-and-Rescale|Drop-and-Rescale]]
 - [[Notes/Concepts/Training/EMA|EMA]]
 - [[Notes/Concepts/Training/Epps-Pulley Test|Epps-Pulley Test]]
 - [[Notes/Concepts/Training/Euler Method|Euler Method]]
