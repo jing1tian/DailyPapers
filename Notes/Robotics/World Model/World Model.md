@@ -93,6 +93,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/QWM|QWM]]
 - [[Notes/Robotics/World Model/QwenAgentWorld|QwenAgentWorld]]
 - [[Notes/Robotics/World Model/RISE|RISE]]
+- [[Notes/Robotics/World Model/RealtimeWAM|RealtimeWAM]]
 - [[Notes/Robotics/World Model/RepWAM|RepWAM]]
 - [[Notes/Robotics/World Model/Riemann-1.0|Riemann-1.0]]
 - [[Notes/Robotics/World Model/RoboDream|RoboDream]]

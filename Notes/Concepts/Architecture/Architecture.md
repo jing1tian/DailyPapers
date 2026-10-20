@@ -58,6 +58,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/HY-Pano 2.0|HY-Pano 2.0]]
 - [[Notes/Concepts/Architecture/Hierarchical Memory|Hierarchical Memory]]
 - [[Notes/Concepts/Architecture/Hybrid-Attention Decoder|Hybrid-Attention Decoder]]
+- [[Notes/Concepts/Architecture/Hypernetwork|Hypernetwork]]
 - [[Notes/Concepts/Architecture/I-JEPA|I-JEPA]]
 - [[Notes/Concepts/Architecture/JEPA-2|JEPA-2]]
 - [[Notes/Concepts/Architecture/JEPA|JEPA]]
