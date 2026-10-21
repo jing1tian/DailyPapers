@@ -303,5 +303,155 @@
     "id": "2610.23408",
     "date": "2026-10-20",
     "title": "LithoWorld: An Endpoint World Model for Lithography Process-Window Recovery"
+  },
+  {
+    "id": "2610.26564",
+    "date": "2026-10-21",
+    "title": "PrismWAM: Decoupling State Representations in World Action Models"
+  },
+  {
+    "id": "2610.25763",
+    "date": "2026-10-21",
+    "title": "TrajWAM: An Efficient Trajectory-Guided World Action Model for Dynamic Robotic Manipulation"
+  },
+  {
+    "id": "2610.25961",
+    "date": "2026-10-21",
+    "title": "PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.26584",
+    "date": "2026-10-21",
+    "title": "HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control"
+  },
+  {
+    "id": "2603.24581",
+    "date": "2026-10-21",
+    "title": "Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving"
+  },
+  {
+    "id": "2605.29562",
+    "date": "2026-10-21",
+    "title": "VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.06155",
+    "date": "2026-10-21",
+    "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding"
+  },
+  {
+    "id": "2610.25600",
+    "date": "2026-10-21",
+    "title": "Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation"
+  },
+  {
+    "id": "2610.26813",
+    "date": "2026-10-21",
+    "title": "PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models"
+  },
+  {
+    "id": "2609.22332",
+    "date": "2026-10-21",
+    "title": "AffordanceWAM: Affordance-Aware Joint World-Action Modeling for Robot Manipulation"
+  },
+  {
+    "id": "2605.07306",
+    "date": "2026-10-21",
+    "title": "BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation"
+  },
+  {
+    "id": "2610.23894",
+    "date": "2026-10-21",
+    "title": "Language-Forcing: Advancing Humanoid Loco-Manipulation via Semantic Alignment of Whole-Body World Action Models"
+  },
+  {
+    "id": "2610.24705",
+    "date": "2026-10-21",
+    "title": "Relational Spatial Alignment for Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.24747",
+    "date": "2026-10-21",
+    "title": "EndoVLA-OOV: Language-Conditioned Out-of-View Target Acquisition in Robotic Endoscopy"
+  },
+  {
+    "id": "2610.25981",
+    "date": "2026-10-21",
+    "title": "FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation"
+  },
+  {
+    "id": "2610.26287",
+    "date": "2026-10-21",
+    "title": "Robotic Photography System based on Vision-Language-Action Model"
+  },
+  {
+    "id": "2610.26487",
+    "date": "2026-10-21",
+    "title": "SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.26717",
+    "date": "2026-10-21",
+    "title": "Robot Learning with Vision-Language-Action Models for Agricultural Manipulation"
+  },
+  {
+    "id": "2610.25043",
+    "date": "2026-10-21",
+    "title": "VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse"
+  },
+  {
+    "id": "2610.25734",
+    "date": "2026-10-21",
+    "title": "Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving"
+  },
+  {
+    "id": "2603.17808",
+    "date": "2026-10-21",
+    "title": "EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards"
+  },
+  {
+    "id": "2609.06079",
+    "date": "2026-10-21",
+    "title": "LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies"
+  },
+  {
+    "id": "2610.25690",
+    "date": "2026-10-21",
+    "title": "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation"
+  },
+  {
+    "id": "2610.23880",
+    "date": "2026-10-21",
+    "title": "AutoPruner: Agentic Depth Pruning for Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.23896",
+    "date": "2026-10-21",
+    "title": "InJePA: Intention-First Latent Planning with Coupled JEPA World Models for Visual Navigation"
+  },
+  {
+    "id": "2610.23913",
+    "date": "2026-10-21",
+    "title": "UMI-WM: Interactive World Modeling for Bimanual Manipulation from Wrist Cameras"
+  },
+  {
+    "id": "2610.24285",
+    "date": "2026-10-21",
+    "title": "ACTS: Learning Visuo-Tactile World Models from Human Physical Interaction"
+  },
+  {
+    "id": "2610.24573",
+    "date": "2026-10-21",
+    "title": "Retrieval-triggered Action Projection Adjustment for Frozen VLA Policies: An Empirical Study and Failure Analysis"
+  },
+  {
+    "id": "2610.25874",
+    "date": "2026-10-21",
+    "title": "Vision-Language-Delta-Action: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation"
+  },
+  {
+    "id": "2610.25927",
+    "date": "2026-10-21",
+    "title": "CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA"
   }
 ]
