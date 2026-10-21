@@ -47,6 +47,8 @@ WAM 两大范式的分解：
 - **WAM 力感知**: [[FAWAM]] — 三层次（感知/预测/执行）力信号融合，联合预测动作与力轨迹，在线残差修正，接触密集型操作成功率 85%
 - **Latent Predictive WAM**: [[Omega0]] (ω-0) — 预测紧凑视觉潜变量（而非完整视频帧）作为辅助目标，耦合扩散式全身动作生成，用于并发人形机器人运动-操作，11 任务平均 SR 81.8%
 
+- **WAM 状态解耦**: [[PrismWAM]] — 将 WAM 状态表示解耦为 RGB 语义流（稀疏目标监督）和深度物理流（密集展开），通过 Chain Attention 实现单向信息路由，无动作预训练在随机化场景超越有预训练基线
+
 ## 相关概念
 
 - [[VLA|Vision-Language-Action Model]]
@@ -55,3 +57,5 @@ WAM 两大范式的分解：
 - [[Inverse Dynamics Model]]
 - [[JEPA|Joint-Embedding Predictive Architecture]]
 - [[DiT|Diffusion Transformer]]
+- [[Decoupled Representation]]
+- [[Chain Attention]]
