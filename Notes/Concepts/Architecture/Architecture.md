@@ -143,6 +143,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/累积风险函数|累积风险函数]]
 - [[Notes/Concepts/Architecture/累积风险调度器|累积风险调度器]]
 - [[Notes/Concepts/Architecture/行动感知引导|行动感知引导]]
+- [[Notes/Concepts/Architecture/语言动作接口|语言动作接口]]
 - [[Notes/Concepts/Architecture/闭环控制|闭环控制]]
 
 ## 说明
