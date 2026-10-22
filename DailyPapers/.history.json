@@ -453,5 +453,105 @@
     "id": "2610.25927",
     "date": "2026-10-21",
     "title": "CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA"
+  },
+  {
+    "id": "2608.19085",
+    "date": "2026-10-22",
+    "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models"
+  },
+  {
+    "id": "2610.27851",
+    "date": "2026-10-22",
+    "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions"
+  },
+  {
+    "id": "2610.28613",
+    "date": "2026-10-22",
+    "title": "Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning"
+  },
+  {
+    "id": "2610.27387",
+    "date": "2026-10-22",
+    "title": "Training Controllable World Models via Action Influence Maximization"
+  },
+  {
+    "id": "2610.28122",
+    "date": "2026-10-22",
+    "title": "De-Diffusing WAMs: Action-Sufficient Direct Prediction for Robot Control"
+  },
+  {
+    "id": "2610.18447",
+    "date": "2026-10-22",
+    "title": "Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence"
+  },
+  {
+    "id": "2610.28480",
+    "date": "2026-10-22",
+    "title": "SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model"
+  },
+  {
+    "id": "2610.28074",
+    "date": "2026-10-22",
+    "title": "Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models"
+  },
+  {
+    "id": "2610.28483",
+    "date": "2026-10-22",
+    "title": "Exploring Temporal Context-Aware Physical Grounding in Latent World Models"
+  },
+  {
+    "id": "2610.06814",
+    "date": "2026-10-22",
+    "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models"
+  },
+  {
+    "id": "2610.28109",
+    "date": "2026-10-22",
+    "title": "FIT-MAC: A Closed-Loop Multi-Agent Framework for Robust Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.28019",
+    "date": "2026-10-22",
+    "title": "PACT-VLA: Speculative Action-Chunk Verification with Pre-Commit Observations"
+  },
+  {
+    "id": "2610.28166",
+    "date": "2026-10-22",
+    "title": "Reasoning as a Distribution: Generative Plan Latents for Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.27277",
+    "date": "2026-10-22",
+    "title": "What Would Removing This Corruption Change? Failure Attribution for Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.27861",
+    "date": "2026-10-22",
+    "title": "RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation"
+  },
+  {
+    "id": "2610.27280",
+    "date": "2026-10-22",
+    "title": "VPFlow: Value-Predictive Planning with Imperfect World Models for Offline Goal Reaching"
+  },
+  {
+    "id": "2605.19294",
+    "date": "2026-10-22",
+    "title": "DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs"
+  },
+  {
+    "id": "2606.10180",
+    "date": "2026-10-22",
+    "title": "Flow Control: Steering Vision-Language-Action Models with Simple Real-Time Inputs"
+  },
+  {
+    "id": "2610.27698",
+    "date": "2026-10-22",
+    "title": "VLA-Retain: Benchmarking Cross-Dimension Effects of Vision Tuning in VLAs"
+  },
+  {
+    "id": "2601.07823",
+    "date": "2026-10-22",
+    "title": "Robotic Video World Models: A Survey of Applications, Research Challenges, Future Directions"
   }
 ]
