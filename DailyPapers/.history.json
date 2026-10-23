@@ -553,5 +553,155 @@
     "id": "2601.07823",
     "date": "2026-10-22",
     "title": "Robotic Video World Models: A Survey of Applications, Research Challenges, Future Directions"
+  },
+  {
+    "id": "2610.30136",
+    "date": "2026-10-23",
+    "title": "Agentic World Action Models"
+  },
+  {
+    "id": "2610.29866",
+    "date": "2026-10-23",
+    "title": "GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.30117",
+    "date": "2026-10-23",
+    "title": "CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation"
+  },
+  {
+    "id": "2609.19104",
+    "date": "2026-10-23",
+    "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference"
+  },
+  {
+    "id": "2610.26828",
+    "date": "2026-10-23",
+    "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis"
+  },
+  {
+    "id": "2610.29161",
+    "date": "2026-10-23",
+    "title": "SimPT: An Automated Simulation Framework for Intervention-Based VLA Post-Training"
+  },
+  {
+    "id": "2610.29282",
+    "date": "2026-10-23",
+    "title": "Relational Geometry Forcing for World Action Models"
+  },
+  {
+    "id": "2606.13769",
+    "date": "2026-10-23",
+    "title": "$\\mu_0$: A Scalable 3D Interaction-Trace World Model"
+  },
+  {
+    "id": "2605.15705",
+    "date": "2026-10-23",
+    "title": "Feedback World Model Enables Precise Guidance of Diffusion Policy"
+  },
+  {
+    "id": "2610.29989",
+    "date": "2026-10-23",
+    "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation"
+  },
+  {
+    "id": "2610.29997",
+    "date": "2026-10-23",
+    "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations"
+  },
+  {
+    "id": "2610.29168",
+    "date": "2026-10-23",
+    "title": "How Representational Priors Shape Generalization in World Action Models"
+  },
+  {
+    "id": "2610.29203",
+    "date": "2026-10-23",
+    "title": "NavBind: Diagnosing Instruction-Action Binding at Route Forks in Navigation VLAs"
+  },
+  {
+    "id": "2610.29692",
+    "date": "2026-10-23",
+    "title": "FlowVLA: Learning Flow-Aware Physical Completion for Quantitative Robotic Pouring"
+  },
+  {
+    "id": "2610.29730",
+    "date": "2026-10-23",
+    "title": "Post-hoc Epistemic Uncertainty for Vision-Language-Action Policies"
+  },
+  {
+    "id": "2610.29374",
+    "date": "2026-10-23",
+    "title": "AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting"
+  },
+  {
+    "id": "2606.05737",
+    "date": "2026-10-23",
+    "title": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.29408",
+    "date": "2026-10-23",
+    "title": "LiveAct: Towards Real-Time Multi-Agent World Models with Heterogeneous Action Interfaces"
+  },
+  {
+    "id": "2610.30129",
+    "date": "2026-10-23",
+    "title": "Rethinking Video Autoencoders for Interactive World Models"
+  },
+  {
+    "id": "2610.29435",
+    "date": "2026-10-23",
+    "title": "Events, Not Pixels: Where World Models Get the Return Wrong"
+  },
+  {
+    "id": "2610.29646",
+    "date": "2026-10-23",
+    "title": "From Association to Decision Value: Testing Paired Instruction Dependence for VLA Corpus Selection"
+  },
+  {
+    "id": "2610.20064",
+    "date": "2026-10-23",
+    "title": "FoveaVLA: Foveation Actions Replace the Wrist Camera in VLAs"
+  },
+  {
+    "id": "2609.23650",
+    "date": "2026-10-23",
+    "title": "Beyond Appearance Shifts: Task-Semantic Action Calibration for VLA Models"
+  },
+  {
+    "id": "2610.20538",
+    "date": "2026-10-23",
+    "title": "PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis"
+  },
+  {
+    "id": "2509.24695",
+    "date": "2026-10-23",
+    "title": "SANA-Video: Efficient Video Generation with Block Linear Diffusion\n  Transformer"
+  },
+  {
+    "id": "2610.26851",
+    "date": "2026-10-23",
+    "title": "Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning"
+  },
+  {
+    "id": "2610.29329",
+    "date": "2026-10-23",
+    "title": "Plan First, Act Later: Streaming Reasoning for Executable Memory in Robot Control"
+  },
+  {
+    "id": "2610.29560",
+    "date": "2026-10-23",
+    "title": "From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation"
+  },
+  {
+    "id": "2610.30044",
+    "date": "2026-10-23",
+    "title": "SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation"
+  },
+  {
+    "id": "2610.30097",
+    "date": "2026-10-23",
+    "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation"
   }
 ]

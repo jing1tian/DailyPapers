@@ -28,6 +28,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/VLA/GR00T N1.5|GR00T N1.5]]
 - [[Notes/Concepts/VLA/GR00T-N1|GR00T-N1]]
 - [[Notes/Concepts/VLA/GR00T|GR00T]]
+- [[Notes/Concepts/VLA/GeoPlan Token|GeoPlan Token]]
 - [[Notes/Concepts/VLA/GeoVLA|GeoVLA]]
 - [[Notes/Concepts/VLA/LaRA-VLA|LaRA-VLA]]
 - [[Notes/Concepts/VLA/MM-ACT|MM-ACT]]
