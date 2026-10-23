@@ -18,6 +18,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/ABot-M0.5|ABot-M0.5]]
 - [[Notes/Robotics/World Model/AGRA|AGRA]]
 - [[Notes/Robotics/World Model/AIM|AIM]]
+- [[Notes/Robotics/World Model/AW-0|AW-0]]
 - [[Notes/Robotics/World Model/AdaWAM|AdaWAM]]
 - [[Notes/Robotics/World Model/AlayaWorld|AlayaWorld]]
 - [[Notes/Robotics/World Model/BadWAM|BadWAM]]

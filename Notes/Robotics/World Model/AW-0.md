@@ -295,7 +295,7 @@ $$
   ![Figure 14 start](https://arxiv.org/html/2610.30136v1/figures/skills/stir_contents/f000758_start.jpg)
 
 - **Figure 15** — Skill IV `wipe_surface_back_and_forth`（任务：擦拭桌面）  
-  ![Figure 15 start](https://arxiv.org/html/2610.30136v1/figures/skills/wipe_surface_back_and_forth/f001028_start.jpg)
+  *（图片暂不可访问）*
 
 - **Figure 16** — Skill V `fold_over_and_crease`（任务：折叠衣物并压痕）  
   ![Figure 16 start](https://arxiv.org/html/2610.30136v1/figures/skills/fold_over_and_crease/f000529_start.jpg)
