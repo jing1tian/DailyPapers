@@ -51,6 +51,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/GTA-VLA|GTA-VLA]]
 - [[Notes/Robotics/VLA/GWM-VLA|GWM-VLA]]
 - [[Notes/Robotics/VLA/GaussVLA|GaussVLA]]
+- [[Notes/Robotics/VLA/GeoMem-VLA|GeoMem-VLA]]
 - [[Notes/Robotics/VLA/HAF|HAF]]
 - [[Notes/Robotics/VLA/HiMoE-VLA|HiMoE-VLA]]
 - [[Notes/Robotics/VLA/HyVLA-0.5|HyVLA-0.5]]
