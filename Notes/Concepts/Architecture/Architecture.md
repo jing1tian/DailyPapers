@@ -72,6 +72,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/LingBot-VA|LingBot-VA]]
 - [[Notes/Concepts/Architecture/MAGVIT|MAGVIT]]
 - [[Notes/Concepts/Architecture/MM-DiT|MM-DiT]]
+- [[Notes/Concepts/Architecture/MM-RoPE|MM-RoPE]]
 - [[Notes/Concepts/Architecture/Marble|Marble]]
 - [[Notes/Concepts/Architecture/Memory Module|Memory Module]]
 - [[Notes/Concepts/Architecture/MoE|MoE]]
