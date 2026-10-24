@@ -66,7 +66,7 @@ UniFlowWAM 采用 **三专家 [[MM-DiT|多模态扩散 Transformer]]** 架构：
 
 - **输入上下文**: 语言指令 $\ell$ + 当前观测 $o_t$ + 本体感觉状态 $s_t$，由 [[Qwen3-VL]] (4B) 编码
 - **三个模态专家**:
-  - 动作专家 $a$：动作块 $a_{t:t+H}$，地平线 $H=16$ 步
+  - 动作专家 $a$：[[Action Chunking|动作块]] $a_{t:t+H}$，地平线 $H=16$ 步
   - 流专家 $m$：4D 流潜码，由 [[MotionCrafter 4D VAE|冻结 4D VAE]] 编码
   - 视觉专家 $v$：地平线末帧的冻结 [[DINO|DINOv3]] 特征
 - **联合注意力**: [[Joint Self-Attention]] 让每个专家的查询跨三个专家的键值进行注意力
@@ -77,7 +77,7 @@ UniFlowWAM 采用 **三专家 [[MM-DiT|多模态扩散 Transformer]]** 架构：
 
 #### 模块1: 4D 场景流表示
 
-**设计动机**: 用 [[场景流 (Scene Flow)|3D 场景流]] 代替 2D 光流，提供深度感知的几何信息；[[MotionCrafter 4D VAE]] 压缩高维流场为可去噪潜码。
+**设计动机**: 用 [[场景流|3D 场景流]] 代替 2D 光流，提供深度感知的几何信息；[[MotionCrafter 4D VAE]] 压缩高维流场为可去噪潜码。
 
 **具体实现**:
 - 离线用 Track4World 跟踪器提取伪标签：每帧像素 $u$ 的 3D 点 $P_i(u)$ 和帧间位移 $F_i(u)$
@@ -356,7 +356,7 @@ UniFlowWAM 在相机扰动类别（+20.3 pp vs. 第二名）和噪声类别（+4
 
 ### 方法相关
 
-- [[场景流 (Scene Flow)]]: 核心世界表示
+- [[场景流]]: 核心世界表示
 - [[MM-RoPE]]: 多模态时空位置编码
 - [[Joint Self-Attention]]: 三专家信息交换机制
 - [[Flow Matching]]: 去噪目标函数
