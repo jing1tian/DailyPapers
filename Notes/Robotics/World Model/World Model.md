@@ -115,6 +115,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/TS-WAM|TS-WAM]]
 - [[Notes/Robotics/World Model/Tactile-WAM|Tactile-WAM]]
 - [[Notes/Robotics/World Model/TrajWAM|TrajWAM]]
+- [[Notes/Robotics/World Model/UniFlowWAM|UniFlowWAM]]
 - [[Notes/Robotics/World Model/VT-WAM|VT-WAM]]
 - [[Notes/Robotics/World Model/Vid2WAM|Vid2WAM]]
 - [[Notes/Robotics/World Model/WALL-WM|WALL-WM]]
