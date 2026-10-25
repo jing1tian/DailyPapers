@@ -798,5 +798,10 @@
     "id": "2610.30789",
     "date": "2026-10-24",
     "title": "An Introduction to World Models for Generalist Agents"
+  },
+  {
+    "id": "2610.31623",
+    "date": "2026-10-25",
+    "title": "F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation"
   }
 ]
