@@ -18,6 +18,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/AgenticRobots-Survey|AgenticRobots-Survey]]
 - [[Notes/Robotics/BISON|BISON]]
 - [[Notes/Robotics/FAWAM|FAWAM]]
+- [[Notes/Robotics/GPT6Astra-EmbodiedEval|GPT6Astra-EmbodiedEval]]
 - [[Notes/Robotics/GRAIL|GRAIL]]
 - [[Notes/Robotics/HumanNet|HumanNet]]
 - [[Notes/Robotics/PhysX-Omni|PhysX-Omni]]
