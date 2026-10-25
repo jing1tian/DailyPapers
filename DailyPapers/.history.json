@@ -703,5 +703,105 @@
     "id": "2610.30097",
     "date": "2026-10-23",
     "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation"
+  },
+  {
+    "id": "2610.31423",
+    "date": "2026-10-24",
+    "title": "FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models"
+  },
+  {
+    "id": "2506.01844",
+    "date": "2026-10-24",
+    "title": "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics"
+  },
+  {
+    "id": "2609.17210",
+    "date": "2026-10-24",
+    "title": "FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence"
+  },
+  {
+    "id": "2610.30320",
+    "date": "2026-10-24",
+    "title": "Self-Distilling Future Video Representations for World Action Models"
+  },
+  {
+    "id": "2610.30814",
+    "date": "2026-10-24",
+    "title": "DRILL: Training World Models to Improve Policies, Not Predict Pixels"
+  },
+  {
+    "id": "2610.30732",
+    "date": "2026-10-24",
+    "title": "SmolVLA-MoE: Sparse Mixture-of-Experts for Efficient Multi-Task Robotic Manipulation"
+  },
+  {
+    "id": "2610.30991",
+    "date": "2026-10-24",
+    "title": "UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry"
+  },
+  {
+    "id": "2610.31617",
+    "date": "2026-10-24",
+    "title": "DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor"
+  },
+  {
+    "id": "2610.31194",
+    "date": "2026-10-24",
+    "title": "Inside-JEPA: From Prediction to Relational Grounding in Latent World Models"
+  },
+  {
+    "id": "2610.31670",
+    "date": "2026-10-24",
+    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+  },
+  {
+    "id": "2610.30781",
+    "date": "2026-10-24",
+    "title": "DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models"
+  },
+  {
+    "id": "2610.31427",
+    "date": "2026-10-24",
+    "title": "FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies"
+  },
+  {
+    "id": "2610.31613",
+    "date": "2026-10-24",
+    "title": "Progress Probes P2: Lightweight Runtime Monitoring for Vision-Language-Action Policies"
+  },
+  {
+    "id": "2610.30988",
+    "date": "2026-10-24",
+    "title": "In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garments"
+  },
+  {
+    "id": "2610.31474",
+    "date": "2026-10-24",
+    "title": "Skeleton-Grounded Latent Action Model for Robot World Models"
+  },
+  {
+    "id": "2608.22869",
+    "date": "2026-10-24",
+    "title": "UniMem: Unifying Visual and Textual Memory in VLAs for Non-Markovian Tasks"
+  },
+  {
+    "id": "2610.31166",
+    "date": "2026-10-24",
+    "title": "Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation"
+  },
+  {
+    "id": "2610.30500",
+    "date": "2026-10-24",
+    "title": "PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion"
+  },
+  {
+    "id": "2610.30789",
+    "date": "2026-10-24",
+    "title": "An Introduction to World Models for Generalist Agents"
+  },
+  {
+    "id": "2610.31623",
+    "date": "2026-10-25",
+    "title": "F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation"
   }
 ]
