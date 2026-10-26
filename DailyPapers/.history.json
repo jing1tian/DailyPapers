@@ -803,5 +803,10 @@
     "id": "2610.31623",
     "date": "2026-10-25",
     "title": "F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation"
+  },
+  {
+    "id": "2610.15772",
+    "date": "2026-10-26",
+    "title": "RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution"
   }
 ]
