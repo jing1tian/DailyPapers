@@ -20,8 +20,12 @@ $$\theta_{t+1} = \theta_t - \eta \left( \frac{\hat{m}_t}{\sqrt{\hat{v}_t} + \eps
 
 ## 代表工作
 - Loshchilov & Hutter (2019)：原始 AdamW 论文
+- [[VLA-BF16-UpdateErasure]]: 揭示了 AdamW 在 bf16 权重上（无 fp32 master copy）会静默丢弃 79–99.95% 的更新
 
 ## 相关概念
 - [[Adam]]
 - [[SGD]]
 - [[学习率调度]]
+- [[BFloat16]]: bf16 权重精度限制导致 AdamW 小更新被舍弃
+- [[fp32 master copy]]: 正确混合精度训练的必要组件
+- [[混合精度训练]]
