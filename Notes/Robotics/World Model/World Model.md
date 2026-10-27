@@ -123,6 +123,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/WALL-WM|WALL-WM]]
 - [[Notes/Robotics/World Model/WAM-OPD|WAM-OPD]]
 - [[Notes/Robotics/World Model/WAM-Survey|WAM-Survey]]
+- [[Notes/Robotics/World Model/WAM-TTT|WAM-TTT]]
 - [[Notes/Robotics/World Model/WAM4D|WAM4D]]
 - [[Notes/Robotics/World Model/WAMSurvey|WAMSurvey]]
 - [[Notes/Robotics/World Model/WAMTutorial|WAMTutorial]]

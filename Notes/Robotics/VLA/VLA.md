@@ -60,6 +60,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/LAW|LAW]]
 - [[Notes/Robotics/VLA/LingBot-VLA-2.0|LingBot-VLA-2.0]]
 - [[Notes/Robotics/VLA/LoopVLA|LoopVLA]]
+- [[Notes/Robotics/VLA/MAST-VLA|MAST-VLA]]
 - [[Notes/Robotics/VLA/Mind-VLA|Mind-VLA]]
 - [[Notes/Robotics/VLA/MolmoAct2|MolmoAct2]]
 - [[Notes/Robotics/VLA/MuseVLA|MuseVLA]]
