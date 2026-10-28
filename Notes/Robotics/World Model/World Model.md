@@ -70,6 +70,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/LAWM-3D|LAWM-3D]]
 - [[Notes/Robotics/World Model/LD4WAM|LD4WAM]]
 - [[Notes/Robotics/World Model/LaLa-World|LaLa-World]]
+- [[Notes/Robotics/World Model/LaWAM|LaWAM]]
 - [[Notes/Robotics/World Model/LeWM|LeWM]]
 - [[Notes/Robotics/World Model/LingBot-Video|LingBot-Video]]
 - [[Notes/Robotics/World Model/LingBot-World-Infinity|LingBot-World-Infinity]]
