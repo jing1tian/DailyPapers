@@ -1108,5 +1108,155 @@
     "id": "2610.33650",
     "date": "2026-10-28",
     "title": "TAD: Distilling Vision-Language-Action Policies from Teacher Trajectories Alone"
+  },
+  {
+    "id": "2610.36840",
+    "date": "2026-10-29",
+    "title": "Trace-WAM: Learning to Act via 3D Motion Prediction for World Action Models"
+  },
+  {
+    "id": "2610.37378",
+    "date": "2026-10-29",
+    "title": "VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning"
+  },
+  {
+    "id": "2610.37381",
+    "date": "2026-10-29",
+    "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations"
+  },
+  {
+    "id": "2512.23864",
+    "date": "2026-10-29",
+    "title": "Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation"
+  },
+  {
+    "id": "2605.09410",
+    "date": "2026-10-29",
+    "title": "RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.37518",
+    "date": "2026-10-29",
+    "title": "World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer"
+  },
+  {
+    "id": "2610.37219",
+    "date": "2026-10-29",
+    "title": "Vision-Language-Action or World-Action? Just Action Models"
+  },
+  {
+    "id": "2602.18020",
+    "date": "2026-10-29",
+    "title": "AWARE: Action-Entropy-Weighted and Attention-Guided Retrieval of Observation Evidence for Vision-Language-Action Models"
+  },
+  {
+    "id": "2606.07687",
+    "date": "2026-10-29",
+    "title": "What Makes Video World Model Latents Action-Relevant: Prediction over Reconstruction"
+  },
+  {
+    "id": "2610.36285",
+    "date": "2026-10-29",
+    "title": "ASPEN: Adaptive Semantic Reasoning via Command Persistence Prediction for Efficient Navigation VLAs"
+  },
+  {
+    "id": "2610.36662",
+    "date": "2026-10-29",
+    "title": "SWIM: Learning What Matters from Behaviors for JEPA World Models"
+  },
+  {
+    "id": "2610.37091",
+    "date": "2026-10-29",
+    "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation"
+  },
+  {
+    "id": "2610.37215",
+    "date": "2026-10-29",
+    "title": "Retrieve to Act: Motion Primitive Graph Retrieval for Robust VLA Execution"
+  },
+  {
+    "id": "2510.19818",
+    "date": "2026-10-29",
+    "title": "Semantic World Models"
+  },
+  {
+    "id": "2610.34717",
+    "date": "2026-10-29",
+    "title": "VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware"
+  },
+  {
+    "id": "2602.16444",
+    "date": "2026-10-29",
+    "title": "RoboGene: Diversity-Driven Agentic Task Generation Framework for VLA Pre-training"
+  },
+  {
+    "id": "2610.04933",
+    "date": "2026-10-29",
+    "title": "DiVeR: Decision-Critical Verifier Learning for VLA Test-Time Scaling"
+  },
+  {
+    "id": "2610.36729",
+    "date": "2026-10-29",
+    "title": "Hy-Nomas: Towards Free-form Interactive World Generation"
+  },
+  {
+    "id": "2610.36011",
+    "date": "2026-10-29",
+    "title": "E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling"
+  },
+  {
+    "id": "2610.36068",
+    "date": "2026-10-29",
+    "title": "Rollback: Experience Backtracking in World Models for Policy Improvement"
+  },
+  {
+    "id": "2610.36312",
+    "date": "2026-10-29",
+    "title": "SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation"
+  },
+  {
+    "id": "2610.36791",
+    "date": "2026-10-29",
+    "title": "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions"
+  },
+  {
+    "id": "2610.37170",
+    "date": "2026-10-29",
+    "title": "From 12 to 200 Demonstrations: How ACT, Diffusion Policy, SmolVLA and $\\pi_{0.5}$ Scale on a Low-Cost Arm"
+  },
+  {
+    "id": "2610.37196",
+    "date": "2026-10-29",
+    "title": "How Much Can Best-of-N Help a World Action Model? Measuring Selectable Headroom and Realizing It in Closed Loop"
+  },
+  {
+    "id": "2610.37330",
+    "date": "2026-10-29",
+    "title": "Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer"
+  },
+  {
+    "id": "2610.37666",
+    "date": "2026-10-29",
+    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning"
+  },
+  {
+    "id": "2610.36624",
+    "date": "2026-10-29",
+    "title": "Adapting Video Models for Robot Control via Motion-guided Asymmetric Prediction"
+  },
+  {
+    "id": "2610.36765",
+    "date": "2026-10-29",
+    "title": "Evaluation-Guided Demonstration Refinement for Vision-Language-Action Policies: The Winning Entry in the MetaFine Open Competition"
+  },
+  {
+    "id": "2610.19683",
+    "date": "2026-10-29",
+    "title": "MemWM: Associative Memory-Enhanced Latent World Models for Long-Horizon Planning"
+  },
+  {
+    "id": "2604.23018",
+    "date": "2026-10-29",
+    "title": "AmaraSpatial-10K: A Spatially and Semantically Aligned 3D Dataset for Spatial Computing and Embodied AI"
   }
 ]
