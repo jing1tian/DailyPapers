@@ -63,6 +63,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/HiMem-WAM|HiMem-WAM]]
 - [[Notes/Robotics/World Model/Hydra-0|Hydra-0]]
 - [[Notes/Robotics/World Model/ITC|ITC]]
+- [[Notes/Robotics/World Model/JAM|JAM]]
 - [[Notes/Robotics/World Model/JEPA-WAM|JEPA-WAM]]
 - [[Notes/Robotics/World Model/JOPAT|JOPAT]]
 - [[Notes/Robotics/World Model/Kairos|Kairos]]

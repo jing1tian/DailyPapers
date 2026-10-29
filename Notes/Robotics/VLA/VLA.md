@@ -73,6 +73,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/PhysReflect-VLA|PhysReflect-VLA]]
 - [[Notes/Robotics/VLA/Qwen-RobotManip|Qwen-RobotManip]]
 - [[Notes/Robotics/VLA/RLDX-1|RLDX-1]]
+- [[Notes/Robotics/VLA/RePO-VLA|RePO-VLA]]
 - [[Notes/Robotics/VLA/RoVLA|RoVLA]]
 - [[Notes/Robotics/VLA/S2-VLA|S2-VLA]]
 - [[Notes/Robotics/VLA/SA-VLA|SA-VLA]]
