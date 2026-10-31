@@ -1258,5 +1258,145 @@
     "id": "2604.23018",
     "date": "2026-10-29",
     "title": "AmaraSpatial-10K: A Spatially and Semantically Aligned 3D Dataset for Spatial Computing and Embodied AI"
+  },
+  {
+    "id": "2610.39528",
+    "date": "2026-10-31",
+    "title": "PRIME W0: Physical Priors from World Models for Embodied Manipulation"
+  },
+  {
+    "id": "2610.40373",
+    "date": "2026-10-31",
+    "title": "HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model"
+  },
+  {
+    "id": "2610.39367",
+    "date": "2026-10-31",
+    "title": "Utility-WAM: Correcting Future-Induced Action Changes"
+  },
+  {
+    "id": "2610.40016",
+    "date": "2026-10-31",
+    "title": "LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks"
+  },
+  {
+    "id": "2610.40026",
+    "date": "2026-10-31",
+    "title": "RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence"
+  },
+  {
+    "id": "2609.34982",
+    "date": "2026-10-31",
+    "title": "ActionUNet: Improving Robustness of VLA Models with Efficient Multi-scale Fine-tuning"
+  },
+  {
+    "id": "2607.13429",
+    "date": "2026-10-31",
+    "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment"
+  },
+  {
+    "id": "2610.33966",
+    "date": "2026-10-31",
+    "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants"
+  },
+  {
+    "id": "2610.38661",
+    "date": "2026-10-31",
+    "title": "Quantize by Doing: Task-Guided Mixed-Precision Quantization of Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.39287",
+    "date": "2026-10-31",
+    "title": "OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation"
+  },
+  {
+    "id": "2610.39543",
+    "date": "2026-10-31",
+    "title": "From Reasoning to Action: Consequence-Grounded Alignment for Vision-Language-Action Models"
+  },
+  {
+    "id": "2610.39816",
+    "date": "2026-10-31",
+    "title": "PASA-KV: Attacking Action-Facing Visual Routes in World Action Models"
+  },
+  {
+    "id": "2610.39232",
+    "date": "2026-10-31",
+    "title": "Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling"
+  },
+  {
+    "id": "2608.07267",
+    "date": "2026-10-31",
+    "title": "WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN"
+  },
+  {
+    "id": "2608.23927",
+    "date": "2026-10-31",
+    "title": "GlanceWAM: Sparse Test-Time Imagination for World-Action Models"
+  },
+  {
+    "id": "2610.37891",
+    "date": "2026-10-31",
+    "title": "When More Planning Hurts: Learned Planners for World Models"
+  },
+  {
+    "id": "2610.38000",
+    "date": "2026-10-31",
+    "title": "Self-Labeled Preference Transfer for Steerable Robot Manipulation"
+  },
+  {
+    "id": "2610.38199",
+    "date": "2026-10-31",
+    "title": "Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation"
+  },
+  {
+    "id": "2610.38508",
+    "date": "2026-10-31",
+    "title": "SaiVLA-JEPA: Evaluating Future Latent Prediction in JEPA-Conditioned VLA Control"
+  },
+  {
+    "id": "2610.40002",
+    "date": "2026-10-31",
+    "title": "How Much Should a VLA Trust Its Reasoning? Step-Level Guidance as a Measured Action-Value Function"
+  },
+  {
+    "id": "2610.40349",
+    "date": "2026-10-31",
+    "title": "TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation"
+  },
+  {
+    "id": "2610.40401",
+    "date": "2026-10-31",
+    "title": "Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors"
+  },
+  {
+    "id": "2610.38289",
+    "date": "2026-10-31",
+    "title": "PulmoWorld: An Asynchronous Multimodal Medical World Model for Longitudinal Pneumonia Dynamics"
+  },
+  {
+    "id": "2610.40191",
+    "date": "2026-10-31",
+    "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement"
+  },
+  {
+    "id": "2610.39100",
+    "date": "2026-10-31",
+    "title": "Generating Critic-Guided Synthetic Experience in Latent World Models"
+  },
+  {
+    "id": "2610.38903",
+    "date": "2026-10-31",
+    "title": "Structural-Test Geometry as an Inductive Bias for Partially Observable World Models"
+  },
+  {
+    "id": "2610.37917",
+    "date": "2026-10-31",
+    "title": "What Actually Matters? A Paired Evaluation of Inference Settings for $\\pi_{0.5}$ on BEHAVIOR-1K"
+  },
+  {
+    "id": "2610.39076",
+    "date": "2026-10-31",
+    "title": "Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection"
   }
 ]
