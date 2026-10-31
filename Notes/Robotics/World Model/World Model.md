@@ -54,6 +54,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/GameWAM|GameWAM]]
 - [[Notes/Robotics/World Model/GaussianDream++|GaussianDream++]]
 - [[Notes/Robotics/World Model/GaussianDream|GaussianDream]]
+- [[Notes/Robotics/World Model/GenSight|GenSight]]
 - [[Notes/Robotics/World Model/GeoBoN|GeoBoN]]
 - [[Notes/Robotics/World Model/GeoSem-WAM|GeoSem-WAM]]
 - [[Notes/Robotics/World Model/GigaWorld1|GigaWorld1]]
