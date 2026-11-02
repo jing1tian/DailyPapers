@@ -17,6 +17,7 @@ generated_by: dailypaper-skills
 - [[Notes/DiffusionART|DiffusionART]]
 - [[Notes/DiffusionOPSD|DiffusionOPSD]]
 - [[Notes/Evoke|Evoke]]
+- [[Notes/HyNomas|HyNomas]]
 - [[Notes/SCOPE|SCOPE]]
 - [[Notes/SketchColour|SketchColour]]
 
