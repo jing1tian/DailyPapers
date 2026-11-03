@@ -1398,5 +1398,105 @@
     "id": "2610.39076",
     "date": "2026-10-31",
     "title": "Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection"
+  },
+  {
+    "id": "2610.42096",
+    "date": "2026-11-03",
+    "title": "CausalWAM: Learning the Causes of Actions in World Action Models"
+  },
+  {
+    "id": "2610.40748",
+    "date": "2026-11-03",
+    "title": "WorldBridge: Bridging Video and Action for Task Generalization in World Action Models"
+  },
+  {
+    "id": "2610.41330",
+    "date": "2026-11-03",
+    "title": "Cross-Embodiment Motion Planning by Coupling Body-Agnostic World Model with Differentiable Ego-Dynamics"
+  },
+  {
+    "id": "2609.03602",
+    "date": "2026-11-03",
+    "title": "SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving"
+  },
+  {
+    "id": "2610.41970",
+    "date": "2026-11-03",
+    "title": "When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity"
+  },
+  {
+    "id": "2610.40799",
+    "date": "2026-11-03",
+    "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents"
+  },
+  {
+    "id": "2610.41609",
+    "date": "2026-11-03",
+    "title": "VLA Policies Do Not Know When Not to Act: Unintended Task Execution and Start Suppression"
+  },
+  {
+    "id": "2610.42021",
+    "date": "2026-11-03",
+    "title": "Nexus-VLA: Bridging Human and Robot Experiences via a Shared Hierarchical Semantic Latent Space"
+  },
+  {
+    "id": "2610.41408",
+    "date": "2026-11-03",
+    "title": "SACQ: Structure-Aware Codebook Quantization for Ultra-Low-Bit Vision-Language-Action Models"
+  },
+  {
+    "id": "2603.02083",
+    "date": "2026-11-03",
+    "title": "π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs"
+  },
+  {
+    "id": "2610.03498",
+    "date": "2026-11-03",
+    "title": "Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models"
+  },
+  {
+    "id": "2610.41009",
+    "date": "2026-11-03",
+    "title": "STAR: Steering Action Representations during Inference"
+  },
+  {
+    "id": "2610.42146",
+    "date": "2026-11-03",
+    "title": "Hierarchical World Models with Implicit Dynamics"
+  },
+  {
+    "id": "2610.40935",
+    "date": "2026-11-03",
+    "title": "Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models"
+  },
+  {
+    "id": "2610.41041",
+    "date": "2026-11-03",
+    "title": "Before We Adapt: The Zero-Shot Generalization Bottleneck in Continual World Models"
+  },
+  {
+    "id": "2610.41273",
+    "date": "2026-11-03",
+    "title": "SPT-Flow: One Integration, Many Futures in Continuous-Time World Models"
+  },
+  {
+    "id": "2610.39812",
+    "date": "2026-11-03",
+    "title": "GROME: GROunding Factorized MEmory into Video World Models"
+  },
+  {
+    "id": "2610.40828",
+    "date": "2026-11-03",
+    "title": "From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation"
+  },
+  {
+    "id": "2610.41275",
+    "date": "2026-11-03",
+    "title": "TRACE: Target-State Risk-Aligned Conditional Execution for Embodied Tracking"
+  },
+  {
+    "id": "2610.41688",
+    "date": "2026-11-03",
+    "title": "When the Past Shapes Action: Understanding Embodied Memory"
   }
 ]
