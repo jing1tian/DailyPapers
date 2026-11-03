@@ -25,6 +25,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/CAG|CAG]]
 - [[Notes/Robotics/VLA/CLAP|CLAP]]
 - [[Notes/Robotics/VLA/COAST|COAST]]
+- [[Notes/Robotics/VLA/CaPtain|CaPtain]]
 - [[Notes/Robotics/VLA/CapVector|CapVector]]
 - [[Notes/Robotics/VLA/CoWorld-VLA|CoWorld-VLA]]
 - [[Notes/Robotics/VLA/CofactVLA|CofactVLA]]
