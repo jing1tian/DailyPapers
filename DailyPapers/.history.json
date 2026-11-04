@@ -1498,5 +1498,155 @@
     "id": "2610.41688",
     "date": "2026-11-03",
     "title": "When the Past Shapes Action: Understanding Embodied Memory"
+  },
+  {
+    "id": "2611.01039",
+    "date": "2026-11-04",
+    "title": "pico-WAM: Evaluating Counterfactual Prediction and Planning Error in a Compact World Action Model"
+  },
+  {
+    "id": "2611.01600",
+    "date": "2026-11-04",
+    "title": "SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts"
+  },
+  {
+    "id": "2611.01729",
+    "date": "2026-11-04",
+    "title": "ODE Policy: Robot Learning via Action Dynamics, Not Actions"
+  },
+  {
+    "id": "2611.02777",
+    "date": "2026-11-04",
+    "title": "Beyond Policy Patches: Distilling RL Specialists into Vision-Language-Action Policies"
+  },
+  {
+    "id": "2611.03103",
+    "date": "2026-11-04",
+    "title": "VLALagBench: Understanding When and Why VLA Inference Latency Matters"
+  },
+  {
+    "id": "2611.00394",
+    "date": "2026-11-04",
+    "title": "CalVLA: Shaping Native Confidence in Vision-Language-Action Policies with Outcome Supervision"
+  },
+  {
+    "id": "2611.01713",
+    "date": "2026-11-04",
+    "title": "Route-Guided CBF-QP Repair for Safe Vision-Language-Action Models"
+  },
+  {
+    "id": "2509.05614",
+    "date": "2026-11-04",
+    "title": "SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning"
+  },
+  {
+    "id": "2611.01011",
+    "date": "2026-11-04",
+    "title": "Leap-VLA: High-Rate Robot Control from a Low-Rate VLM Backbone"
+  },
+  {
+    "id": "2611.01677",
+    "date": "2026-11-04",
+    "title": "Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence"
+  },
+  {
+    "id": "2611.00513",
+    "date": "2026-11-04",
+    "title": "WorldSketch: Sketching World Models for Zero-Shot Mobile Manipulation"
+  },
+  {
+    "id": "2611.00522",
+    "date": "2026-11-04",
+    "title": "Behavioral Steering of Vision-Language-Action Models in the Low-Parameter Regime"
+  },
+  {
+    "id": "2611.00612",
+    "date": "2026-11-04",
+    "title": "Roz: A Taste Test for World Model Latents"
+  },
+  {
+    "id": "2611.00896",
+    "date": "2026-11-04",
+    "title": "Verifying Test-State Identity in Paired Evaluation of Vision-Language-Action Models"
+  },
+  {
+    "id": "2611.01390",
+    "date": "2026-11-04",
+    "title": "Same Path, Less Time: Training-Free Fast Execution of Vision-Language-Action Models under Inference Latency"
+  },
+  {
+    "id": "2611.01844",
+    "date": "2026-11-04",
+    "title": "OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining"
+  },
+  {
+    "id": "2611.02600",
+    "date": "2026-11-04",
+    "title": "W2A: Distilling World Priors into Action Models for Real-Time Robotic Control"
+  },
+  {
+    "id": "2611.03163",
+    "date": "2026-11-04",
+    "title": "FineCraft: Enhancing VLA Models for Fine-Grained Manipulation"
+  },
+  {
+    "id": "2611.02076",
+    "date": "2026-11-04",
+    "title": "Scene-Adaptive Readout and Decoding in Diffusion Driving VLAs"
+  },
+  {
+    "id": "2610.06805",
+    "date": "2026-11-04",
+    "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning"
+  },
+  {
+    "id": "2611.00044",
+    "date": "2026-11-04",
+    "title": "SparseWAM: Driving World-Action Models are Worth 16 Register Tokens"
+  },
+  {
+    "id": "2611.00177",
+    "date": "2026-11-04",
+    "title": "AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation in Robot Manipulation"
+  },
+  {
+    "id": "2607.22535",
+    "date": "2026-11-04",
+    "title": "Robot-Factored World Models via Robot Rendering"
+  },
+  {
+    "id": "2611.02102",
+    "date": "2026-11-04",
+    "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale"
+  },
+  {
+    "id": "2611.00615",
+    "date": "2026-11-04",
+    "title": "Learning from an Imitable Teacher: Competition Solution for the MetaFine Challenge"
+  },
+  {
+    "id": "2611.01215",
+    "date": "2026-11-04",
+    "title": "Vision-Language Models Are Joint Denoisers in Robotic Action Generation"
+  },
+  {
+    "id": "2611.01404",
+    "date": "2026-11-04",
+    "title": "Serving Agentic Robot Fleets: Workload Characterization, KV-Cache Thrashing, and Admission Control"
+  },
+  {
+    "id": "2611.02699",
+    "date": "2026-11-04",
+    "title": "Right Ranking, Wrong Scale: Reproducing the Robotic World Model's Dynamics Model and Testing the Uncertainty of Its Follow-up"
+  },
+  {
+    "id": "2611.03428",
+    "date": "2026-11-04",
+    "title": "Toward Uncertainty-Aware, Physics-Grounded Human World Models"
+  },
+  {
+    "id": "2611.03585",
+    "date": "2026-11-04",
+    "title": "Seeing Through the Illusion: Test-Time Scaling for World Action Models"
   }
 ]

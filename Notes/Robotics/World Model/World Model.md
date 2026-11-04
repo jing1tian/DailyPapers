@@ -60,6 +60,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/GeoSem-WAM|GeoSem-WAM]]
 - [[Notes/Robotics/World Model/GigaWorld1|GigaWorld1]]
 - [[Notes/Robotics/World Model/GigaWorldPolicy0.5|GigaWorldPolicy0.5]]
+- [[Notes/Robotics/World Model/H-JEPA|H-JEPA]]
 - [[Notes/Robotics/World Model/HYWorld2|HYWorld2]]
 - [[Notes/Robotics/World Model/HarnessEval-W|HarnessEval-W]]
 - [[Notes/Robotics/World Model/HiMem-WAM|HiMem-WAM]]
@@ -113,6 +114,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/RoboDream|RoboDream]]
 - [[Notes/Robotics/World Model/SANTS|SANTS]]
 - [[Notes/Robotics/World Model/SC3-Eval|SC3-Eval]]
+- [[Notes/Robotics/World Model/SCOUT|SCOUT]]
 - [[Notes/Robotics/World Model/SG-WAM|SG-WAM]]
 - [[Notes/Robotics/World Model/SKIP|SKIP]]
 - [[Notes/Robotics/World Model/SWEET|SWEET]]
@@ -141,9 +143,11 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/WorldDiT|WorldDiT]]
 - [[Notes/Robotics/World Model/WorldModelRoadmap|WorldModelRoadmap]]
 - [[Notes/Robotics/World Model/WorldOlympiad|WorldOlympiad]]
+- [[Notes/Robotics/World Model/XiaomiAutoWM2|XiaomiAutoWM2]]
 - [[Notes/Robotics/World Model/Zero-WAM|Zero-WAM]]
 - [[Notes/Robotics/World Model/minWM|minWM]]
 - [[Notes/Robotics/World Model/mu0|mu0]]
+- [[Notes/Robotics/World Model/pico-WAM|pico-WAM]]
 - [[Notes/Robotics/World Model/stable-worldmodel|stable-worldmodel]]
 
 ## 说明
