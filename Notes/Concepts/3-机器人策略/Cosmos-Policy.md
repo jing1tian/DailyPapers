@@ -1,20 +1,23 @@
 ---
 type: concept
-aliases: [Cosmos 策略]
+aliases: [Cosmos Policy, CosmosPolicy]
 ---
 
-# Cosmos-Policy
+# Cosmos Policy
 
 ## 定义
-NVIDIA Cosmos 视频生成 backbone 扩展的机器人策略框架
+NVIDIA Cosmos 平台的机器人策略组件，将大规模视频世界模型预训练能力迁移到机器人操作策略学习，属于 World Action Model（WAM）架构。
 
 ## 核心要点
-1. Cosmos-Policy 是 机器人策略 领域的重要方法/工具
-2. 详见代表工作
+1. 基于 NVIDIA Cosmos 视频生成模型预训练权重进行策略初始化
+2. 联合生成动作和未来视频帧，属于 WAM 范畴
+3. 是当前主流 WAM benchmark 对比的基线之一
 
 ## 代表工作
-- [[WorldPilot]]: 将 Cosmos Policy 作为冻结 WAM，提取场景演化潜在和预期轨迹通过双路径注入 VLA
+- [[WISE]]: 以 Cosmos Policy 作为 WAM 方法的对比基线
+- NVIDIA Cosmos (2025): 原始工作
 
 ## 相关概念
-- [[WAM（World Action Model）]]: Cosmos Policy 是 WAM 的典型实现
-- [[VLA（视觉-语言-动作模型）]]: Cosmos Policy 扩展了 VLA 框架
+- [[WAM]]
+- [[GR-2]]
+- [[DreamZero]]
