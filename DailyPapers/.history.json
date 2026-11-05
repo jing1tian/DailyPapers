@@ -1648,5 +1648,155 @@
     "id": "2611.03585",
     "date": "2026-11-04",
     "title": "Seeing Through the Illusion: Test-Time Scaling for World Action Models"
+  },
+  {
+    "id": "2611.04527",
+    "date": "2026-11-05",
+    "title": "Future Representation Distillation for Imagination-Free World Action Models"
+  },
+  {
+    "id": "2611.05023",
+    "date": "2026-11-05",
+    "title": "HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models"
+  },
+  {
+    "id": "2611.02782",
+    "date": "2026-11-05",
+    "title": "History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models"
+  },
+  {
+    "id": "2611.04873",
+    "date": "2026-11-05",
+    "title": "Trusting Imagined Futures: Auditing Imagined Rewards for VLA Post-Training"
+  },
+  {
+    "id": "2611.05249",
+    "date": "2026-11-05",
+    "title": "Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs"
+  },
+  {
+    "id": "2611.05062",
+    "date": "2026-11-05",
+    "title": "FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video"
+  },
+  {
+    "id": "2608.19490",
+    "date": "2026-11-05",
+    "title": "Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation"
+  },
+  {
+    "id": "2607.08974",
+    "date": "2026-11-05",
+    "title": "CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding"
+  },
+  {
+    "id": "2611.04016",
+    "date": "2026-11-05",
+    "title": "Physical Experience Builds Continual Spatial World Models"
+  },
+  {
+    "id": "2611.04368",
+    "date": "2026-11-05",
+    "title": "RAFT: Reasoning-Aligned Fine-Tuning Improves Robustness of VLA Post-Training"
+  },
+  {
+    "id": "2611.04870",
+    "date": "2026-11-05",
+    "title": "PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations"
+  },
+  {
+    "id": "2611.04166",
+    "date": "2026-11-05",
+    "title": "Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs"
+  },
+  {
+    "id": "2611.04711",
+    "date": "2026-11-05",
+    "title": "Cycle WAM: Coupling Action and Video through Cycle Consistency"
+  },
+  {
+    "id": "2611.05377",
+    "date": "2026-11-05",
+    "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner"
+  },
+  {
+    "id": "2611.04006",
+    "date": "2026-11-05",
+    "title": "Controlling Action-Head Co-Adaptation to VLM Representation Anisotropy"
+  },
+  {
+    "id": "2611.04391",
+    "date": "2026-11-05",
+    "title": "Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs"
+  },
+  {
+    "id": "2607.20345",
+    "date": "2026-11-05",
+    "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids"
+  },
+  {
+    "id": "2611.03233",
+    "date": "2026-11-05",
+    "title": "Axion 1.0: Open Agent Foundation Models, Simplified"
+  },
+  {
+    "id": "2611.04522",
+    "date": "2026-11-05",
+    "title": "Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots"
+  },
+  {
+    "id": "2611.05072",
+    "date": "2026-11-05",
+    "title": "Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving"
+  },
+  {
+    "id": "2611.05080",
+    "date": "2026-11-05",
+    "title": "CRONOS: Benchmarking Non-Episodic Reinforcement Learning for Robotic Manipulation"
+  },
+  {
+    "id": "2611.05093",
+    "date": "2026-11-05",
+    "title": "LoopQ: Fair, Closed-Loop Evaluation of Quantized Vision-Language-Action Models"
+  },
+  {
+    "id": "2611.05155",
+    "date": "2026-11-05",
+    "title": "Asynchronous Robot Policies"
+  },
+  {
+    "id": "2611.05372",
+    "date": "2026-11-05",
+    "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning"
+  },
+  {
+    "id": "2611.04073",
+    "date": "2026-11-05",
+    "title": "Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials"
+  },
+  {
+    "id": "2611.03815",
+    "date": "2026-11-05",
+    "title": "AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data"
+  },
+  {
+    "id": "2611.04492",
+    "date": "2026-11-05",
+    "title": "Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation"
+  },
+  {
+    "id": "2611.04493",
+    "date": "2026-11-05",
+    "title": "Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation"
+  },
+  {
+    "id": "2611.04839",
+    "date": "2026-11-05",
+    "title": "Coordinating Humanoid Loco-Manipulation through Action-Conditioned Latent Foresight"
+  },
+  {
+    "id": "2611.04972",
+    "date": "2026-11-05",
+    "title": "Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture"
   }
 ]
