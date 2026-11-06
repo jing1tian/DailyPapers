@@ -1798,5 +1798,105 @@
     "id": "2611.04972",
     "date": "2026-11-05",
     "title": "Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture"
+  },
+  {
+    "id": "2611.06447",
+    "date": "2026-11-06",
+    "title": "A³-VLA: Automatic Perception-Guided Attention Alignment for Robot Manipulation"
+  },
+  {
+    "id": "2610.06598",
+    "date": "2026-11-06",
+    "title": "SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models"
+  },
+  {
+    "id": "2606.12109",
+    "date": "2026-11-06",
+    "title": "Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning"
+  },
+  {
+    "id": "2611.05847",
+    "date": "2026-11-06",
+    "title": "Time-to-Goal: Learned Temporal Metrics for Long-Horizon Planning with JEPA World Models"
+  },
+  {
+    "id": "2611.06710",
+    "date": "2026-11-06",
+    "title": "Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs"
+  },
+  {
+    "id": "2611.06901",
+    "date": "2026-11-06",
+    "title": "Motion-guided Contrastive Regularization For Latent World Models"
+  },
+  {
+    "id": "2611.06918",
+    "date": "2026-11-06",
+    "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies"
+  },
+  {
+    "id": "2611.05667",
+    "date": "2026-11-06",
+    "title": "Correct Robots Before They Make Mistakes: Proactive Human-in-the-Loop Intervention via Preference Learning"
+  },
+  {
+    "id": "2611.06653",
+    "date": "2026-11-06",
+    "title": "Detecting Silent Action-Interface Mismatch with Calibrated Relational World Models"
+  },
+  {
+    "id": "2611.06817",
+    "date": "2026-11-06",
+    "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models"
+  },
+  {
+    "id": "2611.05567",
+    "date": "2026-11-06",
+    "title": "MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics"
+  },
+  {
+    "id": "2611.06475",
+    "date": "2026-11-06",
+    "title": "Robocasa-Mem: Benchmarking Environment and Process Memory in Long-Horizon Mobile Manipulation"
+  },
+  {
+    "id": "2611.06913",
+    "date": "2026-11-06",
+    "title": "cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning"
+  },
+  {
+    "id": "2611.05754",
+    "date": "2026-11-06",
+    "title": "GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting"
+  },
+  {
+    "id": "2611.06442",
+    "date": "2026-11-06",
+    "title": "TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics"
+  },
+  {
+    "id": "2611.06020",
+    "date": "2026-11-06",
+    "title": "METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting"
+  },
+  {
+    "id": "2611.06258",
+    "date": "2026-11-06",
+    "title": "CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting"
+  },
+  {
+    "id": "2611.05738",
+    "date": "2026-11-06",
+    "title": "OdorSpaces: Visual-Olfactory Embodied Navigation in 3D Environments"
+  },
+  {
+    "id": "2611.05571",
+    "date": "2026-11-06",
+    "title": "ELA: End-to-End Latent Action Policy Learning from Video Demonstrations"
+  },
+  {
+    "id": "2611.05585",
+    "date": "2026-11-06",
+    "title": "Contact-Implicit Whole-Body Trajectory Optimization for Dynamic Humanoid Locomotion"
   }
 ]
