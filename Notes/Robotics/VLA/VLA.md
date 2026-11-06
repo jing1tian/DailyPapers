@@ -15,6 +15,7 @@ generated_by: dailypaper-skills
 ## 当前目录笔记
 
 - [[Notes/Robotics/VLA/3DThinkVLA|3DThinkVLA]]
+- [[Notes/Robotics/VLA/A3-VLA|A3-VLA]]
 - [[Notes/Robotics/VLA/ABC|ABC]]
 - [[Notes/Robotics/VLA/AHEAD|AHEAD]]
 - [[Notes/Robotics/VLA/AffordanceVLA|AffordanceVLA]]
@@ -58,6 +59,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/HiFOR|HiFOR]]
 - [[Notes/Robotics/VLA/HiMoE-VLA|HiMoE-VLA]]
 - [[Notes/Robotics/VLA/HyVLA-0.5|HyVLA-0.5]]
+- [[Notes/Robotics/VLA/InDex|InDex]]
 - [[Notes/Robotics/VLA/InternVLA-A1.5|InternVLA-A1.5]]
 - [[Notes/Robotics/VLA/LAW|LAW]]
 - [[Notes/Robotics/VLA/LingBot-VLA-2.0|LingBot-VLA-2.0]]
@@ -66,6 +68,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/Mind-VLA|Mind-VLA]]
 - [[Notes/Robotics/VLA/MolmoAct2|MolmoAct2]]
 - [[Notes/Robotics/VLA/MuseVLA|MuseVLA]]
+- [[Notes/Robotics/VLA/NEO-VLA|NEO-VLA]]
 - [[Notes/Robotics/VLA/NestedVLA|NestedVLA]]
 - [[Notes/Robotics/VLA/Omega-QVLA|Omega-QVLA]]
 - [[Notes/Robotics/VLA/OxyGen|OxyGen]]
