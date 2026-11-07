@@ -13,5 +13,8 @@ aliases: [Universal Manipulation Interface]
 2. 配套的策略学习/动作表征设计使采集的数据可直接迁移部署
 3. 常作为"真实世界数据采集效率"维度的对比基线
 
+## 代表工作
+- [[Spatial-UMI-Dream]]: 在 605 小时 UMI RGB-D 数据上预训练的 5B 参数世界动作模型，融合立体度量深度
+
 ## 相关概念
 - [[RT-X]]
