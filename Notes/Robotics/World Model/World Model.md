@@ -76,6 +76,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/LAWA|LAWA]]
 - [[Notes/Robotics/World Model/LAWM-3D|LAWM-3D]]
 - [[Notes/Robotics/World Model/LD4WAM|LD4WAM]]
+- [[Notes/Robotics/World Model/La-JEPA|La-JEPA]]
 - [[Notes/Robotics/World Model/LaLa-World|LaLa-World]]
 - [[Notes/Robotics/World Model/LaWAM|LaWAM]]
 - [[Notes/Robotics/World Model/LeWM|LeWM]]
