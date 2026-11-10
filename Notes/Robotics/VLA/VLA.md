@@ -101,6 +101,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/UVT|UVT]]
 - [[Notes/Robotics/VLA/UniviewVLA|UniviewVLA]]
 - [[Notes/Robotics/VLA/V-VLAPS|V-VLAPS]]
+- [[Notes/Robotics/VLA/VICTR|VICTR]]
 - [[Notes/Robotics/VLA/VLA-Arena|VLA-Arena]]
 - [[Notes/Robotics/VLA/VLA-BF16-UpdateErasure|VLA-BF16-UpdateErasure]]
 - [[Notes/Robotics/VLA/VLA-Delta|VLA-Delta]]

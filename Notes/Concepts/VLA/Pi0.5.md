@@ -18,6 +18,7 @@ Physical Intelligence（物理智能）发布的 Flow Matching 视觉-语言-动
 ## 代表工作
 
 - [[COAST]]: 作为主要测试 VLA 之一，COAST 在 π0.5 上验证了激活引导的有效性（LIBERO-10: 0.43→0.80）
+- [[VICTR]]: 以 π0.5 为策略骨干，通过 [[IC-VFE]] 进度对齐检索实现域外任务上下文学习（OOD 成功率 6.2%→23.8%）
 
 ## 相关概念
 
