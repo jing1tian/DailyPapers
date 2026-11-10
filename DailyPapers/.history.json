@@ -1,5 +1,155 @@
 [
   {
+    "id": "2610.12407",
+    "date": "2026-11-10",
+    "title": "Diffusion-Steering-Based MPC with a JEPA World Action Model"
+  },
+  {
+    "id": "2611.08577",
+    "date": "2026-11-10",
+    "title": "Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation"
+  },
+  {
+    "id": "2611.08698",
+    "date": "2026-11-10",
+    "title": "VICTR: Value-Informed In-Context Learning for Vision-Language-Action Models"
+  },
+  {
+    "id": "2611.08827",
+    "date": "2026-11-10",
+    "title": "ActPrune: Action-Grounded Visual Token Pruning for Efficient Vision-Language-Action Models"
+  },
+  {
+    "id": "2611.08917",
+    "date": "2026-11-10",
+    "title": "PRISM: Primitive Routing via In-context Skill Mixing for Retentive VLA Adaptation"
+  },
+  {
+    "id": "2611.09293",
+    "date": "2026-11-10",
+    "title": "MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning"
+  },
+  {
+    "id": "2611.09684",
+    "date": "2026-11-10",
+    "title": "SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning"
+  },
+  {
+    "id": "2611.09355",
+    "date": "2026-11-10",
+    "title": "HiMEM: Hippocampus-Inspired Memory Consolidation, Pruning, and Composition for Vision-Language-Action Models in 3D Scenes"
+  },
+  {
+    "id": "2611.08895",
+    "date": "2026-11-10",
+    "title": "Localizing and Editing the Goal Representation of a Vision-Language-Action Model"
+  },
+  {
+    "id": "2611.08987",
+    "date": "2026-11-10",
+    "title": "VLA Handover: Failure-Prediction-Based Switching from On-Robot to Server VLA Models"
+  },
+  {
+    "id": "2611.09041",
+    "date": "2026-11-10",
+    "title": "DobotTrack: Target-Grounded Vision-Language-Action Learning for Embodied Person Tracking"
+  },
+  {
+    "id": "2611.09892",
+    "date": "2026-11-10",
+    "title": "On Agentic Manipulation Policies"
+  },
+  {
+    "id": "2611.09625",
+    "date": "2026-11-10",
+    "title": "Encoding Memory in World Models with Test-Time Model-Based Reinforcement Learning"
+  },
+  {
+    "id": "2611.09672",
+    "date": "2026-11-10",
+    "title": "ODEAction: From Predicting Chunks to Evolving Actions"
+  },
+  {
+    "id": "2610.08220",
+    "date": "2026-11-10",
+    "title": "VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation"
+  },
+  {
+    "id": "2611.08576",
+    "date": "2026-11-10",
+    "title": "Q-OIL: Optimistic Exploration in Learning from Human Interventions"
+  },
+  {
+    "id": "2611.09124",
+    "date": "2026-11-10",
+    "title": "Toward the Era of Agentic Embodied Intelligence"
+  },
+  {
+    "id": "2611.09376",
+    "date": "2026-11-10",
+    "title": "Can LLMs Debug Robots by Editing Their Weights?"
+  },
+  {
+    "id": "2604.08410",
+    "date": "2026-11-10",
+    "title": "BLaFA: Bridging Language to 3D Functional Affordances for Dexterous Robotic Grasping in Tool Use"
+  },
+  {
+    "id": "2611.09069",
+    "date": "2026-11-10",
+    "title": "UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models"
+  },
+  {
+    "id": "2605.18190",
+    "date": "2026-11-10",
+    "title": "Dual-Rate Diffusion: Accelerating diffusion models with an interleaved heavy-light network"
+  },
+  {
+    "id": "2611.03958",
+    "date": "2026-11-10",
+    "title": "A Novel Conditional Adversarial Diffusion Model for High-Fidelity OCT-to-OCT Image Translation and Precise Anti-VEGF Therapy Response Prediction in Diabetic Macular Edema"
+  },
+  {
+    "id": "2611.08544",
+    "date": "2026-11-10",
+    "title": "GenStrain: Multi-Conditional Generative Diffusion Model To Synthesize High-quality Motion and Strain Maps From Cardiac Magnetic Resonance Images"
+  },
+  {
+    "id": "2609.32591",
+    "date": "2026-11-10",
+    "title": "Think Fast, Plan Selectively: Adaptive Deliberation for Efficient Data-Driven MPC"
+  },
+  {
+    "id": "2611.08664",
+    "date": "2026-11-10",
+    "title": "ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing"
+  },
+  {
+    "id": "2611.08814",
+    "date": "2026-11-10",
+    "title": "It Takes Two to Tangram: Multi-Agent Object Centric Reinforcement Learning for Assembly"
+  },
+  {
+    "id": "2611.08857",
+    "date": "2026-11-10",
+    "title": "STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards"
+  },
+  {
+    "id": "2611.08872",
+    "date": "2026-11-10",
+    "title": "Lodos: A Lightweight Simulator Designed for Contact-Rich Interactions with Detailed Meshes"
+  },
+  {
+    "id": "2611.08911",
+    "date": "2026-11-10",
+    "title": "Polarization calibration of fisheye cameras using skylight in the wild"
+  },
+  {
+    "id": "2611.08920",
+    "date": "2026-11-10",
+    "title": "HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer"
+  },
+  {
     "id": "2611.04277",
     "date": "2026-11-09",
     "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training"
