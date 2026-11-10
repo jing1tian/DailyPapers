@@ -10,7 +10,7 @@ generated_by: dailypaper-skills
 
 ## 子目录
 
-- [[Notes/Robotics/VLA/VLA|VLA]] · 105 篇笔记 · 1 个子目录
+- [[Notes/Robotics/VLA/VLA|VLA]] · 106 篇笔记 · 1 个子目录
 - [[Notes/Robotics/World Model/World Model|World Model]] · 143 篇笔记 · 1 个子目录
 
 ## 当前目录笔记
