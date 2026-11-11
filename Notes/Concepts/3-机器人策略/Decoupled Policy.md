@@ -27,6 +27,7 @@ $$
 
 ## 代表工作
 - [[PrismWAM]]: 提出基于 RGB（语义）+ 深度（物理）的三阶段解耦策略
+- [[DASH]]: 将 VLA 策略解耦为慢速 VLM（System 2）和快速 DiT 动作头（System 1），通过异步并发实现控制频率与骨干规模无关
 
 ## 相关概念
 - [[Factorized Policy]]
