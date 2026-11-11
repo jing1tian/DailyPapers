@@ -100,6 +100,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/VLA/TaskProgressProbe|TaskProgressProbe]]
 - [[Notes/Robotics/VLA/Tau0-VLA|Tau0-VLA]]
 - [[Notes/Robotics/VLA/TemporalGRPO|TemporalGRPO]]
+- [[Notes/Robotics/VLA/Thermo-VLA|Thermo-VLA]]
 - [[Notes/Robotics/VLA/TurboVLA|TurboVLA]]
 - [[Notes/Robotics/VLA/UVT|UVT]]
 - [[Notes/Robotics/VLA/UniviewVLA|UniviewVLA]]

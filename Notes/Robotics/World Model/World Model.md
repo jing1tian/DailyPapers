@@ -122,6 +122,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/World Model/SCOUT|SCOUT]]
 - [[Notes/Robotics/World Model/SG-WAM|SG-WAM]]
 - [[Notes/Robotics/World Model/SKIP|SKIP]]
+- [[Notes/Robotics/World Model/SWAM|SWAM]]
 - [[Notes/Robotics/World Model/SWEET|SWEET]]
 - [[Notes/Robotics/World Model/SelfWAM|SelfWAM]]
 - [[Notes/Robotics/World Model/SimForcing|SimForcing]]
