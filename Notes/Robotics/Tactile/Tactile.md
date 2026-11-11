@@ -12,6 +12,10 @@ generated_by: dailypaper-skills
 
 - [[Notes/Robotics/Tactile/assets/assets|assets]] · 0 篇笔记 · 0 个子目录
 
+## 当前目录笔记
+
+- [[Notes/Robotics/Tactile/LingBot-Touch|LingBot-Touch]]
+
 ## 说明
 
 - 这个目录页由脚本自动生成。
