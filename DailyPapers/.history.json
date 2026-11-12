@@ -1,5 +1,305 @@
 [
   {
+    "id": "2611.13030",
+    "date": "2026-11-12",
+    "title": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models"
+  },
+  {
+    "id": "2611.14048",
+    "date": "2026-11-12",
+    "title": "LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning"
+  },
+  {
+    "id": "2607.04171",
+    "date": "2026-11-12",
+    "title": "XS-VLA: Teaching Tiny Vision-Language-Action Models with Spatial Supervision and Demonstration Conditioning"
+  },
+  {
+    "id": "2611.14365",
+    "date": "2026-11-12",
+    "title": "From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models"
+  },
+  {
+    "id": "2611.13160",
+    "date": "2026-11-12",
+    "title": "How Much of Your VLA Is kNN"
+  },
+  {
+    "id": "2611.13592",
+    "date": "2026-11-12",
+    "title": "Few-Shot Residual Adaptation of Pretrained Latent World Models"
+  },
+  {
+    "id": "2611.13818",
+    "date": "2026-11-12",
+    "title": "WAM is capable in BEHAVIOR-1K: the 2nd-place solution to the 2026 BEHAVIOR Challenge"
+  },
+  {
+    "id": "2611.14257",
+    "date": "2026-11-12",
+    "title": "Elastic-WAM: Adaptive Spatiotemporal Imagination for Efficient Robot Control"
+  },
+  {
+    "id": "2611.14420",
+    "date": "2026-11-12",
+    "title": "OnlyAct: Extracting Action Representations from Foundation Models for World Models"
+  },
+  {
+    "id": "2611.13113",
+    "date": "2026-11-12",
+    "title": "Building World Models from Intrinsic Motivation"
+  },
+  {
+    "id": "2611.10649",
+    "date": "2026-11-12",
+    "title": "MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations"
+  },
+  {
+    "id": "2611.13229",
+    "date": "2026-11-12",
+    "title": "Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing"
+  },
+  {
+    "id": "2611.14092",
+    "date": "2026-11-12",
+    "title": "DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning"
+  },
+  {
+    "id": "2605.14201",
+    "date": "2026-11-12",
+    "title": "MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving"
+  },
+  {
+    "id": "2611.14419",
+    "date": "2026-11-12",
+    "title": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning"
+  },
+  {
+    "id": "2611.13034",
+    "date": "2026-11-12",
+    "title": "RoboACE: Adversarial Co-Evolution for Robot Self-Improvement"
+  },
+  {
+    "id": "2611.13528",
+    "date": "2026-11-12",
+    "title": "GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM"
+  },
+  {
+    "id": "2611.13810",
+    "date": "2026-11-12",
+    "title": "Camera equalisation of an 11.5x drop in environmental illuminance: four imitation-learning policies on an SO-101 arm"
+  },
+  {
+    "id": "2611.09964",
+    "date": "2026-11-12",
+    "title": "How Many Demonstrations Does a VLA Need? On the Sample Efficiency of VLA Finetuning"
+  },
+  {
+    "id": "2611.13304",
+    "date": "2026-11-12",
+    "title": "DUO: Dual Readouts of Diffusion Models for OOD Detection"
+  },
+  {
+    "id": "2611.13772",
+    "date": "2026-11-12",
+    "title": "RF3DGS: Reflection-Free 3D Gaussian Splatting with Self-Priors"
+  },
+  {
+    "id": "2606.26969",
+    "date": "2026-11-12",
+    "title": "Einstein World Models"
+  },
+  {
+    "id": "2611.14383",
+    "date": "2026-11-12",
+    "title": "An Energy-Based Perspective on Machine Learning"
+  },
+  {
+    "id": "2611.11821",
+    "date": "2026-11-12",
+    "title": "Direct Trajectory Optimization for Inference-Time Alignment of Text-to-Image Diffusion Models"
+  },
+  {
+    "id": "2611.14468",
+    "date": "2026-11-12",
+    "title": "Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model"
+  },
+  {
+    "id": "2512.08991",
+    "date": "2026-11-12",
+    "title": "Action-Guided Reachability for Deterministic World Models of Vision-Based Systems"
+  },
+  {
+    "id": "2610.39568",
+    "date": "2026-11-12",
+    "title": "Diffusion models for the $O(3)$ nonlinear sigma model"
+  },
+  {
+    "id": "2611.10690",
+    "date": "2026-11-12",
+    "title": "JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation"
+  },
+  {
+    "id": "2611.12949",
+    "date": "2026-11-12",
+    "title": "Maze Runner: Autonomous Maze Navigation with Line-Based Localization and Control Barrier Functions"
+  },
+  {
+    "id": "2611.13039",
+    "date": "2026-11-12",
+    "title": "Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks"
+  },
+  {
+    "id": "2611.10872",
+    "date": "2026-11-11",
+    "title": "DreamVLA: From Generated Human Motions to Humanoid Vision-Language-Action Policies"
+  },
+  {
+    "id": "2611.11981",
+    "date": "2026-11-11",
+    "title": "Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation"
+  },
+  {
+    "id": "2611.12806",
+    "date": "2026-11-11",
+    "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation"
+  },
+  {
+    "id": "2611.12870",
+    "date": "2026-11-11",
+    "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment"
+  },
+  {
+    "id": "2611.10967",
+    "date": "2026-11-11",
+    "title": "BAT-WAM: Bridging Action and Touch in World-Action Models for Dexterous Hands"
+  },
+  {
+    "id": "2611.11854",
+    "date": "2026-11-11",
+    "title": "Decoupled Asynchronous System for Humanoids (DASH)"
+  },
+  {
+    "id": "2611.12286",
+    "date": "2026-11-11",
+    "title": "VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation"
+  },
+  {
+    "id": "2611.12676",
+    "date": "2026-11-11",
+    "title": "VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess"
+  },
+  {
+    "id": "2605.10819",
+    "date": "2026-11-11",
+    "title": "ALAM: Algebraically Consistent Latent Action Model for Vision-Language-Action Models"
+  },
+  {
+    "id": "2611.10769",
+    "date": "2026-11-11",
+    "title": "Look Ahead: Search-Driven Reasoning in Embodied AI"
+  },
+  {
+    "id": "2605.25829",
+    "date": "2026-11-11",
+    "title": "OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction"
+  },
+  {
+    "id": "2607.08837",
+    "date": "2026-11-11",
+    "title": "Prompt Driven Exploration: Language as an Exploration Space for VLA RL"
+  },
+  {
+    "id": "2611.10443",
+    "date": "2026-11-11",
+    "title": "SPARK: Spatial Representation Distillation and Knowledge Routing for VLA"
+  },
+  {
+    "id": "2611.11085",
+    "date": "2026-11-11",
+    "title": "ObjectWorld: Scaling Object-Centric World Models with A Large-Scale 3D Full-Object Dataset"
+  },
+  {
+    "id": "2611.11521",
+    "date": "2026-11-11",
+    "title": "K-PWM: Control-Oriented Structured Bilinear World Models under Partial Observation"
+  },
+  {
+    "id": "2611.11688",
+    "date": "2026-11-11",
+    "title": "Streaming Failure Forecasting: VLA Failure Monitors That Keep Learning After Deployment"
+  },
+  {
+    "id": "2611.11780",
+    "date": "2026-11-11",
+    "title": "Planners Exploit Deterministic Error: Dithered Low-Bit World Models"
+  },
+  {
+    "id": "2611.11869",
+    "date": "2026-11-11",
+    "title": "Action Representation for Spatial Generalization in Robot World Models"
+  },
+  {
+    "id": "2611.10316",
+    "date": "2026-11-11",
+    "title": "The World Model Planning Accelerator (WMPA)"
+  },
+  {
+    "id": "2611.12732",
+    "date": "2026-11-11",
+    "title": "Sigma-LeWM: Learning World Models via S-Information for Robot Control"
+  },
+  {
+    "id": "2605.21061",
+    "date": "2026-11-11",
+    "title": "Grounding Driving VLA via Inverse Kinematics"
+  },
+  {
+    "id": "2611.10392",
+    "date": "2026-11-11",
+    "title": "Tiresias: Towards Language-Conditioned World Models"
+  },
+  {
+    "id": "2611.10632",
+    "date": "2026-11-11",
+    "title": "Latent-WAM++: Shaping World and Action Representations for End-to-End Autonomous Driving"
+  },
+  {
+    "id": "2611.11136",
+    "date": "2026-11-11",
+    "title": "From Game Generation to Game Playing"
+  },
+  {
+    "id": "2611.11921",
+    "date": "2026-11-11",
+    "title": "An Evaluation of Tabular Foundation Models as Training-Free World Models"
+  },
+  {
+    "id": "2605.15960",
+    "date": "2026-11-11",
+    "title": "Imperfect World Models are Exploitable"
+  },
+  {
+    "id": "2605.26379",
+    "date": "2026-11-11",
+    "title": "When Does LeJEPA Learn a World Model?"
+  },
+  {
+    "id": "2610.13740",
+    "date": "2026-11-11",
+    "title": "SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices"
+  },
+  {
+    "id": "2611.12886",
+    "date": "2026-11-11",
+    "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation"
+  },
+  {
+    "id": "2611.10771",
+    "date": "2026-11-11",
+    "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence"
+  },
+  {
     "id": "2610.12407",
     "date": "2026-11-10",
     "title": "Diffusion-Steering-Based MPC with a JEPA World Action Model"
@@ -2153,155 +2453,5 @@
     "id": "2610.17309",
     "date": "2026-10-17",
     "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions"
-  },
-  {
-    "id": "2611.10872",
-    "date": "2026-11-11",
-    "title": "DreamVLA: From Generated Human Motions to Humanoid Vision-Language-Action Policies"
-  },
-  {
-    "id": "2611.11981",
-    "date": "2026-11-11",
-    "title": "Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation"
-  },
-  {
-    "id": "2611.12806",
-    "date": "2026-11-11",
-    "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation"
-  },
-  {
-    "id": "2611.12870",
-    "date": "2026-11-11",
-    "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment"
-  },
-  {
-    "id": "2611.10967",
-    "date": "2026-11-11",
-    "title": "BAT-WAM: Bridging Action and Touch in World-Action Models for Dexterous Hands"
-  },
-  {
-    "id": "2611.11854",
-    "date": "2026-11-11",
-    "title": "Decoupled Asynchronous System for Humanoids (DASH)"
-  },
-  {
-    "id": "2611.12286",
-    "date": "2026-11-11",
-    "title": "VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation"
-  },
-  {
-    "id": "2611.12676",
-    "date": "2026-11-11",
-    "title": "VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess"
-  },
-  {
-    "id": "2605.10819",
-    "date": "2026-11-11",
-    "title": "ALAM: Algebraically Consistent Latent Action Model for Vision-Language-Action Models"
-  },
-  {
-    "id": "2611.10769",
-    "date": "2026-11-11",
-    "title": "Look Ahead: Search-Driven Reasoning in Embodied AI"
-  },
-  {
-    "id": "2605.25829",
-    "date": "2026-11-11",
-    "title": "OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction"
-  },
-  {
-    "id": "2607.08837",
-    "date": "2026-11-11",
-    "title": "Prompt Driven Exploration: Language as an Exploration Space for VLA RL"
-  },
-  {
-    "id": "2611.10443",
-    "date": "2026-11-11",
-    "title": "SPARK: Spatial Representation Distillation and Knowledge Routing for VLA"
-  },
-  {
-    "id": "2611.11085",
-    "date": "2026-11-11",
-    "title": "ObjectWorld: Scaling Object-Centric World Models with A Large-Scale 3D Full-Object Dataset"
-  },
-  {
-    "id": "2611.11521",
-    "date": "2026-11-11",
-    "title": "K-PWM: Control-Oriented Structured Bilinear World Models under Partial Observation"
-  },
-  {
-    "id": "2611.11688",
-    "date": "2026-11-11",
-    "title": "Streaming Failure Forecasting: VLA Failure Monitors That Keep Learning After Deployment"
-  },
-  {
-    "id": "2611.11780",
-    "date": "2026-11-11",
-    "title": "Planners Exploit Deterministic Error: Dithered Low-Bit World Models"
-  },
-  {
-    "id": "2611.11869",
-    "date": "2026-11-11",
-    "title": "Action Representation for Spatial Generalization in Robot World Models"
-  },
-  {
-    "id": "2611.10316",
-    "date": "2026-11-11",
-    "title": "The World Model Planning Accelerator (WMPA)"
-  },
-  {
-    "id": "2611.12732",
-    "date": "2026-11-11",
-    "title": "Sigma-LeWM: Learning World Models via S-Information for Robot Control"
-  },
-  {
-    "id": "2605.21061",
-    "date": "2026-11-11",
-    "title": "Grounding Driving VLA via Inverse Kinematics"
-  },
-  {
-    "id": "2611.10392",
-    "date": "2026-11-11",
-    "title": "Tiresias: Towards Language-Conditioned World Models"
-  },
-  {
-    "id": "2611.10632",
-    "date": "2026-11-11",
-    "title": "Latent-WAM++: Shaping World and Action Representations for End-to-End Autonomous Driving"
-  },
-  {
-    "id": "2611.11136",
-    "date": "2026-11-11",
-    "title": "From Game Generation to Game Playing"
-  },
-  {
-    "id": "2611.11921",
-    "date": "2026-11-11",
-    "title": "An Evaluation of Tabular Foundation Models as Training-Free World Models"
-  },
-  {
-    "id": "2605.15960",
-    "date": "2026-11-11",
-    "title": "Imperfect World Models are Exploitable"
-  },
-  {
-    "id": "2605.26379",
-    "date": "2026-11-11",
-    "title": "When Does LeJEPA Learn a World Model?"
-  },
-  {
-    "id": "2610.13740",
-    "date": "2026-11-11",
-    "title": "SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices"
-  },
-  {
-    "id": "2611.12886",
-    "date": "2026-11-11",
-    "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation"
-  },
-  {
-    "id": "2611.10771",
-    "date": "2026-11-11",
-    "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence"
   }
 ]
