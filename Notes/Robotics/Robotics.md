@@ -12,7 +12,7 @@ generated_by: dailypaper-skills
 
 - [[Notes/Robotics/Tactile/Tactile|Tactile]] · 1 篇笔记 · 1 个子目录
 - [[Notes/Robotics/VLA/VLA|VLA]] · 109 篇笔记 · 1 个子目录
-- [[Notes/Robotics/World Model/World Model|World Model]] · 144 篇笔记 · 1 个子目录
+- [[Notes/Robotics/World Model/World Model|World Model]] · 147 篇笔记 · 1 个子目录
 
 ## 当前目录笔记
 
