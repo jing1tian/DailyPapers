@@ -95,6 +95,7 @@ generated_by: dailypaper-skills
 - [[Notes/Concepts/Architecture/PrediMem|PrediMem]]
 - [[Notes/Concepts/Architecture/RDT|RDT]]
 - [[Notes/Concepts/Architecture/RMT|RMT]]
+- [[Notes/Concepts/Architecture/Refinement Demand Field|Refinement Demand Field]]
 - [[Notes/Concepts/Architecture/ResNet|ResNet]]
 - [[Notes/Concepts/Architecture/RoPE|RoPE]]
 - [[Notes/Concepts/Architecture/SMPL|SMPL]]
