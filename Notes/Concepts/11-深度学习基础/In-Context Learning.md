@@ -31,6 +31,7 @@ $$
 - [[Zero-WAM]]: 以人类视频为 ICL prompt，实现机器人零样本操作任务泛化
 - [[In-Context Imitation Learning]]: 将 ICL 扩展到机器人模仿学习
 - [[In-Context Policy Adaptation]]: 策略层面的上下文适应
+- [[RoboScript]]: WICL——ICL + 世界反馈，1 演示 + 仿真排练实现 83.4% 操作成功率
 
 ## 相关概念
 
