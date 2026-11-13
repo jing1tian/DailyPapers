@@ -23,6 +23,7 @@ generated_by: dailypaper-skills
 - [[Notes/Robotics/GRAIL|GRAIL]]
 - [[Notes/Robotics/HumanNet|HumanNet]]
 - [[Notes/Robotics/PhysX-Omni|PhysX-Omni]]
+- [[Notes/Robotics/RoboScript|RoboScript]]
 - [[Notes/Robotics/RobotsNeedMore|RobotsNeedMore]]
 - [[Notes/Robotics/SONIC|SONIC]]
 - [[Notes/Robotics/Zetta|Zetta]]
