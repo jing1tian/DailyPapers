@@ -30,6 +30,7 @@ $$
 ## 代表工作
 
 - [[TrajWAM]]: 视频 token 做自注意力，动作 token 对视频+动作全部 token 做交叉注意力，联合 Flow Matching 训练
+- [[NAVA-WAM]]: 后训练阶段 Video-DiT 仅自注意力，Action-DiT 单向读取视觉 token；使视觉键值对可被缓存，推理时跳过视频生成
 
 ## 相关概念
 
