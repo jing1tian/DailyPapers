@@ -2458,5 +2458,85 @@
     "id": "2611.12885",
     "date": "2026-11-13",
     "title": "World In-Context Learning for Agentic Robot Manipulation"
+  },
+  {
+    "id": "2611.15368",
+    "date": "2026-11-14",
+    "title": "Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models"
+  },
+  {
+    "id": "2610.03391",
+    "date": "2026-11-14",
+    "title": "Native Action-Prior Learning from Videos for World Action Models"
+  },
+  {
+    "id": "2608.07314",
+    "date": "2026-11-14",
+    "title": "TEMPO: Semantic-Action Decoupled RL Post-Training for Vision-Language-Action Models"
+  },
+  {
+    "id": "2611.16589",
+    "date": "2026-11-14",
+    "title": "STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models"
+  },
+  {
+    "id": "2611.14834",
+    "date": "2026-11-14",
+    "title": "Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models"
+  },
+  {
+    "id": "2611.15491",
+    "date": "2026-11-14",
+    "title": "What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation"
+  },
+  {
+    "id": "2611.15082",
+    "date": "2026-11-14",
+    "title": "Prediction or Persistence? What Future-Prediction Scores Miss About World Models"
+  },
+  {
+    "id": "2611.15215",
+    "date": "2026-11-14",
+    "title": "AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention"
+  },
+  {
+    "id": "2611.15011",
+    "date": "2026-11-14",
+    "title": "Fast Inference-Time Policy Refinement via Action-Affine World Models"
+  },
+  {
+    "id": "2611.14969",
+    "date": "2026-11-14",
+    "title": "Scaling VLA Serving Under Robotic Execution Constraints"
+  },
+  {
+    "id": "2611.15117",
+    "date": "2026-11-14",
+    "title": "PolyMorphWBC: Whole-Body Control from End-Effector Trajectories for Quadrupedal Mobile Manipulation across Arm Morphologies with Extended Reach"
+  },
+  {
+    "id": "2611.15937",
+    "date": "2026-11-14",
+    "title": "MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes"
+  },
+  {
+    "id": "2606.03159",
+    "date": "2026-11-14",
+    "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation"
+  },
+  {
+    "id": "2611.14955",
+    "date": "2026-11-14",
+    "title": "The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals"
+  },
+  {
+    "id": "2611.15131",
+    "date": "2026-11-14",
+    "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction"
+  },
+  {
+    "id": "2611.15048",
+    "date": "2026-11-14",
+    "title": "Does Your World Model Know Actions Have Consequences?"
   }
 ]
