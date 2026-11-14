@@ -48,6 +48,8 @@ WAM 两大范式的分解：
 - **Latent Predictive WAM**: [[Omega0]] (ω-0) — 预测紧凑视觉潜变量（而非完整视频帧）作为辅助目标，耦合扩散式全身动作生成，用于并发人形机器人运动-操作，11 任务平均 SR 81.8%
 - **3D 运动辅助监督**: [[TraceWAM]] — 以未来三维点运动（图像位移 + 深度变化）为辅助目标，[[Tri-MoT]] 三分支 MoT 让运动监督塑造动作表征；推理零开销；LIBERO-Plus OOD 84.5%（+18.3% vs Fast-WAM），真实 Piper 机械臂 85.0%
 
+- **WAM 数据扩展与跨模态对齐**: [[SWAM]] — ~47K 小时多源数据（通用视频/Ego/UMI/机器人演示）+ 三级语言-视频-动作对齐，MoT 双流架构（语言仅经视频分支间接传入动作），RoboTwin Hard 61.56%，真实 Hard SR 40.00%
+
 ## 相关概念
 
 - [[VLA|Vision-Language-Action Model]]
